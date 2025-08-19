@@ -1,0 +1,1165 @@
+<modeloDatos>
+  <relacionesGrid />
+  <calculos />
+  <SubRegimenes>
+    <catalogo>
+      <idcatalogo>601</idcatalogo>
+      <descripcion>Régimen General de Ley Personas Morales</descripcion>
+    </catalogo>
+  </SubRegimenes>
+  <ClabesBancarias />
+  <Roles>
+    <catalogo>
+      <idcatalogo>2</idcatalogo>
+      <descripcion>Persona Moral</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>40</idcatalogo>
+      <descripcion>Contacto Gestión (ORG)</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>42</idcatalogo>
+      <descripcion>Organización Venta</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>300051</idcatalogo>
+      <descripcion>PAGADOR PM</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>300055</idcatalogo>
+      <descripcion>CONTRIBUYENTE PM</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>300061</idcatalogo>
+      <descripcion>EMPRESA</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>300066</idcatalogo>
+      <descripcion>CONTR OBL PAGO POR INTERNET PM</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>300477</idcatalogo>
+      <descripcion>SIN ACTIVIDAD PM</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>300734</idcatalogo>
+      <descripcion>CONTRIBUYENTE PM BENEFICIARIO DEL ISR AL INTERIOR DEL PODEBI</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>300735</idcatalogo>
+      <descripcion>CONTRIBUYENTE PM BENEFICIARIO DEL IVA AL INTERIOR DEL PODEBI</descripcion>
+    </catalogo>
+  </Roles>
+  <Obligaciones>
+    <catalogo>
+      <idcatalogo>8</idcatalogo>
+      <descripcion>Entero mensual de retenciones de ISR de ingresos por arrendamiento.</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>9</idcatalogo>
+      <descripcion>Pago definitivo mensual de IVA.</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>24</idcatalogo>
+      <descripcion>declaración informativa anual de retenciones de ISR por arrendamiento de inmuebles</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>26</idcatalogo>
+      <descripcion>declaración informativa anual de retenciones de ISR por sueldos y salarios e ingresos asimilados a salarios</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>27</idcatalogo>
+      <descripcion>Entero de retenciones mensuales de ISR por ingresos asimilados a salarios</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>30</idcatalogo>
+      <descripcion>Declaración informativa de IVA con la anual de ISR</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>44</idcatalogo>
+      <descripcion>Pago provisional mensual de ISR personas morales régimen general</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>46</idcatalogo>
+      <descripcion>Declaración anual de ISR del ejercicio Personas morales.</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>61</idcatalogo>
+      <descripcion>Entero de retención de ISR por servicios profesionales. MENSUAL</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>79</idcatalogo>
+      <descripcion>Entero de retenciones de IVA Mensual</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>203</idcatalogo>
+      <descripcion>Declaración informativa  anual de clientes y proveedores de bienes y servicios. Impuesto sobre la renta.</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>218</idcatalogo>
+      <descripcion>Declaración informativa anual de pagos y retenciones de servicios profesionales. Personas Morales. Impuesto Sobre la Renta</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>579</idcatalogo>
+      <descripcion>Declaración de proveedores de IVA</descripcion>
+    </catalogo>
+    <catalogo>
+      <idcatalogo>597</idcatalogo>
+      <descripcion>Informativa anual del subsidio para el empleo</descripcion>
+    </catalogo>
+  </Obligaciones>
+  <Conceptos>
+    <concepto>0170</concepto>
+  </Conceptos>
+  <navegacion>
+    <grupo idgrupo="557group1" entrogrupo="false" recorriogrupo="false" grupohabilitado="true">
+      <seccion idseccion="557,1" entroseccion="true" seccionhabilitada="true" oculta="false"></seccion>
+      <seccion idseccion="557,2" entroseccion="true" seccionhabilitada="true" oculta="false"></seccion>
+      <seccion idseccion="5573" entroseccion="true" seccionhabilitada="true" oculta="false"></seccion>
+    </grupo>
+  </navegacion>
+  <entidad visibilidad="true" id="3710001" tipo="SAT_DATOS_CONTRIBUYENTE" clave="SAT_DAT_CON" noaplica="false">
+    <propiedad id="10" visible="false" claveinformativa="10" clave="SAT_RFC">NCO070321P98</propiedad>
+    <propiedad id="11" visible="false" claveinformativa="11" clave="SAT_RFC_REP_LEG">AORJ54112186A</propiedad>
+    <propiedad id="12" visible="false" claveinformativa="12" clave="SAT_CUR_REP_LEG">AORJ541121HDFCMR09</propiedad>
+    <propiedad id="13" visible="false" claveinformativa="13" clave="SAT_NOM_DEL_REP_LEG">JORGE ALBERTO</propiedad>
+    <propiedad id="14" visible="false" claveinformativa="14" clave="SAT_APE_PAT_REP_LEG">BRISEÑO</propiedad>
+    <propiedad id="15" visible="false" claveinformativa="15" clave="SAT_APE_MAT_REP_LEG">ZAMORA</propiedad>
+    <propiedad id="16" visible="false" claveinformativa="16" clave="SAT_BO_">846762407020698080019068188056</propiedad>
+    <propiedad id="17" visible="false" claveinformativa="17" clave="SAT_ALS">O-035</propiedad>
+    <propiedad id="18" visible="false" claveinformativa="18" clave="SAT_ADD" />
+    <propiedad id="2" visible="false" claveinformativa="2" clave="SAT_CUR" />
+    <propiedad id="3" visible="false" claveinformativa="3" clave="SAT_NOM" />
+    <propiedad id="3A" visible="false" claveinformativa="3A" clave="SAT_NOM_COM" />
+    <propiedad id="4" visible="false" claveinformativa="4" clave="SAT_APE_PAT" />
+    <propiedad id="5" visible="false" claveinformativa="5" clave="SAT_APE_MAT" />
+    <propiedad id="6" visible="false" claveinformativa="6" clave="SAT_RAZ_SOC">HYGEIA DEL GOLFO</propiedad>
+    <propiedad id="7" visible="false" claveinformativa="7" clave="SAT_TIP_DE_SOC">SC</propiedad>
+    <propiedad id="8" visible="false" claveinformativa="8" clave="SAT_ID_DE_PER" />
+    <propiedad id="9" visible="false" claveinformativa="9" clave="SAT_TIP_DE_PER">M</propiedad>
+    <propiedad id="164" visible="false" claveinformativa="164">MEXICO 2</propiedad>
+    <propiedad id="165" visible="false" claveinformativa="165">182</propiedad>
+    <propiedad id="166" visible="false" claveinformativa="166">Otros trabajos especializados para la construcción</propiedad>
+    <propiedad id="167" visible="false" claveinformativa="167">MEXICO</propiedad>
+    <propiedad id="168" visible="false" claveinformativa="168">37</propiedad>
+    <propiedad id="169" visible="false" claveinformativa="169">HUIXQUILUCAN</propiedad>
+    <propiedad id="170" visible="false" claveinformativa="170">52784</propiedad>
+    <propiedad id="171" visible="false" claveinformativa="171">300734|300735|</propiedad>
+    <propiedad id="172" visible="false" claveinformativa="172">2|40|42|300051|300055|300061|300066|300477|</propiedad>
+    <propiedad id="173" visible="false" claveinformativa="173" />
+    <propiedad id="174" visible="false" claveinformativa="174">601|</propiedad>
+    <propiedad id="175" visible="false" claveinformativa="175">11|15|42|588|702|</propiedad>
+    <propiedad id="176" visible="false" claveinformativa="176">8|9|24|26|27|30|44|46|61|79|203|218|579|597|</propiedad>
+    <propiedad id="6A" visible="false" claveinformativa="61" />
+    <propiedad id="7A" visible="false" claveinformativa="7A" />
+  </entidad>
+  <entidad visibilidad="true" id="3710002" tipo="SAT_DATOS_ACUSE" clave="SAT_DAT_ACU" noaplica="false">
+    <propiedad id="24001" visible="false" claveinformativa="24001" clave="SAT_FEC_DE_PRE_DE_LA_DEC">2025-01-24T15:44:29</propiedad>
+    <propiedad id="24002" visible="false" claveinformativa="24002" clave="SAT_FEC_DE_VEN_DE_LA_LIN_DE_CAP">2024-12-18T06:00:00</propiedad>
+    <propiedad id="24003" visible="false" claveinformativa="24003" clave="SAT_SEL_DIG">iazYHKa2iuU6IDQjjdu3INMFKGSChi0q68CXCO5fDsYJc79NYmBliVFMzPuw+JleNODKwcw3M5BV+ZgLiLdjqVvNWwv6T+rIIAz8NFgGMvhZlFc82ED/cYoQkOc510/J1MNiLibbL6ymSH6kn53KHEWXEbpsi25t0kQF7CXzhLU=</propiedad>
+    <propiedad id="24004" visible="false" claveinformativa="24004" clave="SAT_LIN_DE_CAP"></propiedad>
+    <propiedad id="24005" visible="false" claveinformativa="24005" clave="SAT_LEY_OBL_AP_PAG_POR_INT">4</propiedad>
+    <propiedad id="24006" visible="false" claveinformativa="24006" clave="SAT_NUM_DE_OPE">250900000020</propiedad>
+    <propiedad id="24007" visible="false" claveinformativa="24007" clave="SAT_TOT_AP_PAG">0</propiedad>
+    <propiedad id="24008" visible="false" claveinformativa="24008" clave="SAT_ALS_EN_DON_SE_PRE_LA" />
+    <propiedad id="24009" visible="false" claveinformativa="24009" clave="SAT_ADD" />
+    <propiedad id="24010" visible="false" claveinformativa="24010" clave="SAT_COD_DE_BAR"></propiedad>
+    <propiedad id="24011" visible="false" claveinformativa="24011" clave="SAT_COD"></propiedad>
+    <propiedad id="24012" visible="false" claveinformativa="24012" clave="SAT_CON_COD" />
+    <propiedad id="24013" visible="false" claveinformativa="21013" />
+  </entidad>
+  <entidad visibilidad="true" id="3710003" tipo="SAT_DATOS_GENERALES" clave="SAT_DAT_GEN" noaplica="false">
+    <propiedad id="20" visible="false" claveinformativa="20" clave="SAT_ID_DE_LA_DEC">5202BBA5-954C-46EB-A9D7-AE9DE7F8F1D8</propiedad>
+    <propiedad id="21" visible="false" claveinformativa="21" clave="SAT_VER_DE_LA_REF">1</propiedad>
+    <propiedad id="22" visible="false" claveinformativa="22" clave="SAT_CLA_TIP_DE_COM">0</propiedad>
+    <propiedad id="23" visible="false" claveinformativa="23" clave="SAT_CLA_DEL_PER">011</propiedad>
+    <propiedad id="24" visible="false" claveinformativa="24" clave="SAT_DES_DEL_TIP_DE_DEC">Normal</propiedad>
+    <propiedad id="25" visible="false" claveinformativa="25" clave="SAT_DES_DE_LA_PER">1-Mensual</propiedad>
+    <propiedad id="26" visible="false" claveinformativa="26" clave="SAT_DES_DEL_PER">Noviembre</propiedad>
+    <propiedad id="27" visible="false" claveinformativa="27" clave="SAT_CLA_DE_LA_CLA_DE_DEC">002</propiedad>
+    <propiedad id="28" visible="false" claveinformativa="28" clave="SAT_FEC_DE_VEN_DE_LA_DEC">2024-12-18T06:00:00.000Z</propiedad>
+    <propiedad id="29" visible="false" claveinformativa="29" clave="SAT_FEC_DE_CAU">2024-12-18T06:00:00.000Z</propiedad>
+    <propiedad id="30" visible="false" claveinformativa="30" clave="SAT_EJE">2024</propiedad>
+    <propiedad id="31" visible="false" claveinformativa="31" clave="SAT_CLA_DEL_TIP_DE_DEC">001</propiedad>
+    <propiedad id="32" visible="false" claveinformativa="32" clave="SAT_CLA_DE_PER">M</propiedad>
+    <propiedad id="33" visible="false" claveinformativa="33" clave="SAT_DES_DEL_TIP_DE_COM" />
+    <propiedad id="34" visible="false" claveinformativa="34" clave="SAT_MED_DE_LLE_DE_LA_DEC">E</propiedad>
+    <propiedad id="35" visible="false" claveinformativa="35" clave="SAT_ID_DE_LA_DEC_PAD">00000000-0000-0000-0000-000000000000</propiedad>
+    <propiedad id="36" visible="false" claveinformativa="36" clave="SAT_ID_DE_LA_DEC_RAI">00000000-0000-0000-0000-000000000000</propiedad>
+    <propiedad id="37" visible="false" claveinformativa="37" clave="SAT_MED_DE_PRE_DE_LA_DEC">Internet</propiedad>
+    <propiedad id="38" visible="false" claveinformativa="38" clave="SAT_FEC_CON_DEC">2025-01-24T00:00:00</propiedad>
+    <propiedad id="39" visible="false" claveinformativa="39" clave="SAT_CLA_USU_INI">NCO070321P98</propiedad>
+    <propiedad id="40" visible="false" claveinformativa="40" clave="SAT_CLA_USU_CON">NCO070321P98</propiedad>
+    <propiedad id="41" visible="false" claveinformativa="41" clave="SAT_CLA_DEL_REG_PRE">38</propiedad>
+    <propiedad id="42" visible="false" claveinformativa="42" clave="SAT_DES_DEL_REG_PRE">Declaración ISR Provisionales</propiedad>
+    <propiedad id="43" visible="false" claveinformativa="43" clave="SAT_FIR_DE_LA_DEC">true</propiedad>
+    <propiedad id="44" visible="false" claveinformativa="44" clave="SAT_NUM_DE_SER_CER">30001000000500007666</propiedad>
+    <propiedad id="45" visible="false" claveinformativa="45" clave="SAT_MED_DE_AUT">cpn/uat/contrib/contrasena</propiedad>
+    <propiedad id="46" visible="false" claveinformativa="46" clave="SAT_ADD">Addenda</propiedad>
+    <propiedad id="47" visible="false" claveinformativa="47" clave="SAT_FEC_SIS" />
+    <propiedad id="48" visible="false" claveinformativa="48" clave="SAT_CER"></propiedad>
+    <propiedad id="49" visible="false" claveinformativa="49" clave="SAT_FIR">Q/6AutvOC5KHGewg/GKtwQu28oT43NMNCQNVVuIJMd7HygZUG4wy/ht/Qr+JFyTi4geMMxt6NxMIoBGu8JUU5eyUq6CC9ND1ceHB6c2mQ0AlMiojBlJfPVFagMcOKFrFVjZo63w3Dhp1+GwtdjuIB7UM6DXlgYqlOvKU+uJC171tPb+QnsZdN5EjGJv58ENWScXljfK7naORQcJ1WeI3CI5/LNb8j/YR86jCe4aW/BsBAxeaulhQkCN2DxSSLPYWHUKn8n0u5IBcCgV0b79ke+hKcw3BYsLA6Bf03polKRSz+aErCm0ytv72EoGQsEAKkWBiH5f92HaDyXh1QPqSug==</propiedad>
+    <propiedad id="50" visible="false" claveinformativa="50" clave="SAT_CVE_MED_PRE">WEB</propiedad>
+    <propiedad id="51" visible="false" claveinformativa="51" clave="SAT_ID_ARE_GEO" />
+    <propiedad id="52" visible="false" claveinformativa="52" clave="SAT_DES_ARE_GEO" />
+    <propiedad id="52A" visible="false" claveinformativa="52A" clave="SAT_ARE_GEO_UNI" />
+    <propiedad id="53" visible="false" claveinformativa="53" clave="SAT_SUB_REG" />
+    <propiedad id="54" visible="false" claveinformativa="54" clave="SAT_ID_ANU" />
+    <propiedad id="55" visible="false" claveinformativa="55" clave="SAT_SIN_CAL">0</propiedad>
+    <propiedad id="56" visible="false" claveinformativa="56" clave="SAT_SIM" />
+    <propiedad id="57" visible="false" claveinformativa="57" clave="SAT_CON_PRE">1</propiedad>
+    <propiedad id="58" visible="false" claveinformativa="58" clave="SAT_FUE_LIN">0</propiedad>
+    <propiedad id="62" visible="false" claveinformativa="62" clave="SAT_ENT_FED">15</propiedad>
+    <propiedad id="63" visible="false" claveinformativa="63" clave="SAT_ENT_FED_HIST" />
+    <propiedad id="64" visible="false" claveinformativa="64" clave="SAT_SUB_REG_HIST" />
+    <propiedad id="65" visible="false" claveinformativa="65" clave="SAT_ID_APL">1</propiedad>
+    <propiedad id="66" visible="false" claveinformativa="66" clave="SAT_NOM_APL">ANUAL INTERNET</propiedad>
+    <propiedad id="67" visible="false" claveinformativa="67" clave="SAT_ES_MOV">0</propiedad>
+    <propiedad id="69" visible="false" claveinformativa="69" clave="SAT_ES_PRO" />
+    <propiedad id="70" visible="false" claveinformativa="70" clave="SAT_REC_PRO" />
+    <propiedad id="71" visible="false" claveinformativa="71" clave="SAT_APL_PAG_PAR" />
+    <propiedad id="72" visible="false" claveinformativa="72" clave="SAT_EST_TIE_FOL_AUT_FIR_POR">||NCO070321P98|30001000000500007666|1737755068885|||NCO070321P98|846762407020698080019068188056|||||/||||||18-DIC.-24|0||||</propiedad>
+    <propiedad id="73" visible="false" claveinformativa="73" clave="SAT_FIR_POR">0</propiedad>
+    <propiedad id="74" visible="false" claveinformativa="74" clave="SAT_UTI_FAC" />
+    <propiedad id="81" visible="false" claveinformativa="81" clave="SAT_TIE_PRE_CFDI">0</propiedad>
+    <propiedad id="83" visible="false" claveinformativa="83" clave="SAT_TIE_PRE_PRO">1</propiedad>
+    <propiedad id="84" visible="false" claveinformativa="84" />
+    <propiedad id="87" visible="false" claveinformativa="87" />
+    <propiedad id="88" visible="false" claveinformativa="88" />
+    <propiedad id="89" visible="false" claveinformativa="89" />
+    <propiedad id="90" visible="false" claveinformativa="90" />
+    <propiedad id="91" visible="false" claveinformativa="91" />
+    <propiedad id="92" visible="false" claveinformativa="92" />
+    <propiedad id="145" visible="false" claveinformativa="145" />
+    <propiedad id="139" visible="false" claveinformativa="139" />
+    <propiedad id="144" visible="false" claveinformativa="144" />
+    <propiedad id="157" visible="false" claveinformativa="157" />
+    <propiedad id="86" visible="false" claveinformativa="86" />
+    <propiedad id="93" visible="false" claveinformativa="93" />
+    <propiedad id="161" visible="false" claveinformativa="161" />
+    <propiedad id="162" visible="false" claveinformativa="162">F5F302CEEA20A5A4A027309038CEAF549290653E9416AAD424741DBBEFFD985C</propiedad>
+    <propiedad id="177" visible="false" claveinformativa="177">13</propiedad>
+    <propiedad id="178" visible="false" claveinformativa="178" />
+    <propiedad id="179" visible="false" claveinformativa="179" />
+    <propiedad id="181" visible="false" claveinformativa="181" />
+    <propiedad id="182" visible="false" claveinformativa="182" />
+    <propiedad id="183" visible="false" claveinformativa="183">2025-01-23T06:00:00.000Z</propiedad>
+    <propiedad id="184" visible="false" claveinformativa="184" />
+    <propiedad id="185" visible="false" claveinformativa="185">Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0</propiedad>
+    <propiedad id="186" visible="false" claveinformativa="186">1</propiedad>
+    <propiedad id="187" visible="false" claveinformativa="187" />
+    <propiedad id="188" visible="false" claveinformativa="188">0</propiedad>
+    <propiedad id="189" visible="false" claveinformativa="189">2025-01-16T06:00:00.000Z</propiedad>
+    <propiedad id="DECLA1" visible="false" claveinformativa="DECLA1">false</propiedad>
+    <propiedad id="MOSTING" visible="false" claveinformativa="MOSTING">1</propiedad>
+    <propiedad id="MOSTPROV" visible="false" claveinformativa="MOSTPROV">1</propiedad>
+    <propiedad id="MOSTANUAL" visible="false" claveinformativa="MOSTANUAL">1</propiedad>
+    <propiedad id="MOSTNOM" visible="false" claveinformativa="MOSTNOM">1</propiedad>
+    <propiedad id="204" visible="false" claveinformativa="204" />
+    <propiedad id="205" visible="false" claveinformativa="205" />
+    <propiedad id="206" visible="false" claveinformativa="206" />
+  </entidad>
+  <entidad visibilidad="true" id="3710004" tipo="SAT_DATOS_IDENTIFICACION" clave="SAT_DAT_IDENT" noaplica="false">
+    <propiedad id="ADDRESS4" visible="false" claveinformativa="ADDRESS4" clave="ADDRESS4" />
+    <propiedad id="ALSC" visible="false" claveinformativa="ALSC" clave="ALSC" />
+    <propiedad id="BO_NAME" visible="false" claveinformativa="BO_NAME" clave="BO_NAME" />
+    <propiedad id="BO_NAME_1" visible="false" claveinformativa="BO_NAME_1" clave="BO_NAME_1" />
+    <propiedad id="COUNTY" visible="false" claveinformativa="COUNTY" clave="COUNTY" />
+    <propiedad id="DAT_CTA_TRIB" visible="false" claveinformativa="DAT_CTA_TRIB" clave="DAT_CTA_TRIB" />
+    <propiedad id="DESCR1" visible="false" claveinformativa="DESCR1" clave="DESCR1" />
+    <propiedad id="DESCR2" visible="false" claveinformativa="DESCR2" clave="DESCR2" />
+    <propiedad id="DUE_DATE" visible="false" claveinformativa="DUE_DATE" clave="DUE_DATE" />
+    <propiedad id="DURATION_FREQ" visible="false" claveinformativa="DURATION_FREQ" clave="DURATION_FREQ" />
+    <propiedad id="EMAIL_ADDR" visible="false" claveinformativa="EMAIL_ADDR" clave="EMAIL_ADDR" />
+    <propiedad id="FIRST_NAME" visible="false" claveinformativa="FIRST_NAME" clave="FIRST_NAME" />
+    <propiedad id="FS_STT_PF" visible="false" claveinformativa="FS_STT_PF" clave="FS_STT_PF" />
+    <propiedad id="HOUSE_TYPE" visible="false" claveinformativa="HOUSE_TYPE" clave="HOUSE_TYPE" />
+    <propiedad id="LAST_NAME" visible="false" claveinformativa="LAST_NAME" clave="LAST_NAME" />
+    <propiedad id="PERSON_ID" visible="false" claveinformativa="PERSON_ID" clave="PERSON_ID" />
+    <propiedad id="PHONE" visible="false" claveinformativa="PHONE" clave="PHONE">55-07670276</propiedad>
+    <propiedad id="POSTAL" visible="false" claveinformativa="POSTAL" clave="POSTAL" />
+    <propiedad id="ADDRESS" visible="false" claveinformativa="ADDRESS" clave="SAT_ADDRESS" />
+    <propiedad id="APLIC_CLASIFICADOR" visible="false" claveinformativa="APLIC_CLASIFICADOR" clave="SAT_APLIC_CLASIFICADOR" />
+    <propiedad id="AUTEN_FIEL" visible="false" claveinformativa="AUTEN_FIEL" clave="SAT_AUTEN_FIEL" />
+    <propiedad id="CAUSACION_DT" visible="false" claveinformativa="CAUSACION_DT" clave="SAT_CAUSACION_DT" />
+    <propiedad id="CAUS_DT" visible="false" claveinformativa="CAUS_DT" clave="SAT_CAUS_DT" />
+    <propiedad id="CLASE" visible="false" claveinformativa="CLASE" clave="SAT_CLASE" />
+    <propiedad id="COLONY_CD" visible="false" claveinformativa="COLONY_CD" clave="SAT_COLONY_CD" />
+    <propiedad id="CORP_TYPE" visible="false" claveinformativa="CORP_TYPE" clave="SAT_CORP_TYPE" />
+    <propiedad id="CUENTA_CLABE" visible="false" claveinformativa="CUENTA_CLABE" clave="SAT_CUENTA_CLABE" />
+    <propiedad id="CURP" visible="false" claveinformativa="CURP" clave="SAT_CURP" />
+    <propiedad id="DECLARATN_TYPE" visible="false" claveinformativa="DECLARATN_TYPE" clave="SAT_DECLARATN_TYPE" />
+    <propiedad id="DECLAR_CATEG" visible="false" claveinformativa="DECLAR_CATEG" clave="SAT_DECLAR_CATEG" />
+    <propiedad id="DECLAR_TYPE_CD" visible="false" claveinformativa="DECLAR_TYPE_CD" clave="SAT_DECLAR_TYPE_CD" />
+    <propiedad id="DECLR_CLASS" visible="false" claveinformativa="DECLR_CLASS" clave="SAT_DECLR_CLASS" />
+    <propiedad id="DESCR_DECLARATN_TYPE" visible="false" claveinformativa="DESCR_DECLARATN_TYPE" clave="SAT_DESCR_DECLARATN_TYPE" />
+    <propiedad id="DESCR_DECLAR_CATEG" visible="false" claveinformativa="DESCR_DECLAR_CATEG" clave="SAT_DESCR_DECLAR_CATEG" />
+    <propiedad id="DEVIVA_MAX" visible="false" claveinformativa="DEVIVA_MAX" clave="SAT_DEVIVA_MAX" />
+    <propiedad id="FACILITY_IETU" visible="false" claveinformativa="FACILITY_IETU" clave="SAT_FACILITY_IETU" />
+    <propiedad id="FISCAL_PERIOD" visible="false" claveinformativa="FISCAL_PERIOD" clave="SAT_FISCAL_PERIOD" />
+    <propiedad id="FISCAL_YEAR" visible="false" claveinformativa="FISCAL_YEAR" clave="SAT_FISCAL_YEAR" />
+    <propiedad id="HABIL_PRECARGA" visible="false" claveinformativa="HABIL_PRECARGA" clave="SAT_HABIL_PRECARGA" />
+    <propiedad id="IDENTIFICADOR_LC" visible="false" claveinformativa="IDENTIFICADOR_LC" clave="SAT_IDENTIFICADOR_LC" />
+    <propiedad id="INPCC" visible="false" claveinformativa="INPCC" clave="SAT_INPCC" />
+    <propiedad id="INPCO" visible="false" claveinformativa="INPCO" clave="SAT_INPCO" />
+    <propiedad id="LOAD_DATA" visible="false" claveinformativa="LOAD_DATA" clave="SAT_LOAD_DATA" />
+    <propiedad id="MUNICIPALITY" visible="false" claveinformativa="MUNICIPALITY" clave="SAT_MUNICIPALITY" />
+    <propiedad id="ONLINE" visible="false" claveinformativa="ONLINE" clave="SAT_ONLINE" />
+    <propiedad id="ORIGEN" visible="false" claveinformativa="ORIGEN" clave="SAT_ORIGEN" />
+    <propiedad id="PRSNT_DECLR_DT" visible="false" claveinformativa="PRSNT_DECLR_DT" clave="SAT_PRSNT_DECLR_DT" />
+    <propiedad id="REFERENCE" visible="false" claveinformativa="REFERENCE" clave="SAT_REFERENCE" />
+    <propiedad id="REGROWS" visible="false" claveinformativa="REGROWS" clave="SAT_REGROWS" />
+    <propiedad id="REL_DECLRTN_ID" visible="false" claveinformativa="REL_DECLRTN_ID" clave="SAT_REL_DECLRTN_ID" />
+    <propiedad id="REP_CURP" visible="false" claveinformativa="REP_CURP" clave="SAT_REP_CURP" />
+    <propiedad id="REP_RFC" visible="false" claveinformativa="REP_RFC" clave="SAT_REP_RFC" />
+    <propiedad id="RFC" visible="false" claveinformativa="RFC" clave="SAT_RFC" />
+    <propiedad id="ROL_BUENFIN" visible="false" claveinformativa="ROL_BUENFIN" clave="SAT_ROL_BUENFIN" />
+    <propiedad id="SECOND_LNAME" visible="false" claveinformativa="SECOND_LNAME" clave="SAT_SECOND_LNAME" />
+    <propiedad id="SELLO_FIEL" visible="false" claveinformativa="SELLO_FIEL" clave="SAT_SELLO_FIEL" />
+    <propiedad id="SIMPLIFICADO" visible="false" claveinformativa="SIMPLIFICADO" clave="SAT_SIMPLIFICADO" />
+    <propiedad id="TIPOPERS" visible="false" claveinformativa="TIPOPERS" clave="SAT_TIPOPERS" />
+    <propiedad id="TOWN_CODE" visible="false" claveinformativa="TOWN_CODE" clave="SAT_TOWN_CODE" />
+    <propiedad id="UPD_FORM_ID" visible="false" claveinformativa="UPD_FORM_ID" clave="SAT_UPD_FORM_ID" />
+    <propiedad id="SECOND_LAST_NAME" visible="false" claveinformativa="SECOND_LAST_NAME" clave="SECOND_LAST_NAME" />
+    <propiedad id="STATE" visible="false" claveinformativa="STATE" clave="STATE" />
+    <propiedad id="RIF" visible="false" claveinformativa="RIF" clave="SAT_RIF" />
+    <propiedad id="OPC_PAGO_ISR" visible="false" claveinformativa="OPC_PAGO_ISR" clave="SAT_OPC_PAGO_ISR" />
+    <propiedad id="ORIG_FORM" visible="false" claveinformativa="ORIG_FORM" clave="SAT_ORIG_FORM" />
+    <propiedad id="AISRPF" visible="false" claveinformativa="AISRPF" clave="SAT_AISRPF" />
+    <propiedad id="DECLA_0148" visible="false" claveinformativa="DECLA_0148" clave="SAT_DECLA_0148" />
+    <propiedad id="DECLA_0147" visible="false" claveinformativa="DECLA_0147" clave="SAT_DECLA_0147" />
+    <propiedad id="SAT_12031101A" visible="false" claveinformativa="SAT_12031101A" />
+    <propiedad id="ZEE" visible="false" claveinformativa="ZEE" />
+    <propiedad id="RFN0301" visible="false" claveinformativa="RFN0301" />
+    <propiedad id="RFN0312" visible="false" claveinformativa="RFN0312" />
+    <propiedad id="RFN0309" visible="false" claveinformativa="RFN0309" />
+    <propiedad id="APLICO_PARCIALIDADES" visible="false" claveinformativa="APLICO_PARCIALIDADES">0</propiedad>
+    <propiedad id="FASE2RESICO" visible="false" claveinformativa="FASE2RESICO" />
+    <propiedad id="LIMITEADRS" visible="false" claveinformativa="LIMITEADRS" />
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570001" titulo="Ingresos" titulolargo="Ingresos" tipo="SAT_ANEXOS" clave="SAT_1701000" conceptopago="ISR Personas Morales Régimen General por Actividades económicas productivas en polos de desarrollo" noaplica="false">
+    <propiedad id="PPPMRG01" visible="true" claveinformativa="PPPMRG01">477512575</propiedad>
+    <propiedad id="PPPMRG02" visible="true" claveinformativa="PPPMRG02" etiqueta="No">2</propiedad>
+    <propiedad id="PPPMRG03" visible="false" claveinformativa="PPPMRG03" />
+    <propiedad id="PPPMRG04" visible="true" claveinformativa="PPPMRG04" etiqueta="No">2</propiedad>
+    <propiedad id="PPPMRG05" visible="false" claveinformativa="PPPMRG05" />
+    <propiedad id="PPPMRG06" visible="true" claveinformativa="PPPMRG06">477512575</propiedad>
+    <propiedad id="PPPMRG07" visible="true" claveinformativa="PPPMRG07">471747017</propiedad>
+    <propiedad id="INPA007" visible="true" claveinformativa="INPA007">471747017</propiedad>
+    <propiedad id="PPPMRG08" visible="true" claveinformativa="PPPMRG08">949259592</propiedad>
+    <propiedad id="ETQPPPMRG01" visible="false" claveinformativa="ETQPPPMRG01" />
+    <propiedad id="0170ContIngDis" visible="false" claveinformativa="ContIngDis" />
+    <propiedad id="IND003" visible="false" claveinformativa="IND003">0</propiedad>
+    <propiedad id="0170ContIngNom" visible="false" claveinformativa="ContIngNom" />
+    <propiedad id="INA003" visible="false" claveinformativa="INA003">0</propiedad>
+    <propiedad id="AuxBanderaINPA" visible="false" claveinformativa="AuxBanderaINPA">1</propiedad>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570002" titulo="Ingresos nominales a disminuir" titulolargo="Ingresos nominales a disminuir" tipo="SAT_ANEXOS" clave="SAT_1702000" noaplica="false" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570003" titulo="Ingresos nominales adicionales" titulolargo="Ingresos nominales adicionales" tipo="SAT_ANEXOS" clave="SAT_1703000" noaplica="false" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570004" titulo="Ingresos nominales de periodos anteriores" titulolargo="Ingresos nominales de periodos anteriores" tipo="SAT_ANEXOS" clave="SAT_1704000" noaplica="false" grid="1" numeroelementos="10">
+    <fila identificador="1" orden="1" indice="0">
+      <propiedad visible="true" id="INPA001" claveinformativa="INPA001" etiqueta="Enero">001</propiedad>
+      <propiedad visible="true" id="INPA002" claveinformativa="INPA002" />
+      <propiedad visible="true" id="INPA003" claveinformativa="INPA003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="INPA004" claveinformativa="INPA004" />
+      <propiedad visible="true" id="INPA005" claveinformativa="INPA005" />
+      <propiedad visible="true" id="0170AuxPA" claveinformativa="AuxPA" />
+    </fila>
+    <fila identificador="2" orden="2" indice="1">
+      <propiedad visible="true" id="INPA001" claveinformativa="INPA001" etiqueta="Febrero">002</propiedad>
+      <propiedad visible="true" id="INPA002" claveinformativa="INPA002" />
+      <propiedad visible="true" id="INPA003" claveinformativa="INPA003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="INPA004" claveinformativa="INPA004" />
+      <propiedad visible="true" id="INPA005" claveinformativa="INPA005" />
+      <propiedad visible="true" id="0170AuxPA" claveinformativa="AuxPA" />
+    </fila>
+    <fila identificador="3" orden="3" indice="2">
+      <propiedad visible="true" id="INPA001" claveinformativa="INPA001" etiqueta="Marzo">003</propiedad>
+      <propiedad visible="true" id="INPA002" claveinformativa="INPA002" />
+      <propiedad visible="true" id="INPA003" claveinformativa="INPA003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="INPA004" claveinformativa="INPA004" />
+      <propiedad visible="true" id="INPA005" claveinformativa="INPA005" />
+      <propiedad visible="true" id="0170AuxPA" claveinformativa="AuxPA" />
+    </fila>
+    <fila identificador="4" orden="4" indice="3">
+      <propiedad visible="true" id="INPA001" claveinformativa="INPA001" etiqueta="Abril">004</propiedad>
+      <propiedad visible="true" id="INPA002" claveinformativa="INPA002" />
+      <propiedad visible="true" id="INPA003" claveinformativa="INPA003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="INPA004" claveinformativa="INPA004" />
+      <propiedad visible="true" id="INPA005" claveinformativa="INPA005" />
+      <propiedad visible="true" id="0170AuxPA" claveinformativa="AuxPA" />
+    </fila>
+    <fila identificador="5" orden="5" indice="4">
+      <propiedad visible="true" id="INPA001" claveinformativa="INPA001" etiqueta="Mayo">005</propiedad>
+      <propiedad visible="true" id="INPA002" claveinformativa="INPA002" />
+      <propiedad visible="true" id="INPA003" claveinformativa="INPA003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="INPA004" claveinformativa="INPA004" />
+      <propiedad visible="true" id="INPA005" claveinformativa="INPA005" />
+      <propiedad visible="true" id="0170AuxPA" claveinformativa="AuxPA" />
+    </fila>
+    <fila identificador="6" orden="6" indice="5">
+      <propiedad visible="true" id="INPA001" claveinformativa="INPA001" etiqueta="Junio">006</propiedad>
+      <propiedad visible="true" id="INPA002" claveinformativa="INPA002" />
+      <propiedad visible="true" id="INPA003" claveinformativa="INPA003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="INPA004" claveinformativa="INPA004" />
+      <propiedad visible="true" id="INPA005" claveinformativa="INPA005" />
+      <propiedad visible="true" id="0170AuxPA" claveinformativa="AuxPA" />
+    </fila>
+    <fila identificador="7" orden="7" indice="6">
+      <propiedad visible="true" id="INPA001" claveinformativa="INPA001" etiqueta="Julio">007</propiedad>
+      <propiedad visible="true" id="INPA002" claveinformativa="INPA002" />
+      <propiedad visible="true" id="INPA003" claveinformativa="INPA003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="INPA004" claveinformativa="INPA004" />
+      <propiedad visible="true" id="INPA005" claveinformativa="INPA005" />
+      <propiedad visible="true" id="0170AuxPA" claveinformativa="AuxPA" />
+    </fila>
+    <fila identificador="8" orden="8" indice="7">
+      <propiedad visible="true" id="INPA001" claveinformativa="INPA001" etiqueta="Agosto">008</propiedad>
+      <propiedad visible="true" id="INPA002" claveinformativa="INPA002" />
+      <propiedad visible="true" id="INPA003" claveinformativa="INPA003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="INPA004" claveinformativa="INPA004" />
+      <propiedad visible="true" id="INPA005" claveinformativa="INPA005" />
+      <propiedad visible="true" id="0170AuxPA" claveinformativa="AuxPA" />
+    </fila>
+    <fila identificador="9" orden="9" indice="8">
+      <propiedad visible="true" id="INPA001" claveinformativa="INPA001" etiqueta="Septiembre">009</propiedad>
+      <propiedad visible="true" id="INPA002" claveinformativa="INPA002" />
+      <propiedad visible="true" id="INPA003" claveinformativa="INPA003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="INPA004" claveinformativa="INPA004" />
+      <propiedad visible="true" id="INPA005" claveinformativa="INPA005" />
+      <propiedad visible="true" id="0170AuxPA" claveinformativa="AuxPA" />
+    </fila>
+    <fila identificador="10" orden="10" indice="9">
+      <propiedad visible="true" id="INPA001" claveinformativa="INPA001" etiqueta="Octubre">010</propiedad>
+      <propiedad visible="true" id="INPA002" claveinformativa="INPA002">471747017</propiedad>
+      <propiedad visible="true" id="INPA003" claveinformativa="INPA003" etiqueta="Presentada-Pago en cero">ED04</propiedad>
+      <propiedad visible="true" id="INPA004" claveinformativa="INPA004">250740000006</propiedad>
+      <propiedad visible="true" id="INPA005" claveinformativa="INPA005">2025-01-17T06:00:00.000Z</propiedad>
+      <propiedad visible="true" id="0170AuxPA" claveinformativa="AuxPA" />
+    </fila>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570005" titulo="Determinación" titulolargo="Determinación" tipo="SAT_DETERMINACION_IMPUESTO" clave="SAT_1705000" noaplica="false">
+    <propiedad id="PPPMRG09" visible="true" claveinformativa="PPPMRG09">949259592</propiedad>
+    <propiedad id="PPPMRG10" visible="true" claveinformativa="PPPMRG10">0.5</propiedad>
+    <propiedad id="PPPMRG11" visible="true" claveinformativa="PPPMRG11" etiqueta="No">2</propiedad>
+    <propiedad id="PPPMRG12" visible="false" claveinformativa="PPPMRG12" />
+    <propiedad id="PPPMRG13" visible="true" claveinformativa="PPPMRG13">474629796</propiedad>
+    <propiedad id="PPPMRG14" visible="true" claveinformativa="PPPMRG14">0</propiedad>
+    <propiedad id="PPPMRG15" visible="true" claveinformativa="PPPMRG15">0</propiedad>
+    <propiedad id="PPPMRG16" visible="true" claveinformativa="PPPMRG16" etiqueta="Sí">1</propiedad>
+    <propiedad id="PPPMRG61" visible="false" claveinformativa="PPPMRG61" />
+    <propiedad id="PPPMRG17" visible="true" claveinformativa="PPPMRG17">0</propiedad>
+    <propiedad id="PPPMRG18" visible="true" claveinformativa="PPPMRG18">474629796</propiedad>
+    <propiedad id="PPPMRG19" visible="true" claveinformativa="PPPMRG19">142388939</propiedad>
+    <propiedad id="PPPMRG22" visible="false" claveinformativa="PPPMRG22" etiqueta="Selecciona">P0</propiedad>
+    <propiedad id="PPPMRG23" visible="false" claveinformativa="PPPMRG23">0</propiedad>
+    <propiedad id="PPPMRG24" visible="false" claveinformativa="PPPMRG24" etiqueta="Selecciona">0</propiedad>
+    <propiedad id="PPPMRG25" visible="false" claveinformativa="PPPMRG25">0</propiedad>
+    <propiedad id="PPPMRG26" visible="true" claveinformativa="PPPMRG26">142388939</propiedad>
+    <propiedad id="PPPMRG29" visible="false" claveinformativa="PPPMRG29">0</propiedad>
+    <propiedad id="PPPMRG30" visible="true" claveinformativa="PPPMRG30">0</propiedad>
+    <propiedad id="PPPMRG31" visible="true" claveinformativa="PPPMRG31">0</propiedad>
+    <propiedad id="PPPMRG32" visible="true" claveinformativa="PPPMRG32">142388939</propiedad>
+    <propiedad id="PPPMRG27" visible="false" claveinformativa="PPPMRG27" />
+    <propiedad id="PPPMRG28" visible="false" claveinformativa="PPPMRG28" />
+    <propiedad id="PPPMRG20" visible="false" claveinformativa="PPPMRG20" etiqueta="Selecciona">0</propiedad>
+    <propiedad id="PPPMRG21" visible="false" claveinformativa="PPPMRG21" etiqueta="Selecciona">0</propiedad>
+    <propiedad id="AuxRolPODEBI" visible="false" claveinformativa="AuxRolPODEBI">1</propiedad>
+    <propiedad id="AuxRolHidrocarburos" visible="false" claveinformativa="AuxRolHidrocarburos">0</propiedad>
+    <propiedad id="AUXAREAJUR" visible="false" claveinformativa="AUXAREAJUR">true</propiedad>
+    <propiedad id="AUXEJERFISCAL" visible="false" claveinformativa="AUXEJERFISCAL" />
+    <propiedad id="PPPMRG22Aux" visible="false" claveinformativa="PPPMRG22Aux" />
+    <propiedad id="ETQIN12" visible="true" claveinformativa="ETQIN12" />
+    <propiedad id="IRPA008" visible="true" claveinformativa="IRPA008">0</propiedad>
+    <propiedad id="DII008" visible="true" claveinformativa="DII008">0</propiedad>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570006" titulo="Coeficiente de utilidad" titulolargo="Coeficiente de utilidad" tipo="SAT_ANEXOS" clave="SAT_1706000" noaplica="false">
+    <propiedad id="CU001Conse" visible="false" claveinformativa="CU001Conse" />
+    <propiedad id="0170ETQEJERCICIO" visible="true" claveinformativa="ETQEJERCICIO" />
+    <propiedad id="0170ETQCU" visible="true" claveinformativa="ETQCU" />
+    <propiedad id="0170ETQORIGEN" visible="true" claveinformativa="ETQORIGEN" />
+    <propiedad id="0170ETQFECHAPRESENTACION" visible="true" claveinformativa="ETQFECHAPRESENTACION" />
+    <propiedad id="CU004A" visible="true" claveinformativa="CU004A">2023</propiedad>
+    <propiedad id="CU001B" visible="true" claveinformativa="CU001B">0.5000</propiedad>
+    <propiedad id="CU006A" visible="false" claveinformativa="CU006A" etiqueta="Capturado en declaración provisional">C</propiedad>
+    <propiedad id="CU007A" visible="true" claveinformativa="CU007A" />
+    <propiedad id="0170CU004B" visible="true" claveinformativa="CU004B">2022</propiedad>
+    <propiedad id="CU001C" visible="true" claveinformativa="CU001C" />
+    <propiedad id="CU006B" visible="false" claveinformativa="CU006B" />
+    <propiedad id="CU007B" visible="true" claveinformativa="CU007B" />
+    <propiedad id="0170CU004C" visible="true" claveinformativa="CU004C">2021</propiedad>
+    <propiedad id="CU001D" visible="true" claveinformativa="CU001D" />
+    <propiedad id="CU006C" visible="false" claveinformativa="CU006C" />
+    <propiedad id="CU007C" visible="true" claveinformativa="CU007C" />
+    <propiedad id="0170CU004D" visible="true" claveinformativa="CU004D">2020</propiedad>
+    <propiedad id="CU001E" visible="true" claveinformativa="CU001E" />
+    <propiedad id="CU006D" visible="false" claveinformativa="CU006D" />
+    <propiedad id="CU007D" visible="true" claveinformativa="CU007D" />
+    <propiedad id="0170CU004E" visible="true" claveinformativa="CU004E">2019</propiedad>
+    <propiedad id="CU001F" visible="true" claveinformativa="CU001F" />
+    <propiedad id="CU006E" visible="false" claveinformativa="CU006E" />
+    <propiedad id="CU007E" visible="true" claveinformativa="CU007E" />
+    <propiedad id="Aux2021" visible="true" claveinformativa="Aux2021" />
+    <propiedad id="0170Aux2020" visible="true" claveinformativa="Aux2020" />
+    <propiedad id="0170Aux2019" visible="true" claveinformativa="Aux2019" />
+    <propiedad id="Aux2022" visible="true" claveinformativa="Aux2022" />
+    <propiedad id="0170CU004ADESC" visible="true" claveinformativa="CU004ADESC" />
+    <propiedad id="0170CU004BDESC" visible="true" claveinformativa="CU004BDESC" />
+    <propiedad id="0170CU004CDESC" visible="true" claveinformativa="CU004CDESC" />
+    <propiedad id="0170CU004DDESC" visible="true" claveinformativa="CU004DDESC" />
+    <propiedad id="0170CU004EDESC" visible="false" claveinformativa="CU004EDESC" />
+    <propiedad id="Aux2023" visible="false" claveinformativa="Aux2023" />
+    <propiedad id="0170AUXCU003B" visible="false" claveinformativa="AUXCU003B" />
+    <propiedad id="AUXCU003F" visible="false" claveinformativa="AUXCU003F" />
+    <propiedad id="0170AUXCU003C" visible="false" claveinformativa="AUXCU003C" />
+    <propiedad id="0170AUXCU003D" visible="false" claveinformativa="AUXCU003D" />
+    <propiedad id="0170AUXCU003E" visible="false" claveinformativa="AUXCU003E" />
+    <propiedad id="CU001A" visible="false" claveinformativa="CU001A" />
+    <propiedad id="0170AuxPrecargaAnual" visible="false" claveinformativa="AuxPrecargaAnual" />
+    <propiedad id="AUX0170HABILITACUB" visible="false" claveinformativa="AUX0170HABILITACUB">1</propiedad>
+    <propiedad id="Aux0170PrecargaAnual" visible="false" claveinformativa="Aux0170PrecargaAnual" />
+    <propiedad id="Aux0170PadronSuspendidos" visible="false" claveinformativa="Aux0170PadronSuspendidos" />
+    <propiedad id="Aux0170FideicomisoCU" visible="false" claveinformativa="Aux0170FideicomisoCU">0</propiedad>
+    <propiedad id="Aux0170Rol300734" visible="false" claveinformativa="Aux0170Rol300734">1</propiedad>
+    <propiedad id="Aux0170Rol300734EjeAlta" visible="false" claveinformativa="Aux0170Rol300734EjeAlta">2024</propiedad>
+    <propiedad id="Aux0170Rol300734PerAlta" visible="false" claveinformativa="Aux0170Rol300734PerAlta">1</propiedad>
+    <propiedad id="Aux0170Decla1" visible="false" claveinformativa="Aux0170Decla1">0</propiedad>
+    <propiedad id="Aux0170isValidRegDif601" visible="false" claveinformativa="Aux0170isValidRegDif601">0</propiedad>
+    <propiedad id="Aux0170ReanudadoCU" visible="false" claveinformativa="Aux0170ReanudadoCU">0</propiedad>
+    <propiedad id="AUX0170HABILITACUC" visible="false" claveinformativa="AUX0170HABILITACUC">0</propiedad>
+    <propiedad id="AUX0170HABILITACUD" visible="false" claveinformativa="AUX0170HABILITACUD">0</propiedad>
+    <propiedad id="AUX0170HABILITACUE" visible="false" claveinformativa="AUX0170HABILITACUE">0</propiedad>
+    <propiedad id="AUX0170HABILITACUF" visible="false" claveinformativa="AUX0170HABILITACUF">0</propiedad>
+    <propiedad id="ETIN08" visible="true" claveinformativa="ETIN08" />
+    <propiedad id="ETIN09" visible="true" claveinformativa="ETIN09" />
+    <propiedad id="Aux0170PadronAmparados" visible="false" claveinformativa="Aux0170PadronAmparados">0</propiedad>
+    <propiedad id="Aux0170Rol300734Valido" visible="false" claveinformativa="Aux0170Rol300734Valido">1</propiedad>
+    <propiedad id="Aux0170VigReg1" visible="false" claveinformativa="Aux0170VigReg1">0</propiedad>
+    <propiedad id="Aux0170VigReg2" visible="false" claveinformativa="Aux0170VigReg2">0</propiedad>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570007" titulo="Detalle de Disminución del pago provisional" titulolargo="Detalle de Disminución del pago provisional" tipo="SAT_ANEXOS" clave="SAT_1707000" noaplica="false">
+    <propiedad id="DPP001" visible="false" claveinformativa="DPP001" />
+    <propiedad id="DPP002" visible="false" claveinformativa="DPP002" />
+    <propiedad id="DPP003" visible="false" claveinformativa="DPP003" />
+    <propiedad id="AUXDPP003" visible="false" claveinformativa="AUXDPP003">-1</propiedad>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570008" titulo="Detalle de la participación de los trabajadores en las utilidades" titulolargo="Detalle de la participación de los trabajadores en las utilidades" tipo="SAT_ANEXOS" clave="SAT_1708000" noaplica="false">
+    <propiedad id="0170PTU001" visible="true" claveinformativa="PTU001" />
+    <propiedad id="0170PTU002" visible="true" claveinformativa="PTU002">474629796</propiedad>
+    <propiedad id="0170PTU003" visible="true" claveinformativa="PTU003">0</propiedad>
+    <propiedad id="0170PTU004" visible="true" claveinformativa="PTU004">0</propiedad>
+    <propiedad id="0170PTU005" visible="true" claveinformativa="PTU005">0</propiedad>
+    <propiedad id="AUXCATPM08" visible="false" claveinformativa="AUXCATPM08">5</propiedad>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570009" titulo="Deducción inmediata de inversiones" titulolargo="Deducción inmediata de inversiones" tipo="SAT_ANEXOS" clave="SAT_1709000" noaplica="false" grid="1" numeroelementos="10">
+    <fila identificador="1" orden="1" indice="0">
+      <propiedad visible="true" id="DII001" claveinformativa="DII001" etiqueta="Enero">001</propiedad>
+      <propiedad visible="true" id="DII002" claveinformativa="DII002" />
+      <propiedad visible="true" id="DII003" claveinformativa="DII003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="DII004" claveinformativa="DII004" />
+      <propiedad visible="true" id="DII005" claveinformativa="DII005" />
+      <propiedad visible="true" id="DII007" claveinformativa="DII007">0</propiedad>
+      <propiedad visible="true" id="DII0083" claveinformativa="DII0083" />
+      <propiedad visible="true" id="DII009" claveinformativa="DII009">0</propiedad>
+      <propiedad visible="true" id="AUXDII10" claveinformativa="AUXDII10" />
+    </fila>
+    <fila identificador="2" orden="2" indice="1">
+      <propiedad visible="true" id="DII001" claveinformativa="DII001" etiqueta="Febrero">002</propiedad>
+      <propiedad visible="true" id="DII002" claveinformativa="DII002" />
+      <propiedad visible="true" id="DII003" claveinformativa="DII003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="DII004" claveinformativa="DII004" />
+      <propiedad visible="true" id="DII005" claveinformativa="DII005" />
+      <propiedad visible="true" id="DII007" claveinformativa="DII007">0</propiedad>
+      <propiedad visible="true" id="DII0083" claveinformativa="DII0083" />
+      <propiedad visible="true" id="DII009" claveinformativa="DII009">0</propiedad>
+      <propiedad visible="true" id="AUXDII10" claveinformativa="AUXDII10" />
+    </fila>
+    <fila identificador="3" orden="3" indice="2">
+      <propiedad visible="true" id="DII001" claveinformativa="DII001" etiqueta="Marzo">003</propiedad>
+      <propiedad visible="true" id="DII002" claveinformativa="DII002" />
+      <propiedad visible="true" id="DII003" claveinformativa="DII003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="DII004" claveinformativa="DII004" />
+      <propiedad visible="true" id="DII005" claveinformativa="DII005" />
+      <propiedad visible="true" id="DII007" claveinformativa="DII007">0</propiedad>
+      <propiedad visible="true" id="DII0083" claveinformativa="DII0083" />
+      <propiedad visible="true" id="DII009" claveinformativa="DII009">0</propiedad>
+      <propiedad visible="true" id="AUXDII10" claveinformativa="AUXDII10" />
+    </fila>
+    <fila identificador="4" orden="4" indice="3">
+      <propiedad visible="true" id="DII001" claveinformativa="DII001" etiqueta="Abril">004</propiedad>
+      <propiedad visible="true" id="DII002" claveinformativa="DII002" />
+      <propiedad visible="true" id="DII003" claveinformativa="DII003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="DII004" claveinformativa="DII004" />
+      <propiedad visible="true" id="DII005" claveinformativa="DII005" />
+      <propiedad visible="true" id="DII007" claveinformativa="DII007">0</propiedad>
+      <propiedad visible="true" id="DII0083" claveinformativa="DII0083" />
+      <propiedad visible="true" id="DII009" claveinformativa="DII009">0</propiedad>
+      <propiedad visible="true" id="AUXDII10" claveinformativa="AUXDII10" />
+    </fila>
+    <fila identificador="5" orden="5" indice="4">
+      <propiedad visible="true" id="DII001" claveinformativa="DII001" etiqueta="Mayo">005</propiedad>
+      <propiedad visible="true" id="DII002" claveinformativa="DII002" />
+      <propiedad visible="true" id="DII003" claveinformativa="DII003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="DII004" claveinformativa="DII004" />
+      <propiedad visible="true" id="DII005" claveinformativa="DII005" />
+      <propiedad visible="true" id="DII007" claveinformativa="DII007">0</propiedad>
+      <propiedad visible="true" id="DII0083" claveinformativa="DII0083" />
+      <propiedad visible="true" id="DII009" claveinformativa="DII009">0</propiedad>
+      <propiedad visible="true" id="AUXDII10" claveinformativa="AUXDII10" />
+    </fila>
+    <fila identificador="6" orden="6" indice="5">
+      <propiedad visible="true" id="DII001" claveinformativa="DII001" etiqueta="Junio">006</propiedad>
+      <propiedad visible="true" id="DII002" claveinformativa="DII002" />
+      <propiedad visible="true" id="DII003" claveinformativa="DII003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="DII004" claveinformativa="DII004" />
+      <propiedad visible="true" id="DII005" claveinformativa="DII005" />
+      <propiedad visible="true" id="DII007" claveinformativa="DII007">0</propiedad>
+      <propiedad visible="true" id="DII0083" claveinformativa="DII0083" />
+      <propiedad visible="true" id="DII009" claveinformativa="DII009">0</propiedad>
+      <propiedad visible="true" id="AUXDII10" claveinformativa="AUXDII10" />
+    </fila>
+    <fila identificador="7" orden="7" indice="6">
+      <propiedad visible="true" id="DII001" claveinformativa="DII001" etiqueta="Julio">007</propiedad>
+      <propiedad visible="true" id="DII002" claveinformativa="DII002" />
+      <propiedad visible="true" id="DII003" claveinformativa="DII003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="DII004" claveinformativa="DII004" />
+      <propiedad visible="true" id="DII005" claveinformativa="DII005" />
+      <propiedad visible="true" id="DII007" claveinformativa="DII007">0</propiedad>
+      <propiedad visible="true" id="DII0083" claveinformativa="DII0083" />
+      <propiedad visible="true" id="DII009" claveinformativa="DII009">0</propiedad>
+      <propiedad visible="true" id="AUXDII10" claveinformativa="AUXDII10" />
+    </fila>
+    <fila identificador="8" orden="8" indice="7">
+      <propiedad visible="true" id="DII001" claveinformativa="DII001" etiqueta="Agosto">008</propiedad>
+      <propiedad visible="true" id="DII002" claveinformativa="DII002" />
+      <propiedad visible="true" id="DII003" claveinformativa="DII003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="DII004" claveinformativa="DII004" />
+      <propiedad visible="true" id="DII005" claveinformativa="DII005" />
+      <propiedad visible="true" id="DII007" claveinformativa="DII007">0</propiedad>
+      <propiedad visible="true" id="DII0083" claveinformativa="DII0083" />
+      <propiedad visible="true" id="DII009" claveinformativa="DII009">0</propiedad>
+      <propiedad visible="true" id="AUXDII10" claveinformativa="AUXDII10" />
+    </fila>
+    <fila identificador="9" orden="9" indice="8">
+      <propiedad visible="true" id="DII001" claveinformativa="DII001" etiqueta="Septiembre">009</propiedad>
+      <propiedad visible="true" id="DII002" claveinformativa="DII002" />
+      <propiedad visible="true" id="DII003" claveinformativa="DII003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="DII004" claveinformativa="DII004" />
+      <propiedad visible="true" id="DII005" claveinformativa="DII005" />
+      <propiedad visible="true" id="DII007" claveinformativa="DII007">0</propiedad>
+      <propiedad visible="true" id="DII0083" claveinformativa="DII0083" />
+      <propiedad visible="true" id="DII009" claveinformativa="DII009">0</propiedad>
+      <propiedad visible="true" id="AUXDII10" claveinformativa="AUXDII10" />
+    </fila>
+    <fila identificador="10" orden="10" indice="9">
+      <propiedad visible="true" id="DII001" claveinformativa="DII001" etiqueta="Octubre">010</propiedad>
+      <propiedad visible="true" id="DII002" claveinformativa="DII002" />
+      <propiedad visible="true" id="DII003" claveinformativa="DII003" etiqueta="Presentada-Pago en cero">ED04</propiedad>
+      <propiedad visible="true" id="DII004" claveinformativa="DII004">250740000006</propiedad>
+      <propiedad visible="true" id="DII005" claveinformativa="DII005">2025-01-17T06:00:00.000Z</propiedad>
+      <propiedad visible="true" id="DII007" claveinformativa="DII007">0</propiedad>
+      <propiedad visible="true" id="DII0083" claveinformativa="DII0083" />
+      <propiedad visible="true" id="DII009" claveinformativa="DII009">0</propiedad>
+      <propiedad visible="true" id="AUXDII10" claveinformativa="AUXDII10" />
+    </fila>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570010" titulo="Detalle de Pérdidas fiscales de ejercicios anteriores pendientes de aplicar" titulolargo="Detalle de Pérdidas fiscales de ejercicios anteriores pendientes de aplicar" tipo="SAT_ANEXOS" clave="SAT_1710000" noaplica="false">
+    <propiedad id="PPA001" visible="true" claveinformativa="PPA001">474629796</propiedad>
+    <propiedad id="PPA002" visible="true" claveinformativa="PPA002">0</propiedad>
+    <propiedad id="PPA003" visible="true" claveinformativa="PPA003">0</propiedad>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570011" titulo="Detalle de estímulos al ISR causado" titulolargo="Detalle de estímulos al ISR causado" tipo="SAT_ANEXOS" clave="SAT_1711000" noaplica="false" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570012" titulo="Detalle del Impuesto acreditable por dividendos o utilidades distribuidas" titulolargo="Detalle del Impuesto acreditable por dividendos o utilidades distribuidas" tipo="SAT_ANEXOS" clave="SAT_1712000" noaplica="false" grid="1" />
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570013" titulo="Detalle del  pagos provisionales efectuado de periodos anteriores" titulolargo="Detalle del  pagos provisionales efectuado de periodos anteriores" tipo="SAT_ANEXOS" clave="SAT_1713000" noaplica="false" grid="1" numeroelementos="10">
+    <fila identificador="1" orden="1" indice="0">
+      <propiedad visible="true" id="PEA001" claveinformativa="PEA001" etiqueta="Enero">001</propiedad>
+      <propiedad visible="true" id="PEA002" claveinformativa="PEA002" />
+      <propiedad visible="true" id="PEA003" claveinformativa="PEA003" />
+      <propiedad visible="true" id="PEA004" claveinformativa="PEA004" />
+      <propiedad visible="true" id="PEA005" claveinformativa="PEA005" />
+      <propiedad visible="true" id="PEA006" claveinformativa="PEA006" />
+      <propiedad visible="true" id="PEA008" claveinformativa="PEA008" />
+      <propiedad visible="true" id="PEA009" claveinformativa="PEA009" />
+      <propiedad visible="true" id="PEA010" claveinformativa="PEA010" />
+      <propiedad visible="true" id="PEA011" claveinformativa="PEA011" />
+      <propiedad visible="true" id="PEA013" claveinformativa="PEA013" />
+      <propiedad visible="true" id="PEA014" claveinformativa="PEA014" />
+      <propiedad visible="true" id="PEA015" claveinformativa="PEA015" />
+      <propiedad visible="true" id="PEA016" claveinformativa="PEA016" />
+      <propiedad visible="true" id="PEA017" claveinformativa="PEA017" />
+      <propiedad visible="true" id="PEA018" claveinformativa="PEA018" />
+      <propiedad visible="true" id="PEA019" claveinformativa="PEA019" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="PEA020" claveinformativa="PEA020" />
+      <propiedad visible="true" id="PEA021" claveinformativa="PEA021" />
+      <propiedad visible="true" id="PEA023" claveinformativa="PEA023">0</propiedad>
+    </fila>
+    <fila identificador="2" orden="2" indice="1">
+      <propiedad visible="true" id="PEA001" claveinformativa="PEA001" etiqueta="Febrero">002</propiedad>
+      <propiedad visible="true" id="PEA002" claveinformativa="PEA002" />
+      <propiedad visible="true" id="PEA003" claveinformativa="PEA003" />
+      <propiedad visible="true" id="PEA004" claveinformativa="PEA004" />
+      <propiedad visible="true" id="PEA005" claveinformativa="PEA005" />
+      <propiedad visible="true" id="PEA006" claveinformativa="PEA006" />
+      <propiedad visible="true" id="PEA008" claveinformativa="PEA008" />
+      <propiedad visible="true" id="PEA009" claveinformativa="PEA009" />
+      <propiedad visible="true" id="PEA010" claveinformativa="PEA010" />
+      <propiedad visible="true" id="PEA011" claveinformativa="PEA011" />
+      <propiedad visible="true" id="PEA013" claveinformativa="PEA013" />
+      <propiedad visible="true" id="PEA014" claveinformativa="PEA014" />
+      <propiedad visible="true" id="PEA015" claveinformativa="PEA015" />
+      <propiedad visible="true" id="PEA016" claveinformativa="PEA016" />
+      <propiedad visible="true" id="PEA017" claveinformativa="PEA017" />
+      <propiedad visible="true" id="PEA018" claveinformativa="PEA018" />
+      <propiedad visible="true" id="PEA019" claveinformativa="PEA019" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="PEA020" claveinformativa="PEA020" />
+      <propiedad visible="true" id="PEA021" claveinformativa="PEA021" />
+      <propiedad visible="true" id="PEA023" claveinformativa="PEA023">0</propiedad>
+    </fila>
+    <fila identificador="3" orden="3" indice="2">
+      <propiedad visible="true" id="PEA001" claveinformativa="PEA001" etiqueta="Marzo">003</propiedad>
+      <propiedad visible="true" id="PEA002" claveinformativa="PEA002" />
+      <propiedad visible="true" id="PEA003" claveinformativa="PEA003" />
+      <propiedad visible="true" id="PEA004" claveinformativa="PEA004" />
+      <propiedad visible="true" id="PEA005" claveinformativa="PEA005" />
+      <propiedad visible="true" id="PEA006" claveinformativa="PEA006" />
+      <propiedad visible="true" id="PEA008" claveinformativa="PEA008" />
+      <propiedad visible="true" id="PEA009" claveinformativa="PEA009" />
+      <propiedad visible="true" id="PEA010" claveinformativa="PEA010" />
+      <propiedad visible="true" id="PEA011" claveinformativa="PEA011" />
+      <propiedad visible="true" id="PEA013" claveinformativa="PEA013" />
+      <propiedad visible="true" id="PEA014" claveinformativa="PEA014" />
+      <propiedad visible="true" id="PEA015" claveinformativa="PEA015" />
+      <propiedad visible="true" id="PEA016" claveinformativa="PEA016" />
+      <propiedad visible="true" id="PEA017" claveinformativa="PEA017" />
+      <propiedad visible="true" id="PEA018" claveinformativa="PEA018" />
+      <propiedad visible="true" id="PEA019" claveinformativa="PEA019" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="PEA020" claveinformativa="PEA020" />
+      <propiedad visible="true" id="PEA021" claveinformativa="PEA021" />
+      <propiedad visible="true" id="PEA023" claveinformativa="PEA023">0</propiedad>
+    </fila>
+    <fila identificador="4" orden="4" indice="3">
+      <propiedad visible="true" id="PEA001" claveinformativa="PEA001" etiqueta="Abril">004</propiedad>
+      <propiedad visible="true" id="PEA002" claveinformativa="PEA002" />
+      <propiedad visible="true" id="PEA003" claveinformativa="PEA003" />
+      <propiedad visible="true" id="PEA004" claveinformativa="PEA004" />
+      <propiedad visible="true" id="PEA005" claveinformativa="PEA005" />
+      <propiedad visible="true" id="PEA006" claveinformativa="PEA006" />
+      <propiedad visible="true" id="PEA008" claveinformativa="PEA008" />
+      <propiedad visible="true" id="PEA009" claveinformativa="PEA009" />
+      <propiedad visible="true" id="PEA010" claveinformativa="PEA010" />
+      <propiedad visible="true" id="PEA011" claveinformativa="PEA011" />
+      <propiedad visible="true" id="PEA013" claveinformativa="PEA013" />
+      <propiedad visible="true" id="PEA014" claveinformativa="PEA014" />
+      <propiedad visible="true" id="PEA015" claveinformativa="PEA015" />
+      <propiedad visible="true" id="PEA016" claveinformativa="PEA016" />
+      <propiedad visible="true" id="PEA017" claveinformativa="PEA017" />
+      <propiedad visible="true" id="PEA018" claveinformativa="PEA018" />
+      <propiedad visible="true" id="PEA019" claveinformativa="PEA019" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="PEA020" claveinformativa="PEA020" />
+      <propiedad visible="true" id="PEA021" claveinformativa="PEA021" />
+      <propiedad visible="true" id="PEA023" claveinformativa="PEA023">0</propiedad>
+    </fila>
+    <fila identificador="5" orden="5" indice="4">
+      <propiedad visible="true" id="PEA001" claveinformativa="PEA001" etiqueta="Mayo">005</propiedad>
+      <propiedad visible="true" id="PEA002" claveinformativa="PEA002" />
+      <propiedad visible="true" id="PEA003" claveinformativa="PEA003" />
+      <propiedad visible="true" id="PEA004" claveinformativa="PEA004" />
+      <propiedad visible="true" id="PEA005" claveinformativa="PEA005" />
+      <propiedad visible="true" id="PEA006" claveinformativa="PEA006" />
+      <propiedad visible="true" id="PEA008" claveinformativa="PEA008" />
+      <propiedad visible="true" id="PEA009" claveinformativa="PEA009" />
+      <propiedad visible="true" id="PEA010" claveinformativa="PEA010" />
+      <propiedad visible="true" id="PEA011" claveinformativa="PEA011" />
+      <propiedad visible="true" id="PEA013" claveinformativa="PEA013" />
+      <propiedad visible="true" id="PEA014" claveinformativa="PEA014" />
+      <propiedad visible="true" id="PEA015" claveinformativa="PEA015" />
+      <propiedad visible="true" id="PEA016" claveinformativa="PEA016" />
+      <propiedad visible="true" id="PEA017" claveinformativa="PEA017" />
+      <propiedad visible="true" id="PEA018" claveinformativa="PEA018" />
+      <propiedad visible="true" id="PEA019" claveinformativa="PEA019" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="PEA020" claveinformativa="PEA020" />
+      <propiedad visible="true" id="PEA021" claveinformativa="PEA021" />
+      <propiedad visible="true" id="PEA023" claveinformativa="PEA023">0</propiedad>
+    </fila>
+    <fila identificador="6" orden="6" indice="5">
+      <propiedad visible="true" id="PEA001" claveinformativa="PEA001" etiqueta="Junio">006</propiedad>
+      <propiedad visible="true" id="PEA002" claveinformativa="PEA002" />
+      <propiedad visible="true" id="PEA003" claveinformativa="PEA003" />
+      <propiedad visible="true" id="PEA004" claveinformativa="PEA004" />
+      <propiedad visible="true" id="PEA005" claveinformativa="PEA005" />
+      <propiedad visible="true" id="PEA006" claveinformativa="PEA006" />
+      <propiedad visible="true" id="PEA008" claveinformativa="PEA008" />
+      <propiedad visible="true" id="PEA009" claveinformativa="PEA009" />
+      <propiedad visible="true" id="PEA010" claveinformativa="PEA010" />
+      <propiedad visible="true" id="PEA011" claveinformativa="PEA011" />
+      <propiedad visible="true" id="PEA013" claveinformativa="PEA013" />
+      <propiedad visible="true" id="PEA014" claveinformativa="PEA014" />
+      <propiedad visible="true" id="PEA015" claveinformativa="PEA015" />
+      <propiedad visible="true" id="PEA016" claveinformativa="PEA016" />
+      <propiedad visible="true" id="PEA017" claveinformativa="PEA017" />
+      <propiedad visible="true" id="PEA018" claveinformativa="PEA018" />
+      <propiedad visible="true" id="PEA019" claveinformativa="PEA019" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="PEA020" claveinformativa="PEA020" />
+      <propiedad visible="true" id="PEA021" claveinformativa="PEA021" />
+      <propiedad visible="true" id="PEA023" claveinformativa="PEA023">0</propiedad>
+    </fila>
+    <fila identificador="7" orden="7" indice="6">
+      <propiedad visible="true" id="PEA001" claveinformativa="PEA001" etiqueta="Julio">007</propiedad>
+      <propiedad visible="true" id="PEA002" claveinformativa="PEA002" />
+      <propiedad visible="true" id="PEA003" claveinformativa="PEA003" />
+      <propiedad visible="true" id="PEA004" claveinformativa="PEA004" />
+      <propiedad visible="true" id="PEA005" claveinformativa="PEA005" />
+      <propiedad visible="true" id="PEA006" claveinformativa="PEA006" />
+      <propiedad visible="true" id="PEA008" claveinformativa="PEA008" />
+      <propiedad visible="true" id="PEA009" claveinformativa="PEA009" />
+      <propiedad visible="true" id="PEA010" claveinformativa="PEA010" />
+      <propiedad visible="true" id="PEA011" claveinformativa="PEA011" />
+      <propiedad visible="true" id="PEA013" claveinformativa="PEA013" />
+      <propiedad visible="true" id="PEA014" claveinformativa="PEA014" />
+      <propiedad visible="true" id="PEA015" claveinformativa="PEA015" />
+      <propiedad visible="true" id="PEA016" claveinformativa="PEA016" />
+      <propiedad visible="true" id="PEA017" claveinformativa="PEA017" />
+      <propiedad visible="true" id="PEA018" claveinformativa="PEA018" />
+      <propiedad visible="true" id="PEA019" claveinformativa="PEA019" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="PEA020" claveinformativa="PEA020" />
+      <propiedad visible="true" id="PEA021" claveinformativa="PEA021" />
+      <propiedad visible="true" id="PEA023" claveinformativa="PEA023">0</propiedad>
+    </fila>
+    <fila identificador="8" orden="8" indice="7">
+      <propiedad visible="true" id="PEA001" claveinformativa="PEA001" etiqueta="Agosto">008</propiedad>
+      <propiedad visible="true" id="PEA002" claveinformativa="PEA002" />
+      <propiedad visible="true" id="PEA003" claveinformativa="PEA003" />
+      <propiedad visible="true" id="PEA004" claveinformativa="PEA004" />
+      <propiedad visible="true" id="PEA005" claveinformativa="PEA005" />
+      <propiedad visible="true" id="PEA006" claveinformativa="PEA006" />
+      <propiedad visible="true" id="PEA008" claveinformativa="PEA008" />
+      <propiedad visible="true" id="PEA009" claveinformativa="PEA009" />
+      <propiedad visible="true" id="PEA010" claveinformativa="PEA010" />
+      <propiedad visible="true" id="PEA011" claveinformativa="PEA011" />
+      <propiedad visible="true" id="PEA013" claveinformativa="PEA013" />
+      <propiedad visible="true" id="PEA014" claveinformativa="PEA014" />
+      <propiedad visible="true" id="PEA015" claveinformativa="PEA015" />
+      <propiedad visible="true" id="PEA016" claveinformativa="PEA016" />
+      <propiedad visible="true" id="PEA017" claveinformativa="PEA017" />
+      <propiedad visible="true" id="PEA018" claveinformativa="PEA018" />
+      <propiedad visible="true" id="PEA019" claveinformativa="PEA019" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="PEA020" claveinformativa="PEA020" />
+      <propiedad visible="true" id="PEA021" claveinformativa="PEA021" />
+      <propiedad visible="true" id="PEA023" claveinformativa="PEA023">0</propiedad>
+    </fila>
+    <fila identificador="9" orden="9" indice="8">
+      <propiedad visible="true" id="PEA001" claveinformativa="PEA001" etiqueta="Septiembre">009</propiedad>
+      <propiedad visible="true" id="PEA002" claveinformativa="PEA002" />
+      <propiedad visible="true" id="PEA003" claveinformativa="PEA003" />
+      <propiedad visible="true" id="PEA004" claveinformativa="PEA004" />
+      <propiedad visible="true" id="PEA005" claveinformativa="PEA005" />
+      <propiedad visible="true" id="PEA006" claveinformativa="PEA006" />
+      <propiedad visible="true" id="PEA008" claveinformativa="PEA008" />
+      <propiedad visible="true" id="PEA009" claveinformativa="PEA009" />
+      <propiedad visible="true" id="PEA010" claveinformativa="PEA010" />
+      <propiedad visible="true" id="PEA011" claveinformativa="PEA011" />
+      <propiedad visible="true" id="PEA013" claveinformativa="PEA013" />
+      <propiedad visible="true" id="PEA014" claveinformativa="PEA014" />
+      <propiedad visible="true" id="PEA015" claveinformativa="PEA015" />
+      <propiedad visible="true" id="PEA016" claveinformativa="PEA016" />
+      <propiedad visible="true" id="PEA017" claveinformativa="PEA017" />
+      <propiedad visible="true" id="PEA018" claveinformativa="PEA018" />
+      <propiedad visible="true" id="PEA019" claveinformativa="PEA019" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="PEA020" claveinformativa="PEA020" />
+      <propiedad visible="true" id="PEA021" claveinformativa="PEA021" />
+      <propiedad visible="true" id="PEA023" claveinformativa="PEA023">0</propiedad>
+    </fila>
+    <fila identificador="10" orden="10" indice="9">
+      <propiedad visible="true" id="PEA001" claveinformativa="PEA001" etiqueta="Octubre">010</propiedad>
+      <propiedad visible="true" id="PEA002" claveinformativa="PEA002">0</propiedad>
+      <propiedad visible="true" id="PEA003" claveinformativa="PEA003">0</propiedad>
+      <propiedad visible="true" id="PEA004" claveinformativa="PEA004" />
+      <propiedad visible="true" id="PEA005" claveinformativa="PEA005" />
+      <propiedad visible="true" id="PEA006" claveinformativa="PEA006" />
+      <propiedad visible="true" id="PEA008" claveinformativa="PEA008" />
+      <propiedad visible="true" id="PEA009" claveinformativa="PEA009" />
+      <propiedad visible="true" id="PEA010" claveinformativa="PEA010" />
+      <propiedad visible="true" id="PEA011" claveinformativa="PEA011" />
+      <propiedad visible="true" id="PEA013" claveinformativa="PEA013" />
+      <propiedad visible="true" id="PEA014" claveinformativa="PEA014" />
+      <propiedad visible="true" id="PEA015" claveinformativa="PEA015" etiqueta="Selecciona">0</propiedad>
+      <propiedad visible="true" id="PEA016" claveinformativa="PEA016">0</propiedad>
+      <propiedad visible="true" id="PEA017" claveinformativa="PEA017" />
+      <propiedad visible="true" id="PEA018" claveinformativa="PEA018">0</propiedad>
+      <propiedad visible="true" id="PEA019" claveinformativa="PEA019" etiqueta="Presentada-Pago en cero">ED04</propiedad>
+      <propiedad visible="true" id="PEA020" claveinformativa="PEA020">250740000006</propiedad>
+      <propiedad visible="true" id="PEA021" claveinformativa="PEA021">2025-01-17T06:00:00.000Z</propiedad>
+      <propiedad visible="true" id="PEA023" claveinformativa="PEA023">0</propiedad>
+    </fila>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570014" titulo="Total Ingresos nominales de periodos anteriores" titulolargo="Total Ingresos nominales de periodos anteriores" tipo="SAT_ANEXOS" clave="SAT_1714000" noaplica="false">
+    <propiedad id="INPA006" visible="false" claveinformativa="INPA006" />
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570015" titulo="Ingresos nominales" titulolargo="Ingresos nominales" tipo="SAT_ANEXOS" clave="SAT_1715000" noaplica="false" grid="1" numeroelementos="4">
+    <fila identificador="1" orden="1" indice="0">
+      <propiedad visible="true" id="INOM001" claveinformativa="INOM001">477512575</propiedad>
+      <propiedad visible="true" id="INOM002" claveinformativa="INOM002">0</propiedad>
+      <propiedad visible="true" id="INOM003" claveinformativa="INOM003" etiqueta="Eléctrica y electrónica">EP01</propiedad>
+      <propiedad visible="true" id="INOM004" claveinformativa="INOM004">400000000</propiedad>
+      <propiedad visible="true" id="AUXINOM004" claveinformativa="AUXINOM004">EP01</propiedad>
+      <propiedad visible="true" id="ETQINOM003" claveinformativa="ETQINOM003" />
+    </fila>
+    <fila identificador="2" orden="2" indice="1">
+      <propiedad visible="true" id="INOM001" claveinformativa="INOM001">477512575</propiedad>
+      <propiedad visible="true" id="INOM002" claveinformativa="INOM002">400000000</propiedad>
+      <propiedad visible="true" id="INOM003" claveinformativa="INOM003" etiqueta="Semiconductores">EP02</propiedad>
+      <propiedad visible="true" id="INOM004" claveinformativa="INOM004">77000000</propiedad>
+      <propiedad visible="true" id="AUXINOM004" claveinformativa="AUXINOM004">EP02</propiedad>
+      <propiedad visible="true" id="ETQINOM003" claveinformativa="ETQINOM003" />
+    </fila>
+    <fila identificador="3" orden="3" indice="2">
+      <propiedad visible="true" id="INOM001" claveinformativa="INOM001">477512575</propiedad>
+      <propiedad visible="true" id="INOM002" claveinformativa="INOM002">477000000</propiedad>
+      <propiedad visible="true" id="INOM003" claveinformativa="INOM003" etiqueta="Farmacéutica">EP06</propiedad>
+      <propiedad visible="true" id="INOM004" claveinformativa="INOM004">575</propiedad>
+      <propiedad visible="true" id="AUXINOM004" claveinformativa="AUXINOM004">EP06</propiedad>
+      <propiedad visible="true" id="ETQINOM003" claveinformativa="ETQINOM003" />
+    </fila>
+    <fila identificador="4" orden="4" indice="3">
+      <propiedad visible="true" id="INOM001" claveinformativa="INOM001">477512575</propiedad>
+      <propiedad visible="true" id="INOM002" claveinformativa="INOM002">477000575</propiedad>
+      <propiedad visible="true" id="INOM003" claveinformativa="INOM003" etiqueta="Maquinaria y equipo">AEP09</propiedad>
+      <propiedad visible="true" id="INOM004" claveinformativa="INOM004">512000</propiedad>
+      <propiedad visible="true" id="AUXINOM004" claveinformativa="AUXINOM004">AEP09</propiedad>
+      <propiedad visible="true" id="ETQINOM003" claveinformativa="ETQINOM003" />
+    </fila>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570016" titulo="Total de Ingresos nominales" titulolargo="Total de Ingresos nominales" tipo="SAT_ANEXOS" clave="SAT_1716000" noaplica="false">
+    <propiedad id="INOM005" visible="false" claveinformativa="INOM005">477512575</propiedad>
+    <propiedad id="0170ContIngNomTot" visible="false" claveinformativa="ContIngNomTot">4</propiedad>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570017" titulo="ISR Impuesto retenido de periodos anteriores" titulolargo="ISR Impuesto retenido de periodos anteriores" tipo="SAT_ANEXOS" clave="SAT_1717000" noaplica="false" grid="1" numeroelementos="10">
+    <fila identificador="1" orden="1" indice="0">
+      <propiedad visible="true" id="0170IRPA001" claveinformativa="IRPA001" etiqueta="Enero">001</propiedad>
+      <propiedad visible="true" id="0170IRPA002" claveinformativa="IRPA002" />
+      <propiedad visible="true" id="0170IRPA003" claveinformativa="IRPA003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="0170IRPA004" claveinformativa="IRPA004" />
+      <propiedad visible="true" id="0170IRPA005" claveinformativa="IRPA005" />
+      <propiedad visible="true" id="IRPA007" claveinformativa="IRPA007">0</propiedad>
+      <propiedad visible="true" id="IRPA0082" claveinformativa="IRPA0082" />
+    </fila>
+    <fila identificador="2" orden="2" indice="1">
+      <propiedad visible="true" id="0170IRPA001" claveinformativa="IRPA001" etiqueta="Febrero">002</propiedad>
+      <propiedad visible="true" id="0170IRPA002" claveinformativa="IRPA002" />
+      <propiedad visible="true" id="0170IRPA003" claveinformativa="IRPA003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="0170IRPA004" claveinformativa="IRPA004" />
+      <propiedad visible="true" id="0170IRPA005" claveinformativa="IRPA005" />
+      <propiedad visible="true" id="IRPA007" claveinformativa="IRPA007">0</propiedad>
+      <propiedad visible="true" id="IRPA0082" claveinformativa="IRPA0082" />
+    </fila>
+    <fila identificador="3" orden="3" indice="2">
+      <propiedad visible="true" id="0170IRPA001" claveinformativa="IRPA001" etiqueta="Marzo">003</propiedad>
+      <propiedad visible="true" id="0170IRPA002" claveinformativa="IRPA002" />
+      <propiedad visible="true" id="0170IRPA003" claveinformativa="IRPA003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="0170IRPA004" claveinformativa="IRPA004" />
+      <propiedad visible="true" id="0170IRPA005" claveinformativa="IRPA005" />
+      <propiedad visible="true" id="IRPA007" claveinformativa="IRPA007">0</propiedad>
+      <propiedad visible="true" id="IRPA0082" claveinformativa="IRPA0082" />
+    </fila>
+    <fila identificador="4" orden="4" indice="3">
+      <propiedad visible="true" id="0170IRPA001" claveinformativa="IRPA001" etiqueta="Abril">004</propiedad>
+      <propiedad visible="true" id="0170IRPA002" claveinformativa="IRPA002" />
+      <propiedad visible="true" id="0170IRPA003" claveinformativa="IRPA003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="0170IRPA004" claveinformativa="IRPA004" />
+      <propiedad visible="true" id="0170IRPA005" claveinformativa="IRPA005" />
+      <propiedad visible="true" id="IRPA007" claveinformativa="IRPA007">0</propiedad>
+      <propiedad visible="true" id="IRPA0082" claveinformativa="IRPA0082" />
+    </fila>
+    <fila identificador="5" orden="5" indice="4">
+      <propiedad visible="true" id="0170IRPA001" claveinformativa="IRPA001" etiqueta="Mayo">005</propiedad>
+      <propiedad visible="true" id="0170IRPA002" claveinformativa="IRPA002" />
+      <propiedad visible="true" id="0170IRPA003" claveinformativa="IRPA003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="0170IRPA004" claveinformativa="IRPA004" />
+      <propiedad visible="true" id="0170IRPA005" claveinformativa="IRPA005" />
+      <propiedad visible="true" id="IRPA007" claveinformativa="IRPA007">0</propiedad>
+      <propiedad visible="true" id="IRPA0082" claveinformativa="IRPA0082" />
+    </fila>
+    <fila identificador="6" orden="6" indice="5">
+      <propiedad visible="true" id="0170IRPA001" claveinformativa="IRPA001" etiqueta="Junio">006</propiedad>
+      <propiedad visible="true" id="0170IRPA002" claveinformativa="IRPA002" />
+      <propiedad visible="true" id="0170IRPA003" claveinformativa="IRPA003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="0170IRPA004" claveinformativa="IRPA004" />
+      <propiedad visible="true" id="0170IRPA005" claveinformativa="IRPA005" />
+      <propiedad visible="true" id="IRPA007" claveinformativa="IRPA007">0</propiedad>
+      <propiedad visible="true" id="IRPA0082" claveinformativa="IRPA0082" />
+    </fila>
+    <fila identificador="7" orden="7" indice="6">
+      <propiedad visible="true" id="0170IRPA001" claveinformativa="IRPA001" etiqueta="Julio">007</propiedad>
+      <propiedad visible="true" id="0170IRPA002" claveinformativa="IRPA002" />
+      <propiedad visible="true" id="0170IRPA003" claveinformativa="IRPA003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="0170IRPA004" claveinformativa="IRPA004" />
+      <propiedad visible="true" id="0170IRPA005" claveinformativa="IRPA005" />
+      <propiedad visible="true" id="IRPA007" claveinformativa="IRPA007">0</propiedad>
+      <propiedad visible="true" id="IRPA0082" claveinformativa="IRPA0082" />
+    </fila>
+    <fila identificador="8" orden="8" indice="7">
+      <propiedad visible="true" id="0170IRPA001" claveinformativa="IRPA001" etiqueta="Agosto">008</propiedad>
+      <propiedad visible="true" id="0170IRPA002" claveinformativa="IRPA002" />
+      <propiedad visible="true" id="0170IRPA003" claveinformativa="IRPA003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="0170IRPA004" claveinformativa="IRPA004" />
+      <propiedad visible="true" id="0170IRPA005" claveinformativa="IRPA005" />
+      <propiedad visible="true" id="IRPA007" claveinformativa="IRPA007">0</propiedad>
+      <propiedad visible="true" id="IRPA0082" claveinformativa="IRPA0082" />
+    </fila>
+    <fila identificador="9" orden="9" indice="8">
+      <propiedad visible="true" id="0170IRPA001" claveinformativa="IRPA001" etiqueta="Septiembre">009</propiedad>
+      <propiedad visible="true" id="0170IRPA002" claveinformativa="IRPA002" />
+      <propiedad visible="true" id="0170IRPA003" claveinformativa="IRPA003" etiqueta="No presentada">ED03</propiedad>
+      <propiedad visible="true" id="0170IRPA004" claveinformativa="IRPA004" />
+      <propiedad visible="true" id="0170IRPA005" claveinformativa="IRPA005" />
+      <propiedad visible="true" id="IRPA007" claveinformativa="IRPA007">0</propiedad>
+      <propiedad visible="true" id="IRPA0082" claveinformativa="IRPA0082" />
+    </fila>
+    <fila identificador="10" orden="10" indice="9">
+      <propiedad visible="true" id="0170IRPA001" claveinformativa="IRPA001" etiqueta="Octubre">010</propiedad>
+      <propiedad visible="true" id="0170IRPA002" claveinformativa="IRPA002" />
+      <propiedad visible="true" id="0170IRPA003" claveinformativa="IRPA003" etiqueta="Presentada-Pago en cero">ED04</propiedad>
+      <propiedad visible="true" id="0170IRPA004" claveinformativa="IRPA004">250740000006</propiedad>
+      <propiedad visible="true" id="0170IRPA005" claveinformativa="IRPA005">2025-01-17T06:00:00.000Z</propiedad>
+      <propiedad visible="true" id="IRPA007" claveinformativa="IRPA007">0</propiedad>
+      <propiedad visible="true" id="IRPA0082" claveinformativa="IRPA0082" />
+    </fila>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570018" titulo="Total Deducción inmediata de inversiones" titulolargo="Total Deducción inmediata de inversiones" tipo="SAT_ANEXOS" clave="SAT_1718000" noaplica="false">
+    <propiedad id="DII006" visible="false" claveinformativa="DII006">0</propiedad>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570019" titulo="Total Estímulos al ISR causado" titulolargo="Total Estímulos al ISR causado" tipo="SAT_ANEXOS" clave="SAT_1719000" noaplica="false">
+    <propiedad id="EISR007" visible="false" claveinformativa="EISR007" />
+    <propiedad id="EISR008" visible="false" claveinformativa="EISR008" />
+    <propiedad id="EISR009" visible="false" claveinformativa="EISR009" />
+    <propiedad id="EISR010" visible="false" claveinformativa="EISR010" />
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570020" tipo="SAT_ANEXOS" clave="SAT_1720000" noaplica="false">
+    <propiedad id="PEA007" visible="false" claveinformativa="PEA007" />
+    <propiedad id="PEA012" visible="false" claveinformativa="PEA012" />
+    <propiedad id="PEA022" visible="false" claveinformativa="PEA022">0</propiedad>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570021" titulo="Total de pagos provisionales efectuado de periodos anteriores" titulolargo="Total de pagos provisionales efectuado de periodos anteriores" tipo="SAT_ANEXOS" clave="SAT_1721000" noaplica="false">
+    <propiedad id="0170IRPA006" visible="false" claveinformativa="IRPA006">0</propiedad>
+    <propiedad id="IRPA009" visible="true" claveinformativa="IRPA009">0</propiedad>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570022" titulo="Detalle de porcentaje aplicable para determinar la utilidad fiscal" titulolargo="Detalle de porcentaje aplicable para determinar la utilidad fiscal" tipo="SAT_ANEXOS" clave="SAT_1722000" noaplica="false">
+    <propiedad id="0170CU002" visible="false" claveinformativa="CU002" etiqueta="Selecciona">CA00</propiedad>
+    <propiedad id="0170CU003" visible="false" claveinformativa="CU003" />
+    <propiedad id="0170ETQPADUF" visible="false" claveinformativa="ETQPADUF" />
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570201" titulo="DETALLE DEL PAGO ISR PERSONAS MORALES RÉGIMEN GENERAL POR ACTIVIDADES ECONÓMICAS PRODUCTIVAS EN POLOS DE DESARROLLO" titulolargo="DETALLE DEL PAGO ISR PERSONAS MORALES RÉGIMEN GENERAL POR ACTIVIDADES ECONÓMICAS PRODUCTIVAS EN POLOS DE DESARROLLO" tipo="SAT_DETERMINACION_PAGO" clave="SAT_ISR_DET_PAG_0170" conceptopago="ISR Personas Morales Régimen General por Actividades económicas productivas en polos de desarrollo" noaplica="false">
+    <propiedad id="557C6" visible="false" claveinformativa="C6" clave="SAT_C6" />
+    <propiedad id="557C7" visible="true" claveinformativa="C7" clave="SAT_C7">142388939</propiedad>
+    <propiedad id="557C8" visible="true" claveinformativa="C8" clave="SAT_C8">541078</propiedad>
+    <propiedad id="557C9" visible="true" claveinformativa="C9" clave="SAT_C9">2101071</propiedad>
+    <propiedad id="557C10" visible="false" claveinformativa="C10" clave="SAT_C10" />
+    <propiedad id="557C11" visible="true" claveinformativa="C11" clave="SAT_C11">145031088</propiedad>
+    <propiedad id="557C12" visible="false" claveinformativa="C12" clave="SAT_C12" />
+    <propiedad id="557C12A" visible="true" claveinformativa="C12A" clave="SAT_C12A" />
+    <propiedad id="5570501004" visible="false" claveinformativa="0501004" />
+    <propiedad id="5570501005" visible="false" claveinformativa="0501005" />
+    <propiedad id="5570501006" visible="false" claveinformativa="0501006" />
+    <propiedad id="5570501007" visible="false" claveinformativa="0501007" />
+    <propiedad id="5570501008" visible="false" claveinformativa="0501008" />
+    <propiedad id="5570501009" visible="false" claveinformativa="0501009" />
+    <propiedad id="5570501010" visible="false" claveinformativa="0501010" />
+    <propiedad id="5570504021" visible="false" claveinformativa="0504021" />
+    <propiedad id="557C12B" visible="false" claveinformativa="C12B" clave="SAT_C12B" />
+    <propiedad id="5570301001" visible="true" claveinformativa="0301001" etiqueta="No">2</propiedad>
+    <propiedad id="557C13" visible="false" claveinformativa="C13" clave="SAT_C13" />
+    <propiedad id="557C14" visible="false" claveinformativa="C14" clave="SAT_C14" />
+    <propiedad id="557C15" visible="false" claveinformativa="C15" clave="SAT_C15" />
+    <propiedad id="557C16" visible="false" claveinformativa="C16" clave="SAT_C16" />
+    <propiedad id="557C17" visible="false" claveinformativa="C17" clave="SAT_C17" />
+    <propiedad id="5570301002" visible="true" claveinformativa="0301002" etiqueta="Sí">1</propiedad>
+    <propiedad id="557C18" visible="true" claveinformativa="C18" clave="SAT_C18">145031088</propiedad>
+    <propiedad id="557C19" visible="false" claveinformativa="C19" clave="SAT_C19" />
+    <propiedad id="557C34" visible="false" claveinformativa="C34" clave="SAT_C34" />
+    <propiedad id="557C21" visible="true" claveinformativa="C21" clave="SAT_C21">145031088</propiedad>
+    <propiedad id="557C5" visible="false" claveinformativa="C5" clave="SAT_C5" />
+    <propiedad id="557C20" visible="false" claveinformativa="C20" clave="SAT_C20" />
+    <propiedad id="557C20B" visible="false" claveinformativa="C20B" clave="SAT_C20B" etiqueta="Selecciona">0</propiedad>
+    <propiedad id="557C20A" visible="false" claveinformativa="C20A" clave="SAT_20A" />
+    <propiedad id="557C22" visible="true" claveinformativa="C22" clave="SAT_C22">0</propiedad>
+    <propiedad id="557C23A" visible="false" claveinformativa="C23A" clave="SAT_C23A" etiqueta="No">0</propiedad>
+    <propiedad id="557C23" visible="false" claveinformativa="C23" clave="SAT_C23" />
+    <propiedad id="557C24" visible="false" claveinformativa="C24" clave="SAT_C24" />
+    <propiedad id="557C25" visible="false" claveinformativa="C25" clave="SAT_C25" />
+    <propiedad id="557C26" visible="true" claveinformativa="C26" clave="SAT_C26">0</propiedad>
+    <propiedad id="557UC26" visible="false" claveinformativa="UC26" />
+    <propiedad id="557220096" visible="false" claveinformativa="220096" clave="SAT_220096" etiqueta="No">0</propiedad>
+    <propiedad id="557C28" visible="false" claveinformativa="C28" clave="SAT_C28" etiqueta="Selecciona">0</propiedad>
+    <propiedad id="557220366" visible="false" claveinformativa="220366" />
+    <propiedad id="557PAGOANT" visible="false" claveinformativa="PAGOANT" />
+    <propiedad id="557C20PRE" visible="false" claveinformativa="C20PRE" />
+    <propiedad id="557C5PRE" visible="false" claveinformativa="C5PRE" />
+    <propiedad id="557AuxC11" visible="true" claveinformativa="AuxC11">145031088</propiedad>
+    <propiedad id="557AuxC21" visible="true" claveinformativa="AuxC21">145031088</propiedad>
+    <propiedad id="5570504000" visible="false" claveinformativa="0504000" />
+    <propiedad id="557FPDIAV" visible="false" claveinformativa="FPDIAV" />
+    <propiedad id="557C20LIMITE" visible="false" claveinformativa="C20LIMITE">0</propiedad>
+    <propiedad id="55723B" visible="false" claveinformativa="23B" etiqueta="Selecciona">0</propiedad>
+    <propiedad id="55723C" visible="false" claveinformativa="23C" />
+    <propiedad id="557PAGOPARC" visible="false" claveinformativa="PAGOPARC">0</propiedad>
+    <propiedad id="557AUXTIPOSOLNN" visible="false" claveinformativa="AUXTIPOSOLNN" />
+    <propiedad id="557AUXAPLICAPARCNN" visible="false" claveinformativa="AUXAPLICAPARCNN" />
+    <propiedad id="557AUXVISUALPARC" visible="false" claveinformativa="AUXVISUALPARC">2</propiedad>
+    <propiedad id="557AUXOCULTARESTIMULOS" visible="false" claveinformativa="AUXOCULTARESTIMULOS" />
+    <propiedad id="557C10A" visible="false" claveinformativa="C10A" clave="SAT_C10A" />
+    <propiedad id="5570167RFN" visible="false" claveinformativa="0167RFN" />
+    <propiedad id="5570167RFS" visible="false" claveinformativa="0167RFS" />
+    <propiedad id="557C20Z" visible="false" claveinformativa="C20Z" />
+    <propiedad id="557C20Z1" visible="false" claveinformativa="C20Z1">0</propiedad>
+    <propiedad id="557C20BB" visible="false" claveinformativa="C20BB" etiqueta="Selecciona">0</propiedad>
+    <propiedad id="557ETQPagosIdentificados" visible="false" claveinformativa="ETQPagosIdentificados" />
+    <propiedad id="557AuxConLCAdrCache" visible="false" claveinformativa="AuxConLCAdrCache">0</propiedad>
+    <propiedad id="557AuxEnPadronAdr" visible="false" claveinformativa="AuxEnPadronAdr" />
+    <propiedad id="557AuxFecMaxC5V" visible="false" claveinformativa="AuxFecMaxC5V" />
+    <propiedad id="557AuxFecMaxC5V1" visible="false" claveinformativa="AuxFecMaxC5V1" />
+    <propiedad id="557AuxConLCSispr" visible="false" claveinformativa="AuxConLCSispr">0</propiedad>
+    <propiedad id="557AuxConLCAdr" visible="false" claveinformativa="AuxConLCAdr">0</propiedad>
+    <propiedad id="557C5A" visible="false" claveinformativa="C5A" />
+    <propiedad id="557ETQLineasDeCapturaNoConsideradas" visible="false" claveinformativa="ETQLineasDeCapturaNoConsideradas" />
+    <propiedad id="557ETQPagosNoIdentificados" visible="false" claveinformativa="ETQPagosNoIdentificados" />
+    <propiedad id="557ETQDatosFormatoPago" visible="false" claveinformativa="ETQDatosFormatoPago" />
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570202" titulo="Detalle de Compensaciones" titulolargo="Detalle de Compensaciones" tipo="SAT_COMPENSACIONES" clave="SAT_ISR_COM_0170" noaplica="false" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570203" titulo=" " titulolargo=" " tipo="SAT_OTROS_ESTIMULOS" clave="SAT_DET_DE_OTR_ES_PM_557" noaplica="false" grid="1" numeroelementos="3">
+    <fila identificador="1" orden="1" indice="0">
+      <propiedad visible="true" id="557C1802" claveinformativa="C1802" etiqueta="Estímulo fiscal complementario a los combustibles automotrices">30</propiedad>
+      <propiedad visible="true" id="557C180201" claveinformativa="C180201" />
+      <propiedad visible="true" id="557C1803" claveinformativa="C1803">140000000</propiedad>
+      <propiedad visible="true" id="557ETQECPago" claveinformativa="ETQECPago" />
+      <propiedad visible="true" id="557AUXC1802" claveinformativa="AUXC1802">30</propiedad>
+    </fila>
+    <fila identificador="2" orden="2" indice="1">
+      <propiedad visible="true" id="557C1802" claveinformativa="C1802" etiqueta="Estímulo a gasolinas en regiones cercanas a zona fronteriza">29</propiedad>
+      <propiedad visible="true" id="557C180201" claveinformativa="C180201" />
+      <propiedad visible="true" id="557C1803" claveinformativa="C1803">2276000</propiedad>
+      <propiedad visible="true" id="557ETQECPago" claveinformativa="ETQECPago" />
+      <propiedad visible="true" id="557AUXC1802" claveinformativa="AUXC1802">29</propiedad>
+    </fila>
+    <fila identificador="3" orden="3" indice="2">
+      <propiedad visible="true" id="557C1802" claveinformativa="C1802" etiqueta="Estímulo a gasolinas en zona fronteriza">18</propiedad>
+      <propiedad visible="true" id="557C180201" claveinformativa="C180201" />
+      <propiedad visible="true" id="557C1803" claveinformativa="C1803">2755088</propiedad>
+      <propiedad visible="true" id="557ETQECPago" claveinformativa="ETQECPago" />
+      <propiedad visible="true" id="557AUXC1802" claveinformativa="AUXC1802">18</propiedad>
+    </fila>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570204" titulo="Estímulos al impuesto a cargo" titulolargo="Estímulos al impuesto a cargo" tipo="SAT_ANEXOS" clave="SAT_TOT_EST_CAR_557" noaplica="false">
+    <propiedad id="5570503006" visible="false" claveinformativa="0503006" />
+    <propiedad id="5570503007" visible="false" claveinformativa="0503007" />
+    <propiedad id="5570503008" visible="false" claveinformativa="0503008" />
+    <propiedad id="5570503009" visible="false" claveinformativa="0503009" />
+    <propiedad id="5570503010" visible="false" claveinformativa="0503010" />
+    <propiedad id="5570503005" visible="true" claveinformativa="0503005">0</propiedad>
+    <propiedad id="5570503011" visible="false" claveinformativa="0501002">145031088</propiedad>
+    <propiedad id="557ContECargoPago" visible="false" claveinformativa="ContECargoPago">3</propiedad>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570205" titulo="Detalle de Compensaciones" titulolargo="Detalle de Compensaciones" tipo="SAT_COMPENSACIONES_M4" clave="SAT_ISR_COM_0170_M4" noaplica="false" grid="1" />
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570206" titulo="Pagos identificados por el Servicio de Declaraciones" titulolargo="Pagos identificados por el Servicio de Declaraciones" tipo="SAT_LINEACAPTURAPAGOS" clave="SAT_557C20S1" conceptopago="ISR personas morales" noaplica="false" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570207" titulo="Líneas de captura no consideradas" titulolargo="Líneas de captura no consideradas" tipo="SAT_LINEACAPTURAADR" clave="SAT_557C20S" conceptopago="ISR personas morales" noaplica="false" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0170" id="5570208" titulo="Línea de captura ADR Cache" titulolargo="Línea de captura ADR Cache" tipo="SAT_LINEACAPTURAADRCACHE" clave="SAT_AUXCACHEC20S" conceptopago="ISR personas morales" noaplica="false" grid="1" numeroelementos="0" />
+</modeloDatos>

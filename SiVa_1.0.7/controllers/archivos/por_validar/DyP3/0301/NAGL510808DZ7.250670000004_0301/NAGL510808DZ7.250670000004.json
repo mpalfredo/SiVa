@@ -1,0 +1,627 @@
+{
+  "IdentiDecla": {
+    "rfcdeclarante": "NAGL510808DZ7",
+    "rolvigente": "1|9|44|300031|300155|300250|300480|300733|300753|",
+    "regvigente": "605|612|",
+    "oblvigente": "3|9|20|26|30|33|203|579|597|",
+    "verformu": "13",
+    "fechapresentacion": "2025-01-15T15:36:54",
+    "ejercicio": 2024,
+    "numerooperacion": 250670000004,
+    "iddeclaracion": "026CD030-325F-4ACC-91C3-D523BA894653",
+    "metodoautenticacion": "cpn/uat/contrib/contrasena",
+    "bo_id": "332603648632738796438167187787",
+    "esquemajsondwh": "1.0.0.26"
+  },
+  "Contribuyente": {
+    "tipopersona": "F",
+    "apellidopaterno": "LARA",
+    "apellidomaterno": "MOLINA",
+    "nombre": "JESUS OBED",
+    "iddescon": "O-034",
+    "descdescon": "MICHOACAN 1",
+    "idactprep": "1851",
+    "descactprep": "COMERCIO AL POR MAYOR DE CARNES",
+    "identfed": "16",
+    "descentfed": "MICHOACAN DE OCAMPO",
+    "idmunic": "16-112",
+    "descmunic": "ZITACUARO",
+    "codigopostal": "61500",
+    "reghistorico": "612|618|604|",
+    "oblhistorica": "11|16|588|589|"
+  },
+  "Declaracion": {
+    "idperiodo": "012",
+    "descperiodo": "Diciembre",
+    "idperiodic": "M",
+    "descperiodic": "1-Mensual",
+    "idtipodecla": "002",
+    "desctipodecla": "Complementaria",
+    "idtipocomplem": "003",
+    "desctipocomplem": "Modificación de Obligaciones",
+    "fechavencimiento": "2025-01-24",
+    "totalpagar": 0,
+    "fechavencilc": "2025-01-24T06:00:00",
+    "mediopresenta": "Internet ",
+    "firma": "false",
+    "fechadecausacion": "2025-01-24T06:00:00"
+  },
+  "AdminDeclaracion": [
+    {
+      "idconceptopago": "0301",
+      "descconceptopago": "IVA Personas Fisicas",
+      "impoconceptopago": 0,
+      "Concepto": {
+        "Pago": {
+          "acargo": 0,
+          "totalcontribuciones": 0,
+          "tienescompensacionesporaplicar": 0,
+          "tienesestimulosporaplicar": 0,
+          "totalaplicaciones": 0,
+          "realizoult48pagoconcepto": 2,
+          "cantidadacargo": 0,
+          "optapagarparcialidades": 0,
+          "cantidadapagar": 0,
+          "tiposolicitud": 0,
+          "DetMontoPagadoLineaCapturaADR": [],
+          "totalmontoantadrs": 0,
+          "deseaagregarlineanoconciderada": 0
+        },
+        "Compensaciones": [],
+        "Estimulos": [],
+        "Deducciones": {
+          "DetComprasYGastosDelPeriodo": {
+            "DetComprasYGastosFacturados": {},
+            "DetDescBoniFacturadasMes": {},
+            "DetFacturasEgresosRecibidas": {},
+            "DetComprasYGastosMeses": {},
+            "DetInversionesPeriodo": {},
+            "DetEstimulos": {}
+          },
+          "DetGastosNomNoConsEnPrellenado": [
+            {}
+          ]
+        },
+        "IVAAcreditable": {
+          "TotalActosActividadesPagadosTasa16": 1327427192,
+          "TotalActActPagadosSuEstRegiFron": 0,
+          "TotalActPagaImpoBienYSersTasa16Iva": 0,
+          "TotalDemasActosActividadesPagadosTasa0Iva": 201871168,
+          "TotalActPagaPagaraElIvaExentos": 175377566,
+          "TotalIvaActosActividadesPagadosTasa16": 212388351,
+          "IvaPagadoSujetoEstimuloLaRegionFronteriza": 0,
+          "IvaNoPagaAplicacionEstimuloLaRegionFronteriza": 0,
+          "TotaIvaActoPagaImporBieYServTasa16": 0,
+          "TotaIvaTrasEfectivamentePagado": 212388351,
+          "IvaAcreditable": 0,
+          "MonAcrediActIncrementarDerivadoAjuste": 0,
+          "TotalIvaAcreditablePeriodo": 0,
+          "DetTotalActosActividadesPagadasNoSePagaraIVA": {
+            "MontoPorDetallar": 0,
+            "AdquiSuelUtilizadasParaCasaHabitacion": 175377566,
+            "AdquisicionLibrosPeriodicosORevistas": 0,
+            "RegaliasPagadasALosAutores": 0,
+            "AdquisicionBienesMueblesUsadosExceptoLosAdquiridosEmpresas": 0,
+            "ServicioTransportePublicoTerrestrePersonas": 0,
+            "ServiciosProfesionalesMedicina": 0,
+            "AseguramientoContraRiesgosAgropecuarios": 0,
+            "UsoOGoceTemporalFincasParaFinesAgricolasOGanaderos": 0,
+            "ActosOActividadesPagadosEnLaImportacionBienesServiciosExentos": 0,
+            "OtrosActosOActividadesPagadosExentos": 0
+          },
+          "DetTotalActosActividadesPagadosImportacionBienesServiciosTasa16IVA": {
+            "MontoPorDetallar": 0
+          },
+          "DetTotalActosActividadesPagadosTasa16IVA": {
+            "MontoDetallar": 0,
+            "InteresesPagadosTasa16": 327427192,
+            "RegaliasPagadasEntrePartesRelacionadasTasa16": 500000000,
+            "OtrosActosOActividadesPagadosTasa16": 500000000
+          },
+          "TotalActosActividadesPagadosNOSePagaraIVA": [
+            {
+              "Mes": "012",
+              "NumeroFacturasCanceladas": 0,
+              "NumeroFacturasVigentes": 5,
+              "Subtotal": 1772478996,
+              "Descuento": 35069466,
+              "SubtotalDescuento": 1737409530,
+              "ImpTrasladadosBaseIvaExen": 175377566,
+              "Mes2": "012",
+              "NumeroFacturasCanceladas2": 0,
+              "NumeroFacturasVigentes2": 1,
+              "IngresosCobradoSinImpuestos": 20566211,
+              "ImpuestosTrasladadosBaseIvaExentos": 0,
+              "BasePorLaQueNoSePagaraElIvaExentosFacturasRecibidasTipoIngreso": 175377566,
+              "BasePorLaQueNoSePagaraElIvaExentosFacturasRecibidasTipoPago": 0,
+              "TotalActActPagadosQueNoSePagaIva": 175377566
+            }
+          ],
+          "TotalActosActividadesPagadosSujetosEstimuloRF": [
+            {
+              "Mes": "012",
+              "NumeroFacturasCanceladas": 0,
+              "NumeroFacturasVigentes": 5,
+              "Subtotal": 1772478996,
+              "Descuento": 35069466,
+              "SubtotalDescuento": 1737409530,
+              "ImpTrasladadosBaseIva8": 0,
+              "ImpTrasladadosIva8": 0,
+              "Mes2": "012",
+              "NumeroFacturasCanceladas2": 0,
+              "NumeroFacturasVigentes2": 1,
+              "IngresosCobradoSinImpuestos": 0,
+              "ImpTrasladados2BaseIva8": 0,
+              "ImpTrasladados2Iva8": 0,
+              "BaseIva8FacturaRecibidasTipoIngreso": 0,
+              "BaseIva8FacturasRecibidasTipoPago": 0,
+              "TotalActosActivPagadosSujEstimuloRegionFronteriza": 0
+            }
+          ],
+          "TotalActosActividadesPagadosTasa16IVA": [
+            {
+              "Mes": "012",
+              "NumeroFacturasCanceladas": 0,
+              "NumeroFacturasVigentes": 5,
+              "Subtotal": 1772478996,
+              "Descuento": 35069466,
+              "SubtotalDescuento": 1737409530,
+              "ImpuestosTrasladadosBaseIva16": 1307894687,
+              "ImpuestosTrasladadosIva16": 209263150,
+              "Mes2": "012",
+              "NumeroFacturasCanceladas2": 0,
+              "NumeroFacturasVigentes2": 1,
+              "IngresosCobradosSinImpuestos2": 0,
+              "ImpuestosTrasladados2BaseIva16": 19532505,
+              "ImpuestosTrasladados2Iva16": 3125201,
+              "BaseIva16FacturaRecibidasTipoIngreso": 1307894687,
+              "BaseIva16FacturasRecibidasTipoPago": 19532505,
+              "TotalLosActosOActividadesPagadosTasa16": 1327427192
+            }
+          ],
+          "TotalDemasActosActividadesPagadasTasa0IVA": [
+            {
+              "Mes": "012",
+              "NumeroFacturasCanceladas": 0,
+              "NumeroFacturasVigentes": 5,
+              "Subtotal": 1772478996,
+              "Descuento": 35069466,
+              "SubtotalDescuento": 1737409530,
+              "ImpTrasladadosBaseIva0": 198881915,
+              "Mes2": "012",
+              "NumeroFacturasCanceladas2": 0,
+              "NumeroFacturasVigentes2": 1,
+              "IngresosCobradoSinImpuestos": 17090346,
+              "ImpTrasladados2Iva0": 2484044,
+              "BaseIva0FacturaRecibidasTipoIngreso": 198881915,
+              "BaseIva0FacturasRecibidasTipoPago": 2989253,
+              "TotalActosActiPagaTasa0": 201871168
+            }
+          ],
+          "TotalIVAAcreditableActividadesGravadas1680": {
+            "TotalIvaTrasladadoContriEfectivamentePagado": 212388351,
+            "TotalIvaCorrespondienteAActosActividadesGravados": 0
+          },
+          "TotalIVAAcreditableImportacionActosActividadesNoObligadosPagoImpuesto": {
+            "IvaTraslaAdquisUsoGoceTemObligadoPagoDelImpuesto": 212388351,
+            "IvaBienesUtiliActosActividadesNoSeEstPagoDelImpuesto": 0,
+            "SeleccionaLaProporcionIvaAplicaras": 0,
+            "IvaAcrediActividadesGravadosObligadoPagoDelImpuesto": 0,
+            "IvaAcreditable": 0,
+            "DetValorActosActGravadosDiferenteTasaIVATipoIngresoIVAAcreditable": [],
+            "DetValorActosActGravadosDiferenteTasaIVATipoPagoIVAAcreditable": [],
+            "DetIVAPagadoTasa16TipoIngreso": [
+              {
+                "Mes": "012",
+                "NumerofacturasCanceladas": 0,
+                "NumerofacturasVigentes": 5,
+                "Subtotal": 1772478996,
+                "Descuento": 35069466,
+                "SubtotalDescuento": 1737409530,
+                "ImpuestostrasladadosBaseIVA16": 1307894687,
+                "Impuestotrasiva16tipoingreso": 209263150,
+                "ClaveEntidadorigen": "SAT_r2101156",
+                "DesEntidadorigen": "Total de los actos o actividades pagados a la tasa del 16 de IVA pago en una sola exhibición"
+              }
+            ],
+            "DetIVAPagadoTasa16TipoPago": [
+              {
+                "Mestipopago": "012",
+                "ClaveEntidadorigen": "SAT_r2101017",
+                "DesEntidadorigen": "Valor de los actos o actividades gravados a la tasa del 16 pago corresponde al mes"
+              }
+            ],
+            "DetValActosActEmitidosEstFiscalActEconomicasIVAAcreditable": [
+              {
+                "montodetallar": 0,
+                "montodetallado": 0,
+                "DetActosActEmitidosEstFiscalFomenteEconomiaIVAAcreditable": [
+                  {
+                    "Mes": "012",
+                    "NumerofacturasCanceladas": 0,
+                    "NumerofacturasVigentes": 0,
+                    "BaseIVAfacturasemitidastipoingreso": 29823467,
+                    "BaseIVAfacturasemitidastipopago": 0,
+                    "Vactosoactemiapliestfiseco": 29823467,
+                    "ClaveEntidadorigen": "SAT_AFPE201009",
+                    "DesEntidadorigen": "Valor de los actos o actividades emitidos a los que aplican los estímulos fiscales que fomentan o promueven la economía"
+                  },
+                  {
+                    "Mes": "012",
+                    "NumerofacturasCanceladas": 0,
+                    "NumerofacturasVigentes": 0,
+                    "BaseIVAfacturasemitidastipoingreso": 29823467,
+                    "BaseIVAfacturasemitidastipopago": 0,
+                    "Vactosoactemiapliestfiseco": 29823467,
+                    "ClaveEntidadorigen": "SAT_AFPE201009",
+                    "DesEntidadorigen": "Valor de los actos o actividades emitidos a los que aplican los estímulos fiscales que fomentan o promueven la economía"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "IVAACargo": {
+        "DetValActosActEmitidosEstFiscalActEconomicas": [
+          {
+            "montodetallar": 0,
+            "montodetallado": 0,
+            "DetActosActEmitidosEstFiscalFomenteEconomia": [
+              {
+                "Mes": "012",
+                "NumerofacturasCanceladas": 0,
+                "NumerofacturasVigentes": 1,
+                "Subtotal": 29823467,
+                "Descuento": 1798235,
+                "SubtotalDescuento": 28025232,
+                "BaseIVAfacturasemitidastipoingreso": 29823467,
+                "BaseIVAfacturasemitidastipopago": 12410375,
+                "Vactosoactemiapliestfiseco": 42233842,
+                "ClaveEntidadorigen": "SAT_AFPE01009",
+                "DesEntidadorigen": "Valor de los actos o actividades emitidos a los que aplican los estímulos fiscales que fomentan o promueven la economía"
+              },
+              {
+                "Mes": "012",
+                "NumerofacturasCanceladas": 0,
+                "NumerofacturasVigentes": 1,
+                "Subtotal": 29823467,
+                "Descuento": 1798235,
+                "SubtotalDescuento": 28025232,
+                "BaseIVAfacturasemitidastipoingreso": 29823467,
+                "BaseIVAfacturasemitidastipopago": 12410375,
+                "Vactosoactemiapliestfiseco": 42233842,
+                "ClaveEntidadorigen": "SAT_AFPE01009",
+                "DesEntidadorigen": "Valor de los actos o actividades emitidos a los que aplican los estímulos fiscales que fomentan o promueven la economía"
+              }
+            ]
+          }
+        ],
+        "DetValorActosActGravadosDiferenteTasaIVATipoIngreso": [],
+        "DetValorActosActGravadosDiferenteTasaIVATipoPago": []
+      },
+      "DeterminacionIVA": {
+        "Detactividadestasa16": [
+          {
+            "mescfdiing": "012",
+            "numfaccaningcobmes": 0,
+            "numfacvigingcobmes": 3,
+            "subtotcfdivigmes": 1253756333,
+            "descfdivigcobmes": 27879519,
+            "subdescfdivigcobmes": 1225876814,
+            "imptrascfdivigcobbase16": 1088265009,
+            "imptrascfdivigcob16": 174122402,
+            "mescfdipago": "012",
+            "numfactcanpag": 0,
+            "numfactvigpag": 1,
+            "incobsimppago": 17090346,
+            "imptrapagbas16": 16231345,
+            "imptrapag16": 2597015,
+            "baseiva16factemitidasting": 1088265009,
+            "baseiva16factemitidastpago": 16231345,
+            "actgravadastasa16": 1104496354,
+            "MontoPorDetallar": 0,
+            "InteresesCobradosTasa16": 496354,
+            "RegaliasEntrePartesRelacionadasTasa16": 104000000,
+            "OtrosActosActividadesGravadosTasa16": 1000000000
+          }
+        ],
+        "Actividadesestimulorf": 0,
+        "DetActividadesSujEstRF": [
+          {
+            "mescfdiing": "012",
+            "numfaccaningcobmes": 0,
+            "numfacvigingcobmes": 3,
+            "subtotcfdivigmes": 1253756333,
+            "descfdivigcobmes": 27879519,
+            "subdescfdivigcobmes": 1225876814,
+            "imptrascfdivigcobbase8": 0,
+            "imptrascfdivigcob8": 0,
+            "mescfdipago": "012",
+            "numfactcanpag": 0,
+            "numfactvigpag": 1,
+            "incobsimppago": 17090346,
+            "imptrapagbas8": 0,
+            "imptrapag8": 0,
+            "baseiva8factemitidasting": 0,
+            "baseiva8factemitidastpago": 0,
+            "ValorActosActividadesSujetosEstimulo": 0
+          }
+        ],
+        "DetActividadesTasa0": [
+          {
+            "mescfdiing": "012",
+            "numfaccaningcobmes": 0,
+            "numfacvigingcobmes": 3,
+            "subtotcfdivigmes": 1253756333,
+            "descfdivigcobmes": 27879519,
+            "subdescfdivigcobmes": 1225876814,
+            "imptrascfdivigcobbase0": 165491323,
+            "mescfdipago": "012",
+            "numfactcanpag": 0,
+            "numfactvigpag": 1,
+            "incobsimppago": 17090346,
+            "imptrapagbas0": 2484044,
+            "baseiva0factemitidasting": 165491323,
+            "baseiva0factemitidastpago": 2484044,
+            "actgravadastasa0sum": 167975367,
+            "mondetallar": 0,
+            "ActAgriGanSilPesTasa0": 167975367,
+            "OtrosActosActiGraTasa0": 0,
+            "Valoractosactemitidospodebi": 0
+          }
+        ],
+        "DetActividadesExentas": [
+          {
+            "mescfdiing": "012",
+            "numfaccaningcobmes": 0,
+            "numfacvigingcobmes": 3,
+            "subtotcfdivigmes": 1253756333,
+            "descfdivigcobmes": 27879519,
+            "subdescfdivigcobmes": 1225876814,
+            "imptrascfdivigcobbaseexe": 0,
+            "mescfdipago": "012",
+            "numfactcanpag": 0,
+            "numfactvigpag": 1,
+            "incobsimppago": 17090346,
+            "imptrapagbasexe": 0,
+            "baseivaexcfactemitting": 0,
+            "baseivaexcfactemittpago": 0,
+            "ValorActosActPagarImpuestoExentos": 0,
+            "MontoDetallar": 0
+          }
+        ],
+        "DetActividadesNoObjImp": [
+          {
+            "mescfdiing": "012",
+            "numfaccaningcobmes": 0,
+            "numfacvigingcobmes": 3,
+            "subtotcfdivigmes": 1253756333,
+            "descfdivigcobmes": 27879519,
+            "subdescfdivigcobmes": 1225876814,
+            "imptrascfdivigcobbasenoobj": 0,
+            "mescfdipago": "012",
+            "numfactcanpag": 0,
+            "numfactvigpag": 1,
+            "incobsimppago": 17090346,
+            "imptrapagbasenoobj": 0,
+            "baseivanoobjfactemitidasting": 0,
+            "baseivanoobjfactemitidastpago": 0,
+            "actividadesnoobjetodelimpuesto": 0
+          }
+        ],
+        "Detivacargotasa16": [
+          {
+            "mes": "012",
+            "numfacturascanceladas": 0,
+            "numfacturasvigentes": 3,
+            "subtotal": 1253756333,
+            "descuento": 27879519,
+            "subtotaldescuento": 1225876814,
+            "impuestostrasladadosiva16": 1088265009,
+            "ivacargotasa16": 176719417,
+            "imptraiva16ing": 174122402,
+            "mescfdipago": "012",
+            "numfactcanpag": 0,
+            "numfactvigpag": 1,
+            "ingcobsinimppag": 17090346,
+            "imptrabasiva16pag": 16231345,
+            "impraiva16pag": 2597015,
+            "iva16factemitidastipoing": 174122402,
+            "iva16factemitidastipopago": 2597015,
+            "IvaACargoTasa16": 176719417
+          }
+        ],
+        "Ivacargoestimulorf": 0,
+        "Detivacargoestimulorf": [
+          {
+            "mes": "012",
+            "numfacturascanceladas": 0,
+            "numfacturasvigentes": 3,
+            "subtotal": 1253756333,
+            "descuento": 27879519,
+            "subtotaldescuento": 1225876814,
+            "impuestostrasladadosiva8": 0,
+            "ivacargoestimulorf": 0,
+            "imptrabasiva8ing": 0,
+            "mescfdipago": "012",
+            "numfactcanpag": 0,
+            "numfactvigpag": 1,
+            "ingcobsinimppag": 17090346,
+            "imptrabasiva8pag": 0,
+            "impraiva8pag": 0,
+            "iva8factemitidastipoing": 0,
+            "iva8factemitidastipopago": 0
+          }
+        ],
+        "Totalivacargo": 176719417,
+        "Detivanocobradopordevdescybonifventas": [],
+        "Ivaretenido": 0,
+        "Detivaretenido": [
+          {
+            "mes": "012",
+            "numfacturascanceladas": 0,
+            "numfacturasvigentes": 3,
+            "subtotal": 1253756333,
+            "descuento": 27879519,
+            "subtotaldescuento": 1225876814,
+            "impuestosretenidosiva": 0,
+            "ivaretenido": 0,
+            "mescfdipago": "012",
+            "numfactcanpag": 0,
+            "numfactvigpag": 1,
+            "ingcobsinimppag": 17090346,
+            "impretivapag": 0,
+            "ivaretentipoing": 0,
+            "ivaretentipopago": 0,
+            "MontoADetallar": 0
+          }
+        ],
+        "Ivaacreditableperiodo": 0,
+        "Detivaacreditableperiodo": {
+          "Detivapagadogastosyadquisiciones": []
+        },
+        "Detivadevdescybonifengastos": [],
+        "Cantidadcargo": 176719417,
+        "Acreditamientosaldofavorperiodosant": 176719417,
+        "Impuestocargo": 0,
+        "Impuestofavor": 0,
+        "impuestoafavor": 0,
+        "ValorActosOActividadesGravadosTasa0Exp": 0,
+        "ValorActosOActividadesGravadosTasa0Otros": 167975367,
+        "SumaActosOActividadesGravados": 1272471721,
+        "ValorActosActividadesNoSeDebaPagarElImpuestoExe": 0,
+        "ValorDeLosActosNoObjetoDelImpuesto": 0,
+        "IvaACargoNoCobradoAplicacionDelEstimuloRegionFronteriza": 0,
+        "IvaACargo": 176719417,
+        "CantidadActualizadaAReintegrarseDerivadaDelAjuste": 0,
+        "OtrasCantidadesACargo": 0,
+        "OtrasCantidadesAFavor": 0,
+        "ValorActActAplicaEstFisActiEcoProIntPODEBI": 0,
+        "DetAcreditamientoSaldoAFavorIVAPeriodosAnteriores": [
+          {
+            "PeriodicidadComp": "M",
+            "PeriodoComp": "001",
+            "EjercicioComp": 2024,
+            "SaldoAAplicar": 176719417,
+            "TipoDeclaracionComp": "001",
+            "NumeroOperacionComp": 111111111111,
+            "FechaPresentoDeclaSaldoFavor": "2025-01-01",
+            "MontoSaldoFavorOrig": 200000000,
+            "RemanenteHistAntesAplica": 200000000,
+            "ImpuestoACargo": 0
+          }
+        ],
+        "DetValorActosActividadesEmitidosPODEBItipoIngreso": [
+          {
+            "MesPagoUnaExh": "012",
+            "NumeroFacturasCanceladasPagoUnaExh": 0,
+            "NumeroFacturasVigentesPagoUnaExh": 1,
+            "Subtotal": 112229983,
+            "Descuento": 1512608,
+            "SubtotalDescuento": 110717374,
+            "ImpuestosTrasladadosBasePODEBIPagoUnaExh": 0,
+            "DesEntidadorigen": "Valor de los actos o actividades emitidos al que aplica al estímulo fiscal por actividades económicas productivas al Interior de los PODEBI pago en una sola exhibición",
+            "entidadori": "SAT_r2101121"
+          }
+        ],
+        "DetValorActosActividadesEmitidosPODEBITipoPago": [
+          {
+            "Mes": "012",
+            "NumeroFacturasCanceladas": 0,
+            "NumeroFacturasVigentes": 1,
+            "IngresosCobradosSinImpuestos": 4973906,
+            "ImpuestosTrasladadosBasePODEBI": 0,
+            "BaseIvaFacturasEmitidasTipoIngresoInteriorLosPODEBI": 0,
+            "BaseIvaFacturasEmitidasTipoPagoInteriorLosPODEBI": 0,
+            "ValorActEmitidosPODEBI": 0,
+            "ValActRecEstFisActEcoProPODEBI": 0,
+            "DesEntidadorigen": "Valor de los actos o actividades emitidos al que aplica al estímulo fiscal por actividades económicas productivas al Interior de los PODEBI pago corresponde al mes",
+            "entidadori": "SAT_r2101128"
+          }
+        ],
+        "DetValorActosActividadesGravadasEstimuloRF": {
+          "RFNorte": {
+            "MontoPorDetallar": 0,
+            "MontoDetallar": 0
+          },
+          "RFSur": {}
+        },
+        "DetValorActosActividadesRecibidosPODEBITipoIngreso": [
+          {
+            "MesPue": "012",
+            "NumeroFacturasCanceladasPue": 0,
+            "NumeroFacturasVigentesPue": 0,
+            "DesEntidadorigen": "Valor de los actos o actividades recibidos al que aplica al estímulo fiscal por actividades económicas productivas al Interior de los PODEBI pago en una sola exhibición",
+            "entidadori": "SAT_r2101136"
+          }
+        ],
+        "DetValorActosActividadesRecibidosPODEBITipoPago": [
+          {
+            "Mes": "012",
+            "NumeroFacturasCanceladas": 0,
+            "NumeroFacturasVigentes": 0,
+            "BaseIvaFacturasEmitidasTipoIngresoInteriorLosPODEBI": 0,
+            "BaseIvaFacturasEmitidasTipoPagoInteriorLosPODEBI": 0,
+            "ValorActRecibidosPODEBI": 0,
+            "valoractactaplestfisfmeproeco": 0,
+            "DesEntidadorigen": "Valor de los actos o actividades recibidos al que aplica al estímulo fiscal por actividades económicas productivas al Interior de los PODEBI pago corresponde al mes",
+            "entidadori": "SAT_r2101143"
+          }
+        ],
+        "IVAPagadoSujetoEstimuloRF": [
+          {
+            "Mes": "012",
+            "NumeroFacturasCanceladas": 0,
+            "NumeroFacturasVigentes": 5,
+            "Subtotal": 1772478996,
+            "Descuento": 35069466,
+            "SubtotalDescuento": 1737409530,
+            "ImpTrasladadosBase8": 0,
+            "ImpTrasladadosIva8": 0,
+            "Mes2": "012",
+            "NumeroFacturasCanceladas2": 0,
+            "NumeroFacturasVigentes2": 1,
+            "IngresosCobradoSinImpuestos": 0,
+            "ImpTrasladados2Base8": 0,
+            "ImpTrasladados2Iva8": 0,
+            "Iva8FacturaRecibidasTipoIngreso": 0,
+            "Iva8FacturasRecibidasTipoPago": 0,
+            "IvaPagadoSujetoEstimuloLaRegionFronteriza": 0
+          }
+        ],
+        "IVAPagadoTasa16": [
+          {
+            "Mes": "012",
+            "NumeroFacturasCanceladas": 0,
+            "NumeroFacturasVigentes": 5,
+            "Subtotal": 1772478996,
+            "Descuento": 35069466,
+            "SubtotalDescuento": 1737409530,
+            "ImpTrasladadosBase16": 1307894687,
+            "ImpTrasladadosIva16": 209263150,
+            "Mes2": "012",
+            "NumeroFacturasCanceladas2": 0,
+            "NumeroFacturasVigentes2": 1,
+            "IngresosCobradoSinImpuestos": 0,
+            "ImpTrasladados2Base16": 19532505,
+            "ImpTrasladados2Iva16": 3125201,
+            "Iva16FacturaRecibidasTipoIngreso": 1307894687,
+            "Iva16FacturasRecibidasTipoPago": 19532505,
+            "TotalLosActosActividadesPagadosTasa16": 1327427192
+          }
+        ],
+        "DetValorActosActGravadosDiferenteIVATipoIngresoDeterminacionIVA": [
+          {
+            "entidadori": "SAT_r2101262"
+          }
+        ],
+        "DetValorActosActGravadosDiferenteTasaIVATipoPagoDeterminacionIVA": [
+          {
+            "entidadori": "SAT_r2101269"
+          }
+        ]
+      }
+    }
+  ]
+}
