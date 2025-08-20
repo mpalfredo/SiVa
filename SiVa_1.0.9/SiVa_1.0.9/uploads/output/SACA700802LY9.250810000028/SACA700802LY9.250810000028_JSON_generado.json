@@ -1,0 +1,222 @@
+{
+    "IdentiDecla": {
+        "rfcdeclarante": "SACA700802LY9",
+        "rolvigente": "1|9|44|300031|300155|300295|300317|300429|300482|300505|",
+        "regvigente": "612|",
+        "oblvigente": "3|9|30|31|33|203|579|",
+        "verformu": "13",
+        "fechapresentacion": "2025-02-11T12:30:09",
+        "ejercicio": 2024,
+        "numerooperacion": 250810000028,
+        "iddeclaracion": "D81373B7-84C7-4E25-B584-ED8C02D64400",
+        "metodoautenticacion": "cpn/uat/contrib/dual/eFirmaTOTP-eFirma",
+        "bo_id": "20806043717388303776542206668",
+        "esquemajsondwh": "1.0.0.30"
+    },
+    "Contribuyente": {
+        "tipopersona": "F",
+        "apellidopaterno": "TORRES",
+        "apellidomaterno": "AYALA",
+        "nombre": "MARIA DE LA LUZ CONCEPCION",
+        "iddescon": "O-040",
+        "descdescon": "CIUDAD DE MEXICO 3",
+        "idactprep": "157",
+        "descactprep": "Otras construcciones de ingeniería civil u obra pesada",
+        "identfed": "09",
+        "descentfed": "CIUDAD DE MEXICO",
+        "idmunic": "09-007",
+        "descmunic": "GUSTAVO A MADERO",
+        "codigopostal": "07550",
+        "rolhistorico": "300484|",
+        "reghistorico": "613|618|606|612|606|604|604|",
+        "oblhistorica": "11|16|35|127|127|588|589|"
+    },
+    "Declaracion": {
+        "idperiodo": "099",
+        "descperiodo": "Sin Periodo",
+        "idperiodic": "N",
+        "descperiodic": "9-Sin período",
+        "idtipodecla": "001",
+        "desctipodecla": "Normal",
+        "idtipocomplem": "0",
+        "fechavencimiento": "2024-07-30",
+        "totalpagar": 0,
+        "fechavencilc": "2024-07-30T06:00:00",
+        "mediopresenta": "Internet ",
+        "firma": "false",
+        "fechadecausacion": "2024-07-09T06:00:00"
+    },
+    "AdminDeclaracion": [
+        {
+            "idconceptopago": "0161",
+            "descconceptopago": "ISR Personas físicas Actividad empresarial y profesional",
+            "impoconceptopago": 0,
+            "Concepto": {
+                "Pago": {
+                    "acargo": 7600,
+                    "parteactualizada": 189,
+                    "recargos": 687,
+                    "totalcontribuciones": 8476,
+                    "subsidioparaempleo": 176,
+                    "compensaciones": 8300,
+                    "tienescompensacionesporaplicar": 1,
+                    "tienesestimulosporaplicar": 2,
+                    "totalaplicaciones": 8476,
+                    "realizoult48pagoconcepto": 0,
+                    "cantidadacargo": 0,
+                    "optapagarparcialidades": 0,
+                    "cantidadapagar": 0,
+                    "tiposolicitud": 0,
+                    "DetMontoPagadoLineaCapturaADR": [],
+                    "totalmontoantadrs": 0,
+                    "deseaagregarlineanoconciderada": 0
+                },
+                "Compensaciones": [
+                    {
+                        "tipocompensacion": "PDI",
+                        "desccompensacion": "Pago de lo indebido",
+                        "periodicidadComp": "M",
+                        "periodocomp": "007",
+                        "ejerciciocomp": 2022,
+                        "conceptodelacomp": "0110",
+                        "saldoaaplicar": 8300,
+                        "tipodeclaracioncomp": "001",
+                        "numerooperacioncomp": 854965496496,
+                        "montosaldofavororig": 24114,
+                        "remanentehistantesaplica": 24114,
+                        "fechapresentodeclasaldofavor": "2024-01-03T06:00:00.000",
+                        "remanenteactualizadoantesaplica": 24114,
+                        "numeroconsecinteraccion": 1,
+                        "cveconceptoaplicocompensa": "0161",
+                        "total": 8300
+                    }
+                ],
+                "Estimulos": [],
+                "Deducciones": {
+                    "DetComprasYGastosDelPeriodo": {
+                        "comprasygastosfacturados": 0,
+                        "devolucionesdtosbonificaciones": 0,
+                        "comprasygastosmes": 0,
+                        "factegresoscomprasygastosmes": 0,
+                        "comprasygastosdeduciblesmes": 0,
+                        "comprasygastosmesesantpagadas": 0,
+                        "comprasygastosperiodo": 0,
+                        "DetComprasYGastosFacturados": {
+                            "comprasygastosmes": 0
+                        },
+                        "DetDescBoniFacturadasMes": {
+                            "descuentofacturastipoingreso": 0,
+                            "subtotaldtofacturasegreso": 0,
+                            "devolucionesdtosbonificacionesmes": 0
+                        },
+                        "DetFacturasEgresosRecibidas": {
+                            "factsegresoscomprasygastosmes": 0
+                        },
+                        "DetComprasYGastosMeses": {},
+                        "DetInversionesPeriodo": {
+                            "inversionesmesesantpagadas": 0,
+                            "deduccionesinversionesperiodo": 0
+                        },
+                        "DetEstimulos": {
+                            "totalestimuloenperiodo": 0,
+                            "totalaplicarenperiodo": 0
+                        }
+                    },
+                    "DetGastosNomNoConsEnPrellenado": [
+                        {
+                            "gastonominamesantedeclapagadas": 0,
+                            "gastosnominaperiodo": 0
+                        }
+                    ],
+                    "tienesfaciliadmestiaplicar": 0,
+                    "DetDeduccionesInversiones": []
+                },
+                "DeterminacionRCPF": {
+                    "BaseGravable": 88000,
+                    "ImpuestoCargo": 7600,
+                    "DetIngresosCobradosYAmparados": {
+                        "DetIngresosCobradosYAmparadosTot": []
+                    },
+                    "DetISRRetenidoPF": {
+                        "DetISRRetenidoTot": [
+                            {
+                                "isretenidomesant": 0
+                            }
+                        ],
+                        "totalisrretenido": 0
+                    },
+                    "DetPagosProvisionalesAnt": {
+                        "DetPagosProvisionalesAnterioridad": [],
+                        "pagosprovefectconantsolopagadas": 0
+                    },
+                    "DetEstimulosISRCausado": {
+                        "detestimulosisrcausado": [],
+                        "totaldelsaldopendiaplicarejercianterior": 0,
+                        "totaldelestimuloautorizadoenelperiodoquesedeclara": 0,
+                        "totaldelestimulodisponibleporaplicarenelperiodo": 0,
+                        "totalporaplicarenelperiodo": 0
+                    },
+                    "DetParticipacionesTrabajadores": {
+                        "montolimiteptu": 0,
+                        "ptupagadomesant": 0,
+                        "ptupagadomes": 0,
+                        "ptuacumuladaaaplicarenelperiodo": 0,
+                        "ptuacumuladaenperiodos": []
+                    },
+                    "Totingdelper": 88000,
+                    "totalptudisminuir": 0,
+                    "Impuestocausado": 17600,
+                    "tieneestimuloaplicar": "0",
+                    "impuestocausadotasa16": 0,
+                    "impacargoestimacreditablemenosprov": 0,
+                    "DetEstimuloISRRegionFronteriza": {},
+                    "DetPerdidasFiscalesEjerciciosAnterioresPendientesAplicar": {
+                        "MontoLimPerdidaAplica": 0
+                    },
+                    "DetPagosProvRC": [],
+                    "DetDeduccionInmediataInversionesPF": [],
+                    "totalivaacreditable": 1,
+                    "totalimpuestoretenido": 10000,
+                    "DetPagosProvisionalesEfectuadosPeriodosAnteriores": {
+                        "DetPagosProvEfecPerAntISRPF": []
+                    }
+                },
+                "IngresosRCPF": {
+                    "IngresosCobradosMes": 88000,
+                    "DetIngresosFacturados": {
+                        "DetIngresosFacturadosMes": []
+                    },
+                    "DetIngresosCobradosMes": [],
+                    "DetTotalIngresosPeriodo": [
+                        {}
+                    ],
+                    "DetIngresosNominales": {},
+                    "Tusingfueobtcoposoccon": 0,
+                    "Tieingadisdelmes": 0,
+                    "Tieingadicdelmes": 0,
+                    "ingexen": 0,
+                    "DetIngresosExentos": {
+                        "Totalingexentos": 88000,
+                        "ingexemesant": 0,
+                        "inguniperi": 0,
+                        "DetIngresosExentosMes": [
+                            {}
+                        ]
+                    },
+                    "DetTotalesIngresosCobradosMes": {},
+                    "DetIngresosMesesAnt": {
+                        "ingmesesantsolodeclapagadas": 0,
+                        "DetIngresosMesesAnteriores": []
+                    },
+                    "DetIngresosMes": [
+                        {}
+                    ],
+                    "DetTotalIngresosEfectCobradosPeriodo": []
+                },
+                "DatosAdicionalesRCPF": {
+                    "DetDatosAdicionalesRCPF": []
+                }
+            }
+        }
+    ]
+}

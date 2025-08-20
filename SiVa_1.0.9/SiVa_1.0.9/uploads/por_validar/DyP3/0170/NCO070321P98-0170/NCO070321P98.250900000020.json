@@ -1,0 +1,443 @@
+{
+  "IdentiDecla": {
+    "rfcdeclarante": "NCO070321P98",
+    "rolvigente": "2|40|42|300051|300055|300061|300066|300477|",
+    "regvigente": "601|",
+    "oblvigente": "8|9|24|26|27|30|44|46|61|79|203|218|579|597|",
+    "verformu": "13",
+    "fechapresentacion": "2025-01-24T15:44:29",
+    "ejercicio": 2024,
+    "numerooperacion": 250900000020,
+    "iddeclaracion": "5202BBA5-954C-46EB-A9D7-AE9DE7F8F1D8",
+    "metodoautenticacion": "cpn/uat/contrib/contrasena",
+    "bo_id": "846762407020698080019068188056",
+    "esquemajsondwh": "1.0.0.29"
+  },
+  "Contribuyente": {
+    "tipopersona": "M",
+    "razonsocial": "HYGEIA DEL GOLFO",
+    "iddescon": "O-035",
+    "descdescon": "MEXICO 2",
+    "idactprep": "182",
+    "descactprep": "Otros trabajos especializados para la construcción",
+    "identfed": "15",
+    "descentfed": "MEXICO",
+    "idmunic": "15-037",
+    "descmunic": "HUIXQUILUCAN",
+    "codigopostal": "52784",
+    "rolhistorico": "300734|300735|",
+    "oblhistorica": "11|15|42|588|702|"
+  },
+  "Declaracion": {
+    "idperiodo": "011",
+    "descperiodo": "Noviembre",
+    "idperiodic": "M",
+    "descperiodic": "1-Mensual",
+    "idtipodecla": "001",
+    "desctipodecla": "Normal",
+    "idtipocomplem": "0",
+    "fechavencimiento": "2024-12-18",
+    "totalpagar": 0,
+    "fechavencilc": "2024-12-18T06:00:00",
+    "mediopresenta": "Internet ",
+    "desctiposoc": "SC",
+    "firma": "true",
+    "seriecert": "30001000000500007666",
+    "fechadecausacion": "2024-12-18T06:00:00"
+  },
+  "AdminDeclaracion": [
+    {
+      "idconceptopago": "0170",
+      "descconceptopago": "ISR simplificado de confianza. PODEBI",
+      "impoconceptopago": 0,
+      "Concepto": {
+        "Pago": {
+          "acargo": 142388939,
+          "parteactualizada": 541078,
+          "recargos": 2101071,
+          "totalcontribuciones": 145031088,
+          "tienescompensacionesporaplicar": 2,
+          "tienesestimulosporaplicar": 1,
+          "estimulos": 145031088,
+          "totalaplicaciones": 145031088,
+          "realizoult48pagoconcepto": 0,
+          "cantidadacargo": 0,
+          "optapagarparcialidades": 0,
+          "cantidadapagar": 0,
+          "tiposolicitud": 0,
+          "DetMontoPagadoLineaCapturaADR": [],
+          "totalmontoantadrs": 0,
+          "deseaagregarlineanoconciderada": 0
+        },
+        "Estimulos": [
+          {
+            "limiteestimulosaplica": 0,
+            "numconsecutivoiteracion": 1,
+            "tipodeestimulo": 30,
+            "descestimulo": "Estímulo fiscal complementario a los combustibles automotrices",
+            "poraplicarperiodo": 140000000,
+            "total": 145031088
+          },
+          {
+            "limiteestimulosaplica": 0,
+            "numconsecutivoiteracion": 2,
+            "tipodeestimulo": 29,
+            "descestimulo": "Estímulo a gasolinas en regiones cercanas a zona fronteriza",
+            "poraplicarperiodo": 2276000,
+            "total": 145031088
+          },
+          {
+            "limiteestimulosaplica": 0,
+            "numconsecutivoiteracion": 3,
+            "tipodeestimulo": 18,
+            "descestimulo": "Estímulo a gasolinas en zona fronteriza",
+            "poraplicarperiodo": 2755088,
+            "total": 145031088
+          }
+        ],
+        "IngresosRGPM": {
+          "IngNominalFacturaPeriodo": 477512575,
+          "TieneIngNominalAdic": 2,
+          "TieneIngNominalDismin": 2,
+          "IngNominalPeriodo": 477512575,
+          "IngNominalPeriodoAnterior": 471747017,
+          "TotalIngresoNominal": 949259592,
+          "IngresosNominalesPeriodosAnteriores": {
+            "DetIngresosNominalesPeriodosAnteriores": [
+              {
+                "IdPeriodoAnte": "001",
+                "DescPeriodoAnte": "Enero",
+                "IngNominalAnte": 471747017,
+                "EstatusAnterior": "ED03"
+              },
+              {
+                "IdPeriodoAnte": "002",
+                "DescPeriodoAnte": "Febrero",
+                "IngNominalAnte": 471747017,
+                "EstatusAnterior": "ED03"
+              },
+              {
+                "IdPeriodoAnte": "003",
+                "DescPeriodoAnte": "Marzo",
+                "IngNominalAnte": 471747017,
+                "EstatusAnterior": "ED03"
+              },
+              {
+                "IdPeriodoAnte": "004",
+                "DescPeriodoAnte": "Abril",
+                "IngNominalAnte": 471747017,
+                "EstatusAnterior": "ED03"
+              },
+              {
+                "IdPeriodoAnte": "005",
+                "DescPeriodoAnte": "Mayo",
+                "IngNominalAnte": 471747017,
+                "EstatusAnterior": "ED03"
+              },
+              {
+                "IdPeriodoAnte": "006",
+                "DescPeriodoAnte": "Junio",
+                "IngNominalAnte": 471747017,
+                "EstatusAnterior": "ED03"
+              },
+              {
+                "IdPeriodoAnte": "007",
+                "DescPeriodoAnte": "Julio",
+                "IngNominalAnte": 471747017,
+                "EstatusAnterior": "ED03"
+              },
+              {
+                "IdPeriodoAnte": "008",
+                "DescPeriodoAnte": "Agosto",
+                "IngNominalAnte": 471747017,
+                "EstatusAnterior": "ED03"
+              },
+              {
+                "IdPeriodoAnte": "009",
+                "DescPeriodoAnte": "Septiembre",
+                "IngNominalAnte": 471747017,
+                "EstatusAnterior": "ED03"
+              },
+              {
+                "IdPeriodoAnte": "010",
+                "DescPeriodoAnte": "Octubre",
+                "IngNominalAnte": 471747017,
+                "EstatusAnterior": "ED04",
+                "NumeroOperacionPrellenado": 250740000006,
+                "FechaPresentacionPrellenado": "2025-01-17",
+                "IngNominalAtri": 471747017
+              }
+            ]
+          },
+          "DetIngresosNominales": {},
+          "DetTotalIngresosNominalesPeriodo": {}
+        },
+        "DeterminacionRGPM": {
+          "TotIngNominal": 949259592,
+          "TienesAutorizacionDisminuirPagoProv": 2,
+          "UtilFiscalPagoProv": 474629796,
+          "ParticipaTrabajadorUtil": 0,
+          "TienePerdidaFiscalEjerante": 1,
+          "PerdidaFiscalEjerante": 0,
+          "BaseGravaPagoProv": 474629796,
+          "ImpuestoCausado": 142388939,
+          "TieneEstimuloAplicar": 0,
+          "EstimuloISRCausado": 0,
+          "ImpuestoPeriodo": 142388939,
+          "ImpuestoAcredDivDist": 0,
+          "PagoProveFecPerAnte_a": 0,
+          "TotImpuestoRetenido": 0,
+          "ImpuestoCargo": 142388939,
+          "EstISRCausado": {
+            "DetEstimuloISRCausado": [
+              {
+                "DetEstimuloISRCausadoRF": [
+                  {}
+                ]
+              }
+            ]
+          },
+          "DetPagosProvisionalesEfectuadosPeriodosAnteriores": {
+            "TotalPagoProvEfecPeriodoAnte": 0,
+            "DetPagosProvEfecPerAntISRPM": [
+              {
+                "IdPeriodoPagoProv": "001",
+                "DescPeriodoPagoProv": "Enero",
+                "EstatusPagoProv": "ED03"
+              },
+              {
+                "IdPeriodoPagoProv": "002",
+                "DescPeriodoPagoProv": "Febrero",
+                "EstatusPagoProv": "ED03"
+              },
+              {
+                "IdPeriodoPagoProv": "003",
+                "DescPeriodoPagoProv": "Marzo",
+                "EstatusPagoProv": "ED03"
+              },
+              {
+                "IdPeriodoPagoProv": "004",
+                "DescPeriodoPagoProv": "Abril",
+                "EstatusPagoProv": "ED03"
+              },
+              {
+                "IdPeriodoPagoProv": "005",
+                "DescPeriodoPagoProv": "Mayo",
+                "EstatusPagoProv": "ED03"
+              },
+              {
+                "IdPeriodoPagoProv": "006",
+                "DescPeriodoPagoProv": "Junio",
+                "EstatusPagoProv": "ED03"
+              },
+              {
+                "IdPeriodoPagoProv": "007",
+                "DescPeriodoPagoProv": "Julio",
+                "EstatusPagoProv": "ED03"
+              },
+              {
+                "IdPeriodoPagoProv": "008",
+                "DescPeriodoPagoProv": "Agosto",
+                "EstatusPagoProv": "ED03"
+              },
+              {
+                "IdPeriodoPagoProv": "009",
+                "DescPeriodoPagoProv": "Septiembre",
+                "EstatusPagoProv": "ED03"
+              },
+              {
+                "IdPeriodoPagoProv": "010",
+                "DescPeriodoPagoProv": "Octubre",
+                "ImpuestoACargo": 0,
+                "ACargo": 0,
+                "RealizoUlt48PagoConcepto": 0,
+                "CantidadACargo": 0,
+                "CantidadAPagar": 0,
+                "EstatusPagoProv": "ED04",
+                "NumeroOperacionPrellenado": 250740000006,
+                "FechaPresentacionPrellenado": "2025-01-17"
+              }
+            ]
+          },
+          "DetISRRetenidoPeriodosAnteriores": {
+            "ImpuestoRetenidoDelPeriodo": 0,
+            "TotalImpuestoRetenido": 0,
+            "DetISRPMRGImpRetPeAnt": [
+              {
+                "IdPeriodoAnte": "001",
+                "DescPeriodoAnte": "Enero",
+                "EstatusImpuPeriodoAnte": "ED03"
+              },
+              {
+                "IdPeriodoAnte": "002",
+                "DescPeriodoAnte": "Febrero",
+                "EstatusImpuPeriodoAnte": "ED03"
+              },
+              {
+                "IdPeriodoAnte": "003",
+                "DescPeriodoAnte": "Marzo",
+                "EstatusImpuPeriodoAnte": "ED03"
+              },
+              {
+                "IdPeriodoAnte": "004",
+                "DescPeriodoAnte": "Abril",
+                "EstatusImpuPeriodoAnte": "ED03"
+              },
+              {
+                "IdPeriodoAnte": "005",
+                "DescPeriodoAnte": "Mayo",
+                "EstatusImpuPeriodoAnte": "ED03"
+              },
+              {
+                "IdPeriodoAnte": "006",
+                "DescPeriodoAnte": "Junio",
+                "EstatusImpuPeriodoAnte": "ED03"
+              },
+              {
+                "IdPeriodoAnte": "007",
+                "DescPeriodoAnte": "Julio",
+                "EstatusImpuPeriodoAnte": "ED03"
+              },
+              {
+                "IdPeriodoAnte": "008",
+                "DescPeriodoAnte": "Agosto",
+                "EstatusImpuPeriodoAnte": "ED03"
+              },
+              {
+                "IdPeriodoAnte": "009",
+                "DescPeriodoAnte": "Septiembre",
+                "EstatusImpuPeriodoAnte": "ED03"
+              },
+              {
+                "IdPeriodoAnte": "010",
+                "DescPeriodoAnte": "Octubre",
+                "EstatusImpuPeriodoAnte": "ED04",
+                "NumeroOperacionPrellenado": 250740000006,
+                "FechaPresentacionPrellenado": "2025-01-17"
+              }
+            ]
+          },
+          "DetCoeficienteUtilidad": [
+            {
+              "Consecutivo": 1,
+              "EjerCoefUtil": 2023,
+              "Origen": "C"
+            },
+            {
+              "Consecutivo": 2,
+              "EjerCoefUtil": 2022
+            },
+            {
+              "Consecutivo": 3,
+              "EjerCoefUtil": 2021
+            },
+            {
+              "Consecutivo": 4,
+              "EjerCoefUtil": 2020
+            },
+            {
+              "Consecutivo": 5,
+              "EjerCoefUtil": 2019
+            }
+          ],
+          "DetPorcentajeAplicableParaDeterminarUtilidadFiscal": [
+            {
+              "ActPreponderante": "CA00"
+            }
+          ],
+          "DetParticipacionTrabajadoresUtilidades": {
+            "MontoLimPTUAplica": 474629796,
+            "PTUPagadoMesMayo": 0,
+            "LimitePTUDistPeriodo": 0,
+            "PTUAcumAplicaPeriodo": 0
+          },
+          "DetPerdidasFiscalesEjerciciosAnterioresPendientesAplicar": {
+            "MontoLimPerdidaAplica": 474629796,
+            "PerdidaEjerAnteAplica": 0,
+            "PerdidaActualAplicaPeriodo": 0
+          },
+          "DetImpuestoAcreditableDividendosUtilidadesDistribuidas": {},
+          "DetDisminucionPagoProvisonal": [
+            {}
+          ],
+          "DetDeduccionInmediataInversionesNearshoringRG": [
+            {
+              "Mes": "001",
+              "Estatus": "ED03",
+              "DedInmInvMesAntDeclaPagadas": 0,
+              "DeduInmInveMes": 0,
+              "DedInmInverPeriodo": 0
+            },
+            {
+              "Mes": "002",
+              "Estatus": "ED03",
+              "DedInmInvMesAntDeclaPagadas": 0,
+              "DeduInmInveMes": 0,
+              "DedInmInverPeriodo": 0
+            },
+            {
+              "Mes": "003",
+              "Estatus": "ED03",
+              "DedInmInvMesAntDeclaPagadas": 0,
+              "DeduInmInveMes": 0,
+              "DedInmInverPeriodo": 0
+            },
+            {
+              "Mes": "004",
+              "Estatus": "ED03",
+              "DedInmInvMesAntDeclaPagadas": 0,
+              "DeduInmInveMes": 0,
+              "DedInmInverPeriodo": 0
+            },
+            {
+              "Mes": "005",
+              "Estatus": "ED03",
+              "DedInmInvMesAntDeclaPagadas": 0,
+              "DeduInmInveMes": 0,
+              "DedInmInverPeriodo": 0
+            },
+            {
+              "Mes": "006",
+              "Estatus": "ED03",
+              "DedInmInvMesAntDeclaPagadas": 0,
+              "DeduInmInveMes": 0,
+              "DedInmInverPeriodo": 0
+            },
+            {
+              "Mes": "007",
+              "Estatus": "ED03",
+              "DedInmInvMesAntDeclaPagadas": 0,
+              "DeduInmInveMes": 0,
+              "DedInmInverPeriodo": 0
+            },
+            {
+              "Mes": "008",
+              "Estatus": "ED03",
+              "DedInmInvMesAntDeclaPagadas": 0,
+              "DeduInmInveMes": 0,
+              "DedInmInverPeriodo": 0
+            },
+            {
+              "Mes": "009",
+              "Estatus": "ED03",
+              "DedInmInvMesAntDeclaPagadas": 0,
+              "DeduInmInveMes": 0,
+              "DedInmInverPeriodo": 0
+            },
+            {
+              "Mes": "010",
+              "Estatus": "ED04",
+              "DedInmInvMesAntDeclaPagadas": 0,
+              "DeduInmInveMes": 0,
+              "DedInmInverPeriodo": 0,
+              "NumeroOperacionPrellenado": 250740000006,
+              "FechaPresentacionPrellenado": "2025-01-17"
+            }
+          ],
+          "DetDeduccionInmediataInversionesPlanSonoraRG": [],
+          "DetDeduccionInmediataPODEBI": []
+        }
+      }
+    }
+  ]
+}

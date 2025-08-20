@@ -1,0 +1,1901 @@
+{
+    "sat_declaracion_contribuyente": {
+        "D_DEC_CURP0001": "OIHC860804MGTLRN04",
+        "D_DEC_EPSROP01": "0",
+        "D_DEC_NOMBRE01": "MARIA CONCEPCION",
+        "D_DEC_APPAETL1": "OLIVA",
+        "D_DEC_AMPAETL1": "HERNANDEZ",
+        "B_DEC_TPIEPRO1": "F",
+        "D_DEC_RFCEEOG1": "OIHC860804LB5",
+        "D_DEC_BO_ID001": "632032693069318571859329263152",
+        "D_DEC_ALSC0001": "O-027",
+        "D_DEC_IDDECLA1": "EAF9C4EC-6E7F-4003-BB76-21C8AAD17B2D",
+        "N_DEC_VREERFS1": 11,
+        "D_DEC_CTCLIOA1": "0",
+        "D_DEC_CPLEARV1": "035",
+        "D_DEC_DTDEIES1": "Normal",
+        "D_DEC_DPEESRC1": "8-Del Ejercicio",
+        "D_DEC_DPEESRC2": "Del Ejercicio",
+        "D_DEC_CCDLLEA1": "002",
+        "F_DEC_FVDEEEC1": "2024-04-30T00:00:00",
+        "F_DEC_FCEACUH1": "2024-04-30T06:00:00",
+        "N_DEC_EJERCIC1": 2023,
+        "D_DEC_CTDLIEA1": "001",
+        "D_DEC_CPLEARV2": "Y",
+        "B_DEC_MLDELED1": "E",
+        "D_DEC_IDPDEAC1": "00000000-0000-0000-0000-000000000000",
+        "D_DEC_IDRDEAC1": "00000000-0000-0000-0000-000000000000",
+        "D_DEC_MPDERED1": "Internet",
+        "F_DEC_FCDEOEC1": "2024-05-08T00:00:00",
+        "D_DEC_CUILSNA1": "OIHC860804LB5",
+        "D_DEC_CUCLSOA1": "OIHC860804LB5",
+        "D_DEC_CRPLERA1": "6",
+        "D_DEC_DRPEERS1": "Declaración Anual de Personas Físicas",
+        "N_DEC_FDIERCM1": 0,
+        "D_DEC_MAEUDTI1": "sat/fiel/contribuyentes/uri",
+        "D_DEC_EFNETDI1": "11",
+        "F_DEC_FPDEREC1": "2024-05-08T10:09:42",
+        "D_DEC_SDEILGL1": "OQEnhuBOfFOZsjEDixXD0oUFGQQFgujOcnpoB+kTSpiAKV21KTSpdIQlsH49zlHyU7gIdZ1dTRV8nSO3SVMdsHyKqf5AIlP2+D4vY1aVWiyRi14Fd0DNpoKmiYkukTE+pyAEu7fZmTT1EghFWw7HDBXJJjSOGBxapGCvoK8ZbQvfL6rWiYLQUtT+fZnH1gMgzCu7u1fUMBcFSEZZM3qhSD0my1hijt5NE4gomXAsbn+zNJfYCsRHHZhZ+Ws3Jy27Joa8tW8HWKi493m8hPhQmnZzAdLYDgsBnI8ETLh+vM+lW6wu4Hwh5KjlMjvHq740nY3b+ItHAjwCqttqfDhOnA==",
+        "D_DEC_LOPIEBA1": 2,
+        "N_DEC_NOUPMEE1": "240000415360",
+        "I_DEC_TPOATGA1": "0"
+    },
+    "af2_sat_anexos_act_emp_det_per_fis_eje_ant_cal_rem8": {
+        "D_DEC_AGPNEEO2": "2020",
+        "I_DEC_PPAEEPR2": "6793",
+        "I_DEC_PFAEICR2": "6886",
+        "I_DEC_PAEEOPS2": "0",
+        "I_DEC_REMANEN2": "6886"
+    },
+    "af2_sat_act_emp_det_ing": [
+        {
+            "D_DEC_CIONNGC1": "CIAE01",
+            "I_DEC_MIONNGT1": "3156185"
+        }
+    ],
+    "af2_sat_act_emp_pos_fin_act": [
+        {
+            "D_DEC_CIONNGC1": "CATAC15",
+            "I_DEC_MIONNGT1": "0"
+        }
+    ],
+    "af2_sat_act_emp_pos_fin_cap": [
+        {
+            "D_DEC_CIONNGC1": "CATCAP08",
+            "I_DEC_MIONNGT1": "0"
+        }
+    ],
+    "af2_sat_act_emp_pos_fin_pas": [
+        {
+            "D_DEC_CIONNGC1": "CATPAS04",
+            "I_DEC_MIONNGT1": "0"
+        }
+    ],
+    "af2_sat_anexos_didcemi_1": {
+        "D_DEC_ADDENDA2": "Addenda",
+        "D_DEC_CMPLERA1": "WEB",
+        "D_DEC_IDAREAG1": "1",
+        "D_DEC_DAGERES1": "A",
+        "D_DEC_SUBREGI1": "612|Régimen de las Personas Físicas con Actividades Empresariales y Profesionales|2011-05-30|",
+        "N_DEC_CALCULO1": 0,
+        "N_DEC_PRECARG1": 1,
+        "N_DEC_FLUIENR1": 0,
+        "D_DEC_IDAPLIC1": "1",
+        "D_DEC_NAOPMLB1": "ANUAL INTERNET",
+        "D_DEC_EMSOVI01": "0",
+        "D_DEC_CPOONPO1": "1|Persona|R|2011-05-30|2999-12-31;9|Persona Fisica|R|2011-05-30|2999-12-31;44|Contacto Gestión (PART)|R|2011-05-30|2999-12-31;46|Particular Venta|R|2011-05-30|2999-12-31;300155|CONTRIBUYENTE PF|SR|2011-05-30|2999-12-31;300250|PATRON PF|R|2011-05-30|2099-12-31;300429|EMPRESARIAL PF|R|2011-05-30|2099-12-31;300484|ACTIVIDAD ALTA PF|R|2011-05-30|",
+        "N_DEC_TPSIRAE1": 0,
+        "N_DEC_TPCIRFE1": 1,
+        "N_DEC_TPIIRNE1": 1,
+        "N_DEC_TPPIRRE1": 1,
+        "D_DEC_CEOLRER1": "jcarmonap27@gmail.com",
+        "N_DEC_TPCIRLE1": 0,
+        "D_DEC_TFIOTRU1": "PERSONAS FÍSICAS",
+        "I_DEC_AEACMCT1": "0",
+        "I_DEC_AEPCMAT1": "0",
+        "I_DEC_AECCMAT1": "0",
+        "I_DEC_AEIACMN1": "3156185",
+        "I_DEC_AEDACME1": "3158582",
+        "N_DEC_DDTCACE1": 0,
+        "I_DEC_MADPOPE1": "21560",
+        "I_DEC_DIATDPE1": "21560",
+        "I_DEC_TSIAOAN1": "0",
+        "I_DEC_SSAIEUA1": "0",
+        "I_DEC_AETICMO1": "3156185",
+        "I_DEC_AEODCMT1": "0",
+        "I_DEC_AETDACM1": "3158582",
+        "I_DEC_AEUGCMT1": "0",
+        "I_DEC_AEPFCME1": "2397",
+        "I_DEC_AEIPPCM1": "0",
+        "I_DEC_PFEAEIJ1": "0",
+        "I_DEC_AEAUGCM1": "0",
+        "I_DEC_AEAPFCM1": "2397",
+        "I_DEC_AEMPDCM1": "0",
+        "I_DEC_AEMPDGC1": "0",
+        "I_DEC_SPUGDER1": "0",
+        "N_DEC_AALPRIL1": 0,
+        "N_DEC_AALPRIL2": 0,
+        "I_DEC_USRITUE1": "-21560",
+        "I_DEC_UNSRITO1": "21671",
+        "I_DEC_ISBARSO1": "0",
+        "I_DEC_RIESDRU1": "0",
+        "I_DEC_IRMEPDU1": "0",
+        "I_DEC_ISIASON1": "0",
+        "I_DEC_IIANNCT1": "111",
+        "I_DEC_SFMTINI1": "434",
+        "I_DEC_SFMTIRI1": "111",
+        "I_DEC_SFMTPII1": "0",
+        "I_DEC_SFMTIRI2": "0",
+        "I_DEC_IPEANEJ1": "0",
+        "I_DEC_MTDUOOI1": "0",
+        "I_DEC_MTIPSOO1": "0",
+        "I_DEC_DIAISCV1": "0",
+        "I_DEC_DIDIIAE1": "0",
+        "I_DEC_DIAENCM2": "0",
+        "I_DEC_PMIARON1": "0",
+        "I_DEC_EDIANEN1": "0",
+        "I_DEC_EDPNEEA1": "0",
+        "I_DEC_EBGNARA1": "111",
+        "I_DEC_EITANSA1": "2"
+    },
+    "af2_sat_anexos_didcemi_2": {
+        "I_DEC_AIADNCQ1": "0",
+        "I_DEC_DIAIAES1": "111",
+        "I_DEC_DIABGES1": "0",
+        "I_DEC_DIAITAE1": "0",
+        "I_DEC_DIAPPES1": "0",
+        "I_DEC_DIAIRES1": "0",
+        "I_DEC_DIAADII1": "0",
+        "I_DEC_DIAICES1": "0",
+        "D_DEC_DIANBES1": "0",
+        "D_DEC_DIADPES1": "0",
+        "N_DEC_DICOSFI1": 0,
+        "I_DEC_ISRCMOE1": "0",
+        "I_DEC_DIEPIDT1": "0",
+        "I_DEC_DIIAAEM1": "0",
+        "D_DEC_DIANCCE1": "-1",
+        "I_DEC_AEPPECM1": "0",
+        "N_DEC_AETEFNA1": 2,
+        "I_DEC_IEDRPPN1": "0",
+        "I_DEC_INSERPP1": "0",
+        "N_DEC_AEPIACM1": "3156185",
+        "N_DEC_AEPDACM1": "3158582",
+        "N_DEC_AEPPPCM1": "0",
+        "I_DEC_IRPMSEE1": "0",
+        "I_DEC_IRSERTE1": "0",
+        "N_DEC_ODEFPIS1A": 2,
+        "B_DEC_TEACICA1": 2,
+        "N_DEC_AETPCMI1": 1,
+        "I_DEC_SPTCEAO1": "0",
+        "N_DEC_URUHPCS1": 0,
+        "I_DEC_SPTAEAO1": "0",
+        "I_DEC_SPCCEAA1": "0",
+        "N_DEC_OPPPAAT1": 0,
+        "I_DEC_SPCPEAA1": "0",
+        "N_DEC_NPUAMRE1": 0,
+        "I_DEC_SPCEAAC1": "0",
+        "N_DEC_TODIDIT1B": 2,
+        "I_DEC_DISEMAT1": "0",
+        "N_DEC_DITEENO1": 2018,
+        "N_DEC_DITEENO2": 2019,
+        "N_DEC_DITEENO3": 2020,
+        "N_DEC_DITEENO4": 2021,
+        "N_DEC_DITEENO5": 2022,
+        "N_DEC_OIPTUEJ1A": 2,
+        "I_DEC_DISPEME1": "0",
+        "I_DEC_CIONPTP1": "434",
+        "D_DEC_ISTEFAN1": "2"
+    },
+    "af2_sat_anexos_didcemi_3": {
+        "N_DEC_OIPSNBN1": 2,
+        "N_DEC_OIRPTBN1": 2,
+        "I_DEC_DIIAEMN1": "3156619",
+        "N_DEC_TIEONJT1": 2018,
+        "N_DEC_TIEONJT2": 2019,
+        "N_DEC_TIEONJT3": 2020,
+        "N_DEC_TIEONJT4": 2021,
+        "N_DEC_TIEONJT5": 2022,
+        "I_DEC_MEODNUT1": "12900",
+        "I_DEC_MHMOOEN1": "8660",
+        "I_DEC_MPDOEEN1": "180562",
+        "N_DEC_TIOCSCS1": 2,
+        "N_DEC_OIPDPSB1": 2,
+        "D_DEC_OCDPOEC1": "J",
+        "I_DEC_AESMDCM1": "3158582",
+        "I_DEC_AESTCMU1": "0",
+        "N_DEC_SRMSFUF1": 0,
+        "I_DEC_TAUONMP1": "37844.4",
+        "I_DEC_TEODTUA1": "12900",
+        "I_DEC_TGROAET1": "0",
+        "I_DEC_THMOOET1": "8660",
+        "I_DEC_TIEOMDT1": "37920",
+        "I_DEC_TIHMOMO1": "8660",
+        "I_DEC_DITIEOM1": "0",
+        "I_DEC_TMAOOPT1": "21560",
+        "I_DEC_TMDOOET1": "21560",
+        "I_DEC_TRMOEET1": "0",
+        "I_DEC_DITDEMO1": "21560",
+        "I_DEC_DITIEMO1": "111"
+    },
+    "af2_sat_anexos_act_emp_det_per_fis_eje_ant_cal_rem10": {
+        "D_DEC_AGPNEEO2": "2022",
+        "I_DEC_PPAEEPR2": "5341",
+        "I_DEC_PFAEICR2": "0",
+        "I_DEC_PAEEOPS2": "0",
+        "I_DEC_REMANEN2": "0"
+    },
+    "af2_sat_anexos_det_inf_nom_sue_sal_asi2": [
+        {
+            "N_DEC_MES00001": "001",
+            "I_DEC_TAOSTIA1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED03",
+            "I_DEC_NTURMAE1": "0"
+        },
+        {
+            "N_DEC_MES00001": "002",
+            "I_DEC_TAOSTIA1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED03",
+            "I_DEC_NTURMAE1": "0"
+        },
+        {
+            "N_DEC_MES00001": "003",
+            "I_DEC_TAOSTIA1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED03",
+            "I_DEC_NTURMAE1": "0"
+        },
+        {
+            "N_DEC_MES00001": "004",
+            "I_DEC_TAOSTIA1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED03",
+            "I_DEC_NTURMAE1": "0"
+        },
+        {
+            "N_DEC_MES00001": "005",
+            "I_DEC_TAOSTIA1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED03",
+            "I_DEC_NTURMAE1": "0"
+        },
+        {
+            "N_DEC_MES00001": "006",
+            "I_DEC_TAOSTIA1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED03",
+            "I_DEC_NTURMAE1": "0"
+        },
+        {
+            "N_DEC_MES00001": "007",
+            "I_DEC_TAOSTIA1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED03",
+            "I_DEC_NTURMAE1": "0"
+        },
+        {
+            "N_DEC_MES00001": "008",
+            "I_DEC_TAOSTIA1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED03",
+            "I_DEC_NTURMAE1": "0"
+        },
+        {
+            "N_DEC_MES00001": "009",
+            "I_DEC_TAOSTIA1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED03",
+            "I_DEC_NTURMAE1": "0"
+        },
+        {
+            "N_DEC_MES00001": "010",
+            "I_DEC_TAOSTIA1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED03",
+            "I_DEC_NTURMAE1": "0"
+        },
+        {
+            "N_DEC_MES00001": "011",
+            "I_DEC_TAOSTIA1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED03",
+            "I_DEC_NTURMAE1": "0"
+        },
+        {
+            "N_DEC_MES00001": "012",
+            "I_DEC_TAOSTIA1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED03",
+            "I_DEC_NTURMAE1": "0"
+        }
+    ],
+    "af2_sat_anexos_didcemi3B": {
+        "I_DEC_PTUTACE1": "0",
+        "I_DEC_PPAAETE1": "0",
+        "I_DEC_PAEAETC1": "0",
+        "I_DEC_LPAIEPM1": "0",
+        "I_DEC_MRAOEPN1": "0",
+        "I_DEC_TPPAOEE1": "12134",
+        "I_DEC_TPFAOEI1": "6886",
+        "I_DEC_TAEEOPS1": "0",
+        "I_DEC_TRAEOEC1": "6886",
+        "I_DEC_TIAONET1": "3156185",
+        "I_DEC_TIOPTON1": "3156185",
+        "I_DEC_TIQSCEA1": "3156185",
+        "I_DEC_PPQSCCA1": "0",
+        "I_DEC_PTUTSPA1": "0",
+        "I_DEC_ITNMOOP1": "172484",
+        "I_DEC_NTTNURO1": "3",
+        "I_DEC_ISSMUAP1": "172484",
+        "I_DEC_IRSSSEU1": "691",
+        "I_DEC_IESSSNU1": "690",
+        "I_DEC_DSSIUAF1": "1",
+        "I_DEC_NTSSURU1": "3",
+        "I_DEC_IASMSAP1": "0",
+        "I_DEC_IRASSES1": "0",
+        "I_DEC_DASISAF1": "0",
+        "I_DEC_NTASURS1": "0",
+        "I_DEC_NSSEOUA1": "4458",
+        "I_DEC_NSSGOUA1": "168026",
+        "I_DEC_NSSTOUA1": "172484",
+        "I_DEC_TNSSOOU1": "172484",
+        "I_DEC_TNESSOO1": "4458",
+        "I_DEC_TIRSSOS1": "691",
+        "I_DEC_TIESSOS1": "690",
+        "I_DEC_TDSSOIU1": "1",
+        "I_DEC_TTSSORU1": "3",
+        "I_DEC_INCCPDS1": "172484",
+        "I_DEC_INECCPD1": "4458",
+        "I_DEC_NSSNDEO1": "2095",
+        "I_DEC_NSSNDGO1": "0",
+        "I_DEC_NSSNDTO1": "2095",
+        "I_DEC_NSSDEOU1": "2363",
+        "I_DEC_NSSDGOU1": "168026",
+        "I_DEC_NSSDTOU1": "170389",
+        "I_DEC_NASOSAM1": "0",
+        "I_DEC_NASDPLO1": "0",
+        "I_DEC_NASDOSA1": "0",
+        "I_DEC_NSSDOUA1": "170389",
+        "I_DEC_NASDSSA1": "0",
+        "I_DEC_NDOEMDI1": "170389",
+        "I_DEC_SSADUAS1": "170389",
+        "I_DEC_SSADUAS2": "2095",
+        "I_DEC_AESPHCM1": "170389",
+        "I_DEC_PTUEART1": "0",
+        "I_DEC_PTUGART1": "0",
+        "I_DEC_PTUTART1": "0",
+        "I_DEC_VEIXAET1": "0",
+        "I_DEC_VGIRAAT1": "0",
+        "I_DEC_VTIOATT1": "0",
+        "I_DEC_OCDETOE1": "0",
+        "I_DEC_OCDEGOE1": "0",
+        "I_DEC_OCDTTOE1": "0",
+        "I_DEC_SPANEEO1": "2",
+        "I_DEC_NEDEOXE1": "2095",
+        "I_DEC_NEDTOXE1": "2095",
+        "I_DEC_NSSNDEO2": "2095",
+        "I_DEC_NSSNDGO2": "0",
+        "I_DEC_NSSNDTO2": "2095",
+        "I_DEC_TAOSTIA1": "0",
+        "I_DEC_TIROSET1": "0",
+        "I_DEC_TIEOSNT1": "0",
+        "I_DEC_TDOITFA1": "0",
+        "I_DEC_TTORTAA1": "0",
+        "I_DEC_INACCPD1": "0",
+        "I_DEC_VIATICO1": "0",
+        "I_DEC_ARSCNEO1": "0",
+        "I_DEC_OCDTOER1": "0",
+        "I_DEC_NASDCOS1": "0",
+        "I_DEC_LMAIACM1": "0",
+        "I_DEC_LMPAIAC1": "0",
+        "B_DEC_TEFRQII1": 2,
+        "I_DEC_TSEPOUM1": "0",
+        "DND17A": "0",
+        "D_DEC_EOPISSF1": "2",
+        "I_DEC_MDODOET1": "0",
+        "D_DEC_QDPPERS1": "0",
+        "I_DEC_TDAOEUT1": "3158582"
+    },
+    "af2_sat_anexos_sat_ing_sis_fin": [
+        {
+            "D_DEC_RFCTIEE1": "CPM960127M3A",
+            "D_DEC_RFCMPEE1": "0",
+            "I_DEC_SFMINII1": "434",
+            "I_DEC_SFMIRII1": "111",
+            "I_DEC_SFPIIES1": "0",
+            "I_DEC_SFIRIIS1": "0"
+        },
+        {
+            "D_DEC_RFCTIEE1": "BAI0205236Y8",
+            "D_DEC_RFCMPEE1": "0",
+            "I_DEC_SFMINII1": "0",
+            "I_DEC_SFMIRII1": "0",
+            "I_DEC_SFPIIES1": "0",
+            "I_DEC_SFIRIIS1": "0"
+        }
+    ],
+    "af2_sat_anexos_sat_ret": [
+        {
+            "I_DEC_RMIREOS1": "0",
+            "I_DEC_RMIREON1": "434",
+            "D_DEC_RRREFET1": "CPM960127M3A",
+            "D_DEC_RTIEINT1": "8"
+        },
+        {
+            "I_DEC_RMIREOS1": "0",
+            "I_DEC_RMIREON1": "0",
+            "D_DEC_RRREFET1": "BAI0205236Y8",
+            "D_DEC_RTIEINT1": "8"
+        }
+    ],
+    "af2_sat_anexos_sat_act_emp_det_ded_aut": [
+        {
+            "fila": 1,
+            "N_DEC_TDIEPDO1": "CDAE2",
+            "D_DEC_CDOENDC1": "CDAE24",
+            "I_DEC_MDOENDT1": "52600"
+        },
+        {
+            "fila": 2,
+            "N_DEC_TDIEPDO1": "CDAE2",
+            "D_DEC_CDOENDC1": "CDAE23",
+            "I_DEC_MDOENDT1": "8900"
+        },
+        {
+            "fila": 3,
+            "N_DEC_TDIEPDO1": "CDAE2",
+            "D_DEC_CDOENDC1": "CDAE32",
+            "I_DEC_MDOENDT1": "16340"
+        },
+        {
+            "fila": 4,
+            "N_DEC_TDIEPDO1": "CDAE2",
+            "D_DEC_CDOENDC1": "CDAE33",
+            "I_DEC_MDOENDT1": "28600"
+        },
+        {
+            "fila": 5,
+            "N_DEC_TDIEPDO1": "CDAE2",
+            "D_DEC_CDOENDC1": "CDAE79",
+            "I_DEC_MDOENDT1": "3052142"
+        }
+    ],
+    "af2_sat_anexos_act_emp_det_per_fis_eje_ant_cap": [
+        {
+            "D_DEC_AGPNEEO1": "2020",
+            "I_DEC_PPAEEPR1": "6793",
+            "I_DEC_PFAEICR1": "6886",
+            "I_DEC_PAEEOPS1": "0",
+            "I_DEC_REMANEN1": "6886",
+            "B_DEC_AAUVNCL1": "2022",
+            "B_DEC_MAUVPEC1": "012",
+            "N_DEC_IUMPMAA1": "Junio-2023",
+            "N_DEC_IUMPMAA2": "128.214",
+            "N_DEC_IMAUPMN1": "Diciembre-2022",
+            "N_DEC_IMAUPIN1": "126.478",
+            "N_DEC_FAPACEC1": "1.0137",
+            "I_DEC_PPAEEPR2": "6793",
+            "I_DEC_PFAEICR3": "6886"
+        },
+        {
+            "D_DEC_AGPNEEO1": "2022",
+            "I_DEC_PPAEEPR1": "5341",
+            "I_DEC_PFAEICR1": "0",
+            "I_DEC_PAEEOPS1": "0",
+            "I_DEC_REMANEN1": "0",
+            "B_DEC_AAUVNCL1": "0",
+            "B_DEC_MAUVPEC1": "0"
+        }
+    ],
+    "af2_sat_anexos_det_inf_nom_sue_sal_asi1": [
+        {
+            "N_DEC_MES00001": "001",
+            "I_DEC_TNOOTMA1": "18670",
+            "I_DEC_NEOXMEI1": "0",
+            "I_DEC_IRSERTE1": "345",
+            "I_DEC_IESNRTE1": "345",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED01",
+            "I_DEC_NTURMAE1": "3",
+            "I_DEC_ICSARRG1": "345",
+            "I_DEC_TCOOTNA1": "345",
+            "I_DEC_TAOPTLA1": "0",
+            "I_DEC_CCAANRT1": "345",
+            "I_DEC_CPAANGT1": "345",
+            "FECHAPRESDECVIG": "2023-02-20T06:00:00",
+            "NUMOPERADECVIG": "230450030698"
+        },
+        {
+            "N_DEC_MES00001": "002",
+            "I_DEC_TNOOTMA1": "18670",
+            "I_DEC_NEOXMEI1": "0",
+            "I_DEC_IRSERTE1": "345",
+            "I_DEC_IESNRTE1": "345",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED01",
+            "I_DEC_NTURMAE1": "3",
+            "I_DEC_ICSARRG1": "345",
+            "I_DEC_TCOOTNA1": "345",
+            "I_DEC_TAOPTLA1": "0",
+            "I_DEC_CCAANRT1": "345",
+            "I_DEC_CPAANGT1": "345",
+            "FECHAPRESDECVIG": "2023-03-10T06:00:00",
+            "NUMOPERADECVIG": "230140062472"
+        },
+        {
+            "N_DEC_MES00001": "003",
+            "I_DEC_TNOOTMA1": "18670",
+            "I_DEC_NEOXMEI1": "0",
+            "I_DEC_IRSERTE1": "0",
+            "I_DEC_IESNRTE1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED04",
+            "I_DEC_NTURMAE1": "3",
+            "I_DEC_ICSARRG1": "0",
+            "I_DEC_TCOOTNA1": "0",
+            "I_DEC_TAOPTLA1": "0",
+            "I_DEC_CCAANRT1": "0",
+            "I_DEC_CPAANGT1": "0",
+            "FECHAPRESDECVIG": "2023-04-05T06:00:00",
+            "NUMOPERADECVIG": "230810459590"
+        },
+        {
+            "N_DEC_MES00001": "004",
+            "I_DEC_TNOOTMA1": "18670",
+            "I_DEC_NEOXMEI1": "0",
+            "I_DEC_IRSERTE1": "0",
+            "I_DEC_IESNRTE1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED04",
+            "I_DEC_NTURMAE1": "3",
+            "I_DEC_ICSARRG1": "0",
+            "I_DEC_TCOOTNA1": "0",
+            "I_DEC_TAOPTLA1": "0",
+            "I_DEC_CCAANRT1": "0",
+            "I_DEC_CPAANGT1": "0",
+            "FECHAPRESDECVIG": "2023-05-16T06:00:00",
+            "NUMOPERADECVIG": "230230131334"
+        },
+        {
+            "N_DEC_MES00001": "005",
+            "I_DEC_TNOOTMA1": "18670",
+            "I_DEC_NEOXMEI1": "0",
+            "I_DEC_IRSERTE1": "0",
+            "I_DEC_IESNRTE1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED04",
+            "I_DEC_NTURMAE1": "3",
+            "I_DEC_ICSARRG1": "0",
+            "I_DEC_TCOOTNA1": "0",
+            "I_DEC_TAOPTLA1": "0",
+            "I_DEC_CCAANRT1": "0",
+            "I_DEC_CPAANGT1": "0",
+            "FECHAPRESDECVIG": "2023-06-17T06:00:00",
+            "NUMOPERADECVIG": "230430138957"
+        },
+        {
+            "N_DEC_MES00001": "006",
+            "I_DEC_TNOOTMA1": "6223",
+            "I_DEC_NEOXMEI1": "0",
+            "I_DEC_IRSERTE1": "0",
+            "I_DEC_IESNRTE1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED04",
+            "I_DEC_NTURMAE1": "1",
+            "I_DEC_ICSARRG1": "0",
+            "I_DEC_TCOOTNA1": "0",
+            "I_DEC_TAOPTLA1": "0",
+            "I_DEC_CCAANRT1": "0",
+            "I_DEC_CPAANGT1": "0",
+            "FECHAPRESDECVIG": "2023-07-14T06:00:00",
+            "NUMOPERADECVIG": "230780201740"
+        },
+        {
+            "N_DEC_MES00001": "007",
+            "I_DEC_TNOOTMA1": "6223",
+            "I_DEC_NEOXMEI1": "0",
+            "I_DEC_IRSERTE1": "0",
+            "I_DEC_IESNRTE1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED04",
+            "I_DEC_NTURMAE1": "1",
+            "I_DEC_ICSARRG1": "0",
+            "I_DEC_TCOOTNA1": "0",
+            "I_DEC_TAOPTLA1": "0",
+            "I_DEC_CCAANRT1": "0",
+            "I_DEC_CPAANGT1": "0",
+            "FECHAPRESDECVIG": "2023-08-15T06:00:00",
+            "NUMOPERADECVIG": "230721129247"
+        },
+        {
+            "N_DEC_MES00001": "008",
+            "I_DEC_TNOOTMA1": "12446",
+            "I_DEC_NEOXMEI1": "0",
+            "I_DEC_IRSERTE1": "0",
+            "I_DEC_IESNRTE1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED04",
+            "I_DEC_NTURMAE1": "2",
+            "I_DEC_ICSARRG1": "0",
+            "I_DEC_TCOOTNA1": "0",
+            "I_DEC_TAOPTLA1": "0",
+            "I_DEC_CCAANRT1": "0",
+            "I_DEC_CPAANGT1": "0",
+            "FECHAPRESDECVIG": "2023-09-13T06:00:00",
+            "NUMOPERADECVIG": "230721271303"
+        },
+        {
+            "N_DEC_MES00001": "009",
+            "I_DEC_TNOOTMA1": "12446",
+            "I_DEC_NEOXMEI1": "0",
+            "I_DEC_IRSERTE1": "0",
+            "I_DEC_IESNRTE1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED04",
+            "I_DEC_NTURMAE1": "2",
+            "I_DEC_ICSARRG1": "0",
+            "I_DEC_TCOOTNA1": "0",
+            "I_DEC_TAOPTLA1": "0",
+            "I_DEC_CCAANRT1": "0",
+            "I_DEC_CPAANGT1": "0",
+            "FECHAPRESDECVIG": "2023-10-16T06:00:00",
+            "NUMOPERADECVIG": "230180196857"
+        },
+        {
+            "N_DEC_MES00001": "010",
+            "I_DEC_TNOOTMA1": "12446",
+            "I_DEC_NEOXMEI1": "0",
+            "I_DEC_IRSERTE1": "0",
+            "I_DEC_IESNRTE1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED04",
+            "I_DEC_NTURMAE1": "2",
+            "I_DEC_ICSARRG1": "0",
+            "I_DEC_TCOOTNA1": "0",
+            "I_DEC_TAOPTLA1": "0",
+            "I_DEC_CCAANRT1": "0",
+            "I_DEC_CPAANGT1": "0",
+            "FECHAPRESDECVIG": "2023-11-15T06:00:00",
+            "NUMOPERADECVIG": "230710235025"
+        },
+        {
+            "N_DEC_MES00001": "011",
+            "I_DEC_TNOOTMA1": "12446",
+            "I_DEC_NEOXMEI1": "0",
+            "I_DEC_IRSERTE1": "0",
+            "I_DEC_IESNRTE1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED04",
+            "I_DEC_NTURMAE1": "2",
+            "I_DEC_ICSARRG1": "0",
+            "I_DEC_TCOOTNA1": "0",
+            "I_DEC_TAOPTLA1": "0",
+            "I_DEC_CCAANRT1": "0",
+            "I_DEC_CPAANGT1": "0",
+            "FECHAPRESDECVIG": "2023-12-15T06:00:00",
+            "NUMOPERADECVIG": "230070752897"
+        },
+        {
+            "N_DEC_MES00001": "012",
+            "I_DEC_TNOOTMA1": "16904",
+            "I_DEC_NEOXMEI1": "4458",
+            "I_DEC_IRSERTE1": "0",
+            "I_DEC_IESNRTE1": "0",
+            "I_DEC_DIFEREN1": "0",
+            "D_DEC_ESTATUS1": "ED04",
+            "I_DEC_NTURMAE1": "2",
+            "I_DEC_ICSARRG1": "0",
+            "I_DEC_TCOOTNA1": "0",
+            "I_DEC_TAOPTLA1": "0",
+            "I_DEC_CCAANRT1": "0",
+            "I_DEC_CPAANGT1": "0",
+            "FECHAPRESDECVIG": "2024-01-17T06:00:00",
+            "NUMOPERADECVIG": "240090016299"
+        }
+    ],
+    "AF2_SAT_ACT_EMP_PRE_PRO9": [
+        {
+            "D_DEC_OPRRIE1": "DET09AIC",
+            "D_DEC_PERIODO1": "001",
+            "I_DEC_MONTO001": "121703",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "517761863",
+            "F_DEC_FPAESPE1": "2023-03-01T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09AIC",
+            "D_DEC_PERIODO1": "002",
+            "I_DEC_MONTO001": "15417",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "522097697",
+            "F_DEC_FPAESPE1": "2023-04-01T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09AIC",
+            "D_DEC_PERIODO1": "003",
+            "I_DEC_MONTO001": "327797",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "526475631",
+            "F_DEC_FPAESPE1": "2023-04-28T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09AIC",
+            "D_DEC_PERIODO1": "004",
+            "I_DEC_MONTO001": "102900",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "531153006",
+            "F_DEC_FPAESPE1": "2023-05-29T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09AIC",
+            "D_DEC_PERIODO1": "005",
+            "I_DEC_MONTO001": "19875",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "535430823",
+            "F_DEC_FPAESPE1": "2023-06-27T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09AIC",
+            "D_DEC_PERIODO1": "006",
+            "I_DEC_MONTO001": "204348",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "539385206",
+            "F_DEC_FPAESPE1": "2023-07-24T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09AIC",
+            "D_DEC_PERIODO1": "007",
+            "I_DEC_MONTO001": "129527",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "543730243",
+            "F_DEC_FPAESPE1": "2023-08-23T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09AIC",
+            "D_DEC_PERIODO1": "008",
+            "I_DEC_MONTO001": "366111",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "548072692",
+            "F_DEC_FPAESPE1": "2023-09-25T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09AIC",
+            "D_DEC_PERIODO1": "009",
+            "I_DEC_MONTO001": "322441",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "552921835",
+            "F_DEC_FPAESPE1": "2023-10-27T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09AIC",
+            "D_DEC_PERIODO1": "010",
+            "I_DEC_MONTO001": "227800",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "567648703",
+            "F_DEC_FPAESPE1": "2024-01-31T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09AIC",
+            "D_DEC_PERIODO1": "011",
+            "I_DEC_MONTO001": "760254",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "567648985",
+            "F_DEC_FPAESPE1": "2024-01-31T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09AIC",
+            "D_DEC_PERIODO1": "012",
+            "I_DEC_MONTO001": "558012",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "567649667",
+            "F_DEC_FPAESPE1": "2024-01-31T06:00:00"
+        }
+    ],
+    "AF2_SAT_ACT_EMP_PRE_PRO10": [
+        {
+            "D_DEC_OPRRIE1": "DET09ADC",
+            "D_DEC_PERIODO1": "001",
+            "I_DEC_MONTO001": "121703",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "517761863",
+            "F_DEC_FPAESPE1": "2023-03-01T06:00:00",
+            "I_DEC_DIEAENJ1": "0"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09ADC",
+            "D_DEC_PERIODO1": "002",
+            "I_DEC_MONTO001": "16341",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "522097697",
+            "F_DEC_FPAESPE1": "2023-04-01T06:00:00",
+            "I_DEC_DIEAENJ1": "0"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09ADC",
+            "D_DEC_PERIODO1": "003",
+            "I_DEC_MONTO001": "328701",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "526475631",
+            "F_DEC_FPAESPE1": "2023-04-28T06:00:00",
+            "I_DEC_DIEAENJ1": "0"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09ADC",
+            "D_DEC_PERIODO1": "004",
+            "I_DEC_MONTO001": "103217",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "531153006",
+            "F_DEC_FPAESPE1": "2023-05-29T06:00:00",
+            "I_DEC_DIEAENJ1": "0"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09ADC",
+            "D_DEC_PERIODO1": "005",
+            "I_DEC_MONTO001": "19944",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "535430823",
+            "F_DEC_FPAESPE1": "2023-06-27T06:00:00",
+            "I_DEC_DIEAENJ1": "0"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09ADC",
+            "D_DEC_PERIODO1": "006",
+            "I_DEC_MONTO001": "204531",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "539385206",
+            "F_DEC_FPAESPE1": "2023-07-24T06:00:00",
+            "I_DEC_DIEAENJ1": "0"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09ADC",
+            "D_DEC_PERIODO1": "007",
+            "I_DEC_MONTO001": "129527",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "543730243",
+            "F_DEC_FPAESPE1": "2023-08-23T06:00:00",
+            "I_DEC_DIEAENJ1": "0"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09ADC",
+            "D_DEC_PERIODO1": "008",
+            "I_DEC_MONTO001": "366111",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "548072692",
+            "F_DEC_FPAESPE1": "2023-09-25T06:00:00",
+            "I_DEC_DIEAENJ1": "0"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09ADC",
+            "D_DEC_PERIODO1": "009",
+            "I_DEC_MONTO001": "322441",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "552921835",
+            "F_DEC_FPAESPE1": "2023-10-27T06:00:00",
+            "I_DEC_DIEAENJ1": "0"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09ADC",
+            "D_DEC_PERIODO1": "010",
+            "I_DEC_MONTO001": "227800",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "567648703",
+            "F_DEC_FPAESPE1": "2024-01-31T06:00:00",
+            "I_DEC_DIEAENJ1": "0"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09ADC",
+            "D_DEC_PERIODO1": "011",
+            "I_DEC_MONTO001": "760254",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "567648985",
+            "F_DEC_FPAESPE1": "2024-01-31T06:00:00",
+            "I_DEC_DIEAENJ1": "0"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09ADC",
+            "D_DEC_PERIODO1": "012",
+            "I_DEC_MONTO001": "558012",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "567649667",
+            "F_DEC_FPAESPE1": "2024-01-31T06:00:00",
+            "I_DEC_DIEAENJ1": "0"
+        }
+    ],
+    "AF2_SAT_ACT_EMP_PRE_PRO11": [
+        {
+            "D_DEC_OPRRIE1": "DET09APC",
+            "D_DEC_PERIODO1": "001",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "517761863",
+            "F_DEC_FPAESPE1": "2023-03-01T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET010APC",
+            "D_DEC_PERIODO1": "001"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09APC",
+            "D_DEC_PERIODO1": "002",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "522097697",
+            "F_DEC_FPAESPE1": "2023-04-01T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET010APC",
+            "D_DEC_PERIODO1": "002"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09APC",
+            "D_DEC_PERIODO1": "003",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "526475631",
+            "F_DEC_FPAESPE1": "2023-04-28T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET010APC",
+            "D_DEC_PERIODO1": "003"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09APC",
+            "D_DEC_PERIODO1": "004",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "531153006",
+            "F_DEC_FPAESPE1": "2023-05-29T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET010APC",
+            "D_DEC_PERIODO1": "004"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09APC",
+            "D_DEC_PERIODO1": "005",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "535430823",
+            "F_DEC_FPAESPE1": "2023-06-27T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET010APC",
+            "D_DEC_PERIODO1": "005"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09APC",
+            "D_DEC_PERIODO1": "006",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "539385206",
+            "F_DEC_FPAESPE1": "2023-07-24T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET010APC",
+            "D_DEC_PERIODO1": "006"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09APC",
+            "D_DEC_PERIODO1": "007",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "543730243",
+            "F_DEC_FPAESPE1": "2023-08-23T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET010APC",
+            "D_DEC_PERIODO1": "007"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09APC",
+            "D_DEC_PERIODO1": "008",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "548072692",
+            "F_DEC_FPAESPE1": "2023-09-25T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET010APC",
+            "D_DEC_PERIODO1": "008"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09APC",
+            "D_DEC_PERIODO1": "009",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "552921835",
+            "F_DEC_FPAESPE1": "2023-10-27T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET010APC",
+            "D_DEC_PERIODO1": "009"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09APC",
+            "D_DEC_PERIODO1": "010",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "567648703",
+            "F_DEC_FPAESPE1": "2024-01-31T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET010APC",
+            "D_DEC_PERIODO1": "010"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09APC",
+            "D_DEC_PERIODO1": "011",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "567648985",
+            "F_DEC_FPAESPE1": "2024-01-31T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET010APC",
+            "D_DEC_PERIODO1": "011"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET09APC",
+            "D_DEC_PERIODO1": "012",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDSETCA1": "ED04",
+            "N_DEC_NOAESPH1": "567649667",
+            "F_DEC_FPAESPE1": "2024-01-31T06:00:00"
+        },
+        {
+            "D_DEC_OPRRIE1": "DET010APC",
+            "D_DEC_PERIODO1": "012"
+        }
+    ],
+    "AF2_SAT_ACT_EMP_PRE_PRO19": [
+        {
+            "D_DEC_PERIODO1": "001",
+            "I_DEC_MONTO001": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "002",
+            "I_DEC_MONTO001": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "003",
+            "I_DEC_MONTO001": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "004",
+            "I_DEC_MONTO001": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "005",
+            "I_DEC_MONTO001": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "006",
+            "I_DEC_MONTO001": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "007",
+            "I_DEC_MONTO001": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "008",
+            "I_DEC_MONTO001": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "009",
+            "I_DEC_MONTO001": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "010",
+            "I_DEC_MONTO001": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "011",
+            "I_DEC_MONTO001": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "012",
+            "I_DEC_MONTO001": "0"
+        }
+    ],
+    "DD_DEC_DIDCEMI3": {
+        "I_DEC_SPNUAOB1": "0",
+        "I_DEC_SPEAPAU1": "2377",
+        "I_DEC_SAPPUPA1": "0",
+        "I_DEC_SARSSAU1": "0",
+        "I_DEC_SDSAUIU1": "2377",
+        "B_DEC_DIEPFEN1": 0,
+        "B_DEC_LIFOTCS2": 2,
+        "B_DEC_IAFCERN1": 2,
+        "I_DEC_TIRPMSP2": "0",
+        "B_DEC_ISDSERN1": 0,
+        "I_DEC_TSPEDOU1": "2377",
+        "I_DEC_ICSARRG1": "0",
+        "I_DEC_IPEMAXP1": "0",
+        "D_DEC_TIARAMN1": "16%",
+        "I_DEC_TPPSPPR1": "0",
+        "I_DEC_CRAFRAG1": "0",
+        "I_DEC_TIOONBT1": "3156185",
+        "I_DEC_TDASPPO1": "3158582",
+        "I_DEC_TPPOOAR2": "0",
+        "I_DEC_TPPOOAR1": "0",
+        "B_DEC_ARDHMDG1": "1",
+        "B_DEC_ARDGMID1": "0",
+        "B_DEC_ARDPGFC1": "0",
+        "B_DEC_ARDGMID2": "0",
+        "B_DEC_ARDIREP1": "0",
+        "B_DEC_ARDGMID3": "0",
+        "B_DEC_ARDPSGM1": "0",
+        "B_DEC_ARDGTEO1": "0",
+        "B_DEC_ARDDCAP1": "0",
+        "B_DEC_ARDPSEC1": "1",
+        "I_DEC_LMDIAIM1": "111",
+        "I_DEC_MMDOAIN1": "111",
+        "I_DEC_TPPAOED1": "396",
+        "I_DEC_TAEOPJTL1": "0",
+        "I_DEC_TROETMAA1": "396",
+        "I_DEC_TIREONE1": "111",
+        "I_DEC_TPEOEJT1": "0",
+        "I_DEC_TIRAONE1": "111",
+        "I_DEC_LPAIEPM1": "111",
+        "I_DEC_MTAOEPN1": "111",
+        "IDE_TPPAOEE1": "378",
+        "I_DEC_TPFAOES1": "396",
+        "I_DE_TAEOPJT1": "0",
+        "I_DEC_TROETMA1": "396",
+        "I_DEC_IRAENEC1": "111",
+        "I_DEC_TDAOEUO1": "3158582"
+    },
+    "DD_DEC_DIRPPAT1": [
+        {
+            "D_DEC_PERIODO1": "001",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDPTSEL1": "ED04",
+            "N_DEC_NOAESPH1": "517761863",
+            "F_DEC_FPAESPE1": "2023-03-01T06:00:00",
+            "I_DEC_TIROOSE1": "0",
+            "I_DEC_TIROPOS1": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "002",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDPTSEL1": "ED04",
+            "N_DEC_NOAESPH1": "522097697",
+            "F_DEC_FPAESPE1": "2023-04-01T06:00:00",
+            "I_DEC_TIROOSE1": "0",
+            "I_DEC_TIROPOS1": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "003",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDPTSEL1": "ED04",
+            "N_DEC_NOAESPH1": "526475631",
+            "F_DEC_FPAESPE1": "2023-04-28T06:00:00",
+            "I_DEC_TIROOSE1": "0",
+            "I_DEC_TIROPOS1": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "004",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDPTSEL1": "ED04",
+            "N_DEC_NOAESPH1": "531153006",
+            "F_DEC_FPAESPE1": "2023-05-29T06:00:00",
+            "I_DEC_TIROOSE1": "0",
+            "I_DEC_TIROPOS1": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "005",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDPTSEL1": "ED04",
+            "N_DEC_NOAESPH1": "535430823",
+            "F_DEC_FPAESPE1": "2023-06-27T06:00:00",
+            "I_DEC_TIROOSE1": "0",
+            "I_DEC_TIROPOS1": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "006",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDPTSEL1": "ED04",
+            "N_DEC_NOAESPH1": "539385206",
+            "F_DEC_FPAESPE1": "2023-07-24T06:00:00",
+            "I_DEC_TIROOSE1": "0",
+            "I_DEC_TIROPOS1": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "007",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDPTSEL1": "ED04",
+            "N_DEC_NOAESPH1": "543730243",
+            "F_DEC_FPAESPE1": "2023-08-23T06:00:00",
+            "I_DEC_TIROOSE1": "0",
+            "I_DEC_TIROPOS1": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "008",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDPTSEL1": "ED04",
+            "N_DEC_NOAESPH1": "548072692",
+            "F_DEC_FPAESPE1": "2023-09-25T06:00:00",
+            "I_DEC_TIROOSE1": "0",
+            "I_DEC_TIROPOS1": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "009",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDPTSEL1": "ED04",
+            "N_DEC_NOAESPH1": "552921835",
+            "F_DEC_FPAESPE1": "2023-10-27T06:00:00",
+            "I_DEC_TIROOSE1": "0",
+            "I_DEC_TIROPOS1": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "010",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDPTSEL1": "ED04",
+            "N_DEC_NOAESPH1": "567648703",
+            "F_DEC_FPAESPE1": "2024-01-31T06:00:00",
+            "I_DEC_TIROOSE1": "0",
+            "I_DEC_TIROPOS1": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "011",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDPTSEL1": "ED04",
+            "N_DEC_NOAESPH1": "567648985",
+            "F_DEC_FPAESPE1": "2024-01-31T06:00:00",
+            "I_DEC_TIROOSE1": "0",
+            "I_DEC_TIROPOS1": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "012",
+            "I_DEC_MONTO001": "0",
+            "D_DEC_EDPTSEL1": "ED04",
+            "N_DEC_NOAESPH1": "567649667",
+            "F_DEC_FPAESPE1": "2024-01-31T06:00:00",
+            "I_DEC_TIROOSE1": "0",
+            "I_DEC_TIROPOS1": "0"
+        }
+    ],
+    "DD_DEC_DPPREAR1": [
+        {
+            "D_DEC_PERIODO1": "001",
+            "D_DEC_EDPTSEL1": "ED04",
+            "D_DEC_NOUPMEE2": "517761863",
+            "F_DEC_FPERCSH1": "2023-03-01T06:00:00"
+        },
+        {
+            "D_DEC_PERIODO1": "002",
+            "D_DEC_EDPTSEL1": "ED04",
+            "D_DEC_NOUPMEE2": "522097697",
+            "F_DEC_FPERCSH1": "2023-04-01T06:00:00"
+        },
+        {
+            "D_DEC_PERIODO1": "003",
+            "D_DEC_EDPTSEL1": "ED04",
+            "D_DEC_NOUPMEE2": "526475631",
+            "F_DEC_FPERCSH1": "2023-04-28T06:00:00"
+        },
+        {
+            "D_DEC_PERIODO1": "004",
+            "D_DEC_EDPTSEL1": "ED04",
+            "D_DEC_NOUPMEE2": "531153006",
+            "F_DEC_FPERCSH1": "2023-05-29T06:00:00"
+        },
+        {
+            "D_DEC_PERIODO1": "005",
+            "D_DEC_EDPTSEL1": "ED04",
+            "D_DEC_NOUPMEE2": "535430823",
+            "F_DEC_FPERCSH1": "2023-06-27T06:00:00"
+        },
+        {
+            "D_DEC_PERIODO1": "006",
+            "D_DEC_EDPTSEL1": "ED04",
+            "D_DEC_NOUPMEE2": "539385206",
+            "F_DEC_FPERCSH1": "2023-07-24T06:00:00"
+        },
+        {
+            "D_DEC_PERIODO1": "007",
+            "D_DEC_EDPTSEL1": "ED04",
+            "D_DEC_NOUPMEE2": "543730243",
+            "F_DEC_FPERCSH1": "2023-08-23T06:00:00"
+        },
+        {
+            "D_DEC_PERIODO1": "008",
+            "D_DEC_EDPTSEL1": "ED04",
+            "D_DEC_NOUPMEE2": "548072692",
+            "F_DEC_FPERCSH1": "2023-09-25T06:00:00"
+        },
+        {
+            "D_DEC_PERIODO1": "009",
+            "D_DEC_EDPTSEL1": "ED04",
+            "D_DEC_NOUPMEE2": "552921835",
+            "F_DEC_FPERCSH1": "2023-10-27T06:00:00"
+        },
+        {
+            "D_DEC_PERIODO1": "010",
+            "D_DEC_EDPTSEL1": "ED04",
+            "D_DEC_NOUPMEE2": "567648703",
+            "F_DEC_FPERCSH1": "2024-01-31T06:00:00"
+        },
+        {
+            "D_DEC_PERIODO1": "011",
+            "D_DEC_EDPTSEL1": "ED04",
+            "D_DEC_NOUPMEE2": "567648985",
+            "F_DEC_FPERCSH1": "2024-01-31T06:00:00"
+        },
+        {
+            "D_DEC_PERIODO1": "012",
+            "D_DEC_EDPTSEL1": "ED04",
+            "D_DEC_NOUPMEE2": "567649667",
+            "F_DEC_FPERCSH1": "2024-01-31T06:00:00"
+        }
+    ],
+    "DD_DEC_DPPREAR1_A": [
+        {
+            "D_DEC_OPRRIE4": "ISR Retenciones por sueldos y salarios R12 (Nomina Totales)",
+            "I_DEC_TSARSPP1": "0"
+        },
+        {
+            "D_DEC_OPRRIE4": "ISR Retenciones por sueldos y salarios R12 (Nomina Totales)",
+            "I_DEC_TSARSPP1": "0"
+        },
+        {
+            "D_DEC_OPRRIE4": "ISR Retenciones por sueldos y salarios R12 (Nomina Totales)",
+            "I_DEC_TSARSPP1": "0"
+        },
+        {
+            "D_DEC_OPRRIE4": "ISR Retenciones por sueldos y salarios R12 (Nomina Totales)",
+            "I_DEC_TSARSPP1": "0"
+        },
+        {
+            "D_DEC_OPRRIE4": "ISR Retenciones por sueldos y salarios R12 (Nomina Totales)",
+            "I_DEC_TSARSPP1": "0"
+        },
+        {
+            "D_DEC_OPRRIE4": "ISR Retenciones por sueldos y salarios R12 (Nomina Totales)",
+            "I_DEC_TSARSPP1": "0"
+        },
+        {
+            "D_DEC_OPRRIE4": "ISR Retenciones por sueldos y salarios R12 (Nomina Totales)",
+            "I_DEC_TSARSPP1": "0"
+        },
+        {
+            "D_DEC_OPRRIE4": "ISR Retenciones por sueldos y salarios R12 (Nomina Totales)",
+            "I_DEC_TSARSPP1": "0"
+        },
+        {
+            "D_DEC_OPRRIE4": "ISR Retenciones por sueldos y salarios R12 (Nomina Totales)",
+            "I_DEC_TSARSPP1": "0"
+        },
+        {
+            "D_DEC_OPRRIE4": "ISR Retenciones por sueldos y salarios R12 (Nomina Totales)",
+            "I_DEC_TSARSPP1": "0"
+        },
+        {
+            "D_DEC_OPRRIE4": "ISR Retenciones por sueldos y salarios R12 (Nomina Totales)",
+            "I_DEC_TSARSPP1": "0"
+        },
+        {
+            "D_DEC_OPRRIE4": "ISR Retenciones por sueldos y salarios R12 (Nomina Totales)",
+            "I_DEC_TSARSPP1": "0"
+        }
+    ],
+    "DD_DEC_IDPDNEE1": [
+        {
+            "B_DEC_AGPNEEO2": "2022",
+            "I_DEC_PPAEEPR3": "378",
+            "I_DEC_PAECRTD1": "396",
+            "I_DEC_PAEOPJR2": "0",
+            "I_DEC_REMANEN2": "396",
+            "B_DEC_AAUVNCL1": "2022",
+            "B_DEC_MAUVPEC1": "012",
+            "N_DEC_IUMPMAA1": "Diciembre-2023",
+            "N_DEC_IUMPMAA2": "132.373",
+            "N_DEC_IMAUPMN1": "Diciembre-2022",
+            "N_DEC_IMAUPIN1": "126.478",
+            "N_DEC_FAPACEC1": "1.0466",
+            "I_DEC_PPAEEPR2": "378",
+            "I_DEC_PFAEICR3": "396"
+        }
+    ],
+    "DD_DEC_DIRSSES1_A": [
+        {
+            "D_DEC_OPPRRFI1": "ISR Retenciones por sueldos y salarios R12 (Nomina)",
+            "D_DEC_PERIODO2": "001",
+            "D_DEC_EDPTSEL2": "ED01",
+            "D_DEC_NOUPMEE3": "230450030698",
+            "F_DEC_FPDEREC2": "2023-02-20T06:00:00"
+        },
+        {
+            "D_DEC_OPPRRFI1": "ISR Retenciones por sueldos y salarios R12 (Nomina)",
+            "D_DEC_PERIODO2": "002",
+            "D_DEC_EDPTSEL2": "ED01",
+            "D_DEC_NOUPMEE3": "230140062472",
+            "F_DEC_FPDEREC2": "2023-03-10T06:00:00"
+        },
+        {
+            "D_DEC_OPPRRFI1": "ISR Retenciones por sueldos y salarios R12 (Nomina)",
+            "D_DEC_PERIODO2": "003",
+            "D_DEC_EDPTSEL2": "ED04",
+            "D_DEC_NOUPMEE3": "230810459590",
+            "F_DEC_FPDEREC2": "2023-04-05T06:00:00"
+        },
+        {
+            "D_DEC_OPPRRFI1": "ISR Retenciones por sueldos y salarios R12 (Nomina)",
+            "D_DEC_PERIODO2": "004",
+            "D_DEC_EDPTSEL2": "ED04",
+            "D_DEC_NOUPMEE3": "230230131334",
+            "F_DEC_FPDEREC2": "2023-05-16T06:00:00"
+        },
+        {
+            "D_DEC_OPPRRFI1": "ISR Retenciones por sueldos y salarios R12 (Nomina)",
+            "D_DEC_PERIODO2": "005",
+            "D_DEC_EDPTSEL2": "ED04",
+            "D_DEC_NOUPMEE3": "230430138957",
+            "F_DEC_FPDEREC2": "2023-06-17T06:00:00"
+        },
+        {
+            "D_DEC_OPPRRFI1": "ISR Retenciones por sueldos y salarios R12 (Nomina)",
+            "D_DEC_PERIODO2": "006",
+            "D_DEC_EDPTSEL2": "ED04",
+            "D_DEC_NOUPMEE3": "230780201740",
+            "F_DEC_FPDEREC2": "2023-07-14T06:00:00"
+        },
+        {
+            "D_DEC_OPPRRFI1": "ISR Retenciones por sueldos y salarios R12 (Nomina)",
+            "D_DEC_PERIODO2": "007",
+            "D_DEC_EDPTSEL2": "ED04",
+            "D_DEC_NOUPMEE3": "230721129247",
+            "F_DEC_FPDEREC2": "2023-08-15T06:00:00"
+        },
+        {
+            "D_DEC_OPPRRFI1": "ISR Retenciones por sueldos y salarios R12 (Nomina)",
+            "D_DEC_PERIODO2": "008",
+            "D_DEC_EDPTSEL2": "ED04",
+            "D_DEC_NOUPMEE3": "230721271303",
+            "F_DEC_FPDEREC2": "2023-09-13T06:00:00"
+        },
+        {
+            "D_DEC_OPPRRFI1": "ISR Retenciones por sueldos y salarios R12 (Nomina)",
+            "D_DEC_PERIODO2": "009",
+            "D_DEC_EDPTSEL2": "ED04",
+            "D_DEC_NOUPMEE3": "230180196857",
+            "F_DEC_FPDEREC2": "2023-10-16T06:00:00"
+        },
+        {
+            "D_DEC_OPPRRFI1": "ISR Retenciones por sueldos y salarios R12 (Nomina)",
+            "D_DEC_PERIODO2": "010",
+            "D_DEC_EDPTSEL2": "ED04",
+            "D_DEC_NOUPMEE3": "230710235025",
+            "F_DEC_FPDEREC2": "2023-11-15T06:00:00"
+        },
+        {
+            "D_DEC_OPPRRFI1": "ISR Retenciones por sueldos y salarios R12 (Nomina)",
+            "D_DEC_PERIODO2": "011",
+            "D_DEC_EDPTSEL2": "ED04",
+            "D_DEC_NOUPMEE3": "230070752897",
+            "F_DEC_FPDEREC2": "2023-12-15T06:00:00"
+        },
+        {
+            "D_DEC_OPPRRFI1": "ISR Retenciones por sueldos y salarios R12 (Nomina)",
+            "D_DEC_PERIODO2": "012",
+            "D_DEC_EDPTSEL2": "ED04",
+            "D_DEC_NOUPMEE3": "240090016299",
+            "F_DEC_FPDEREC2": "2024-01-17T06:00:00"
+        }
+    ],
+    "DD_DEC_DPIAEEE1": [
+        {
+            "B_DEC_AGPNEEO1": "2022",
+            "I_DEC_PPAEEPR1": "396",
+            "I_DEC_AEPJLEE1": "0",
+            "I_DEC_REMANEN1": "396"
+        }
+    ],
+    "af2_sat_anexos_sat_ded_per": [
+        {
+            "D_DEC_REPPSFM1": "IJA630225QE8",
+            "D_DEC_DPRREEF1": "OIHC860804LB5",
+            "D_DEC_DPUEEUD1": "030A8B7A-0CD0-45DC-8190-D928C26CB2BA",
+            "D_DEC_DBAETNO1": "4",
+            "D_DEC_TDIEPDO1": "J",
+            "D_DEC_DPCEEUD1": "FEOJ160618HGTRLSA8",
+            "I_DEC_MDLDPOE1": "4070",
+            "D_DEC_CONCEPT1": "PAGO DE COLEGIATURA ENERO",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "1/10/2023 10:05:29 AM",
+            "D_DEC_DPFPEEO1": "28 Tarjeta de debito",
+            "D_DEC_DPNEEID1": "2",
+            "D_DEC_DPNAEEO1": "FERNANDEZ OLIVA JESUS EDUARDO",
+            "D_DEC_NDRSEOE1": "INSTITUTO JASSÁ, A.C.",
+            "I_DEC_RGEEAFC1": "0",
+            "I_DEC_IMPENOA1": "0",
+            "I_DEC_MOCHORN1": "0",
+            "I_DEC_SICPRAN1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "86121500",
+            "N_DEC_DPEEEJD1": "2023",
+            "D_DEC_TDIIENP1": "J",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "IJA630225QE8",
+            "D_DEC_DPRREEF1": "OIHC860804LB5",
+            "D_DEC_DPUEEUD1": "E51BB48A-7B21-4250-A2DA-2ED141A3BC45",
+            "D_DEC_DBAETNO1": "4",
+            "D_DEC_TDIEPDO1": "J",
+            "D_DEC_DPCEEUD1": "FEOJ160618HGTRLSA8",
+            "I_DEC_MDLDPOE1": "4070",
+            "D_DEC_CONCEPT1": "PAGO DE COLEGIATURA FEBRERO",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "2/10/2023 2:47:55 PM",
+            "D_DEC_DPFPEEO1": "28 Tarjeta de debito",
+            "D_DEC_DPNEEID1": "2",
+            "D_DEC_DPNAEEO1": "FERNANDEZ OLIVA JESUS EDUARDO",
+            "D_DEC_NDRSEOE1": "INSTITUTO JASSÁ, A.C.",
+            "I_DEC_RGEEAFC1": "0",
+            "I_DEC_IMPENOA1": "0",
+            "I_DEC_MOCHORN1": "0",
+            "I_DEC_SICPRAN1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "86121503",
+            "N_DEC_DPEEEJD1": "2023",
+            "D_DEC_TDIIENP1": "J",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "IJA630225QE8",
+            "D_DEC_DPRREEF1": "OIHC860804LB5",
+            "D_DEC_DPUEEUD1": "48C53CE8-5982-423A-8E73-28942CA47433",
+            "D_DEC_DBAETNO1": "4",
+            "D_DEC_TDIEPDO1": "J",
+            "D_DEC_DPCEEUD1": "FEOJ160618HGTRLSA8",
+            "I_DEC_MDLDPOE1": "4070",
+            "D_DEC_CONCEPT1": "PAGO DE COLEGIATURA MARZO",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "3/9/2023 11:16:53 AM",
+            "D_DEC_DPFPEEO1": "28 Tarjeta de debito",
+            "D_DEC_DPNEEID1": "2",
+            "D_DEC_DPNAEEO1": "FERNANDEZ OLIVA JESUS EDUARDO",
+            "D_DEC_NDRSEOE1": "INSTITUTO JASSÁ, A.C.",
+            "I_DEC_RGEEAFC1": "0",
+            "I_DEC_IMPENOA1": "0",
+            "I_DEC_MOCHORN1": "0",
+            "I_DEC_SICPRAN1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "86121503",
+            "N_DEC_DPEEEJD1": "2023",
+            "D_DEC_TDIIENP1": "J",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "IJA630225QE8",
+            "D_DEC_DPRREEF1": "OIHC860804LB5",
+            "D_DEC_DPUEEUD1": "778BA7F2-5BA7-4BA5-B938-E032D4DFCBB7",
+            "D_DEC_DBAETNO1": "4",
+            "D_DEC_TDIEPDO1": "J",
+            "D_DEC_DPCEEUD1": "FEOJ160618HGTRLSA8",
+            "I_DEC_MDLDPOE1": "690",
+            "D_DEC_CONCEPT1": "PAGO DE COLEGIATURA ABRIL",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "4/14/2023 1:25:00 PM",
+            "D_DEC_DPFPEEO1": "28 Tarjeta de debito",
+            "D_DEC_DPNEEID1": "2",
+            "D_DEC_DPNAEEO1": "FERNANDEZ OLIVA JESUS EDUARDO",
+            "D_DEC_NDRSEOE1": "INSTITUTO JASSA",
+            "I_DEC_RGEEAFC1": "0",
+            "I_DEC_IMPENOA1": "0",
+            "I_DEC_MOCHORN1": "0",
+            "I_DEC_SICPRAN1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "86121503",
+            "N_DEC_DPEEEJD1": "2023",
+            "D_DEC_TDIIENP1": "J",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "IJA630225QE8",
+            "D_DEC_DPRREEF1": "OIHC860804LB5",
+            "D_DEC_DPUEEUD1": "0B35407D-F5A6-41DA-8108-D5F85F4BDEC3",
+            "D_DEC_DBAETNO1": "4",
+            "D_DEC_TDIEPDO1": "J",
+            "D_DEC_DPCEEUD1": "FEOJ160618HGTRLSA8",
+            "I_DEC_MDLDPOE1": "0",
+            "D_DEC_CONCEPT1": "PAGO DE COLEGIATURA MAYO",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "5/8/2023 8:41:52 AM",
+            "D_DEC_DPFPEEO1": "28 Tarjeta de debito",
+            "D_DEC_DPNEEID1": "2",
+            "D_DEC_DPNAEEO1": "FERNANDEZ OLIVA JESUS EDUARDO",
+            "D_DEC_NDRSEOE1": "INSTITUTO JASSA",
+            "I_DEC_RGEEAFC1": "0",
+            "I_DEC_IMPENOA1": "0",
+            "I_DEC_MOCHORN1": "0",
+            "I_DEC_SICPRAN1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "86121503",
+            "N_DEC_DPEEEJD1": "2023",
+            "D_DEC_TDIIENP1": "J",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "IJA630225QE8",
+            "D_DEC_DPRREEF1": "OIHC860804LB5",
+            "D_DEC_DPUEEUD1": "0A87A7B4-DB7A-46A0-8DC1-974BBE654600",
+            "D_DEC_DBAETNO1": "4",
+            "D_DEC_TDIEPDO1": "J",
+            "D_DEC_DPCEEUD1": "FEOJ160618HGTRLSA8",
+            "I_DEC_MDLDPOE1": "0",
+            "D_DEC_CONCEPT1": "PAGO DE COLEGIATURA JUNIO",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "6/8/2023 9:44:40 AM",
+            "D_DEC_DPFPEEO1": "28 Tarjeta de debito",
+            "D_DEC_DPNEEID1": "2",
+            "D_DEC_DPNAEEO1": "FERNANDEZ OLIVA JESUS EDUARDO",
+            "D_DEC_NDRSEOE1": "INSTITUTO JASSA",
+            "I_DEC_RGEEAFC1": "0",
+            "I_DEC_IMPENOA1": "0",
+            "I_DEC_MOCHORN1": "0",
+            "I_DEC_SICPRAN1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "86121503",
+            "N_DEC_DPEEEJD1": "2023",
+            "D_DEC_TDIIENP1": "J",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "IJA630225QE8",
+            "D_DEC_DPRREEF1": "OIHC860804LB5",
+            "D_DEC_DPUEEUD1": "11B8EE89-947E-43EA-AB55-96E4A1A6C289",
+            "D_DEC_DBAETNO1": "4",
+            "D_DEC_TDIEPDO1": "J",
+            "D_DEC_DPCEEUD1": "FEOJ160618HGTRLSA8",
+            "I_DEC_MDLDPOE1": "0",
+            "D_DEC_CONCEPT1": "PAGO DE COLEGIATURA SEPTIEMBRE",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "9/6/2023 9:12:23 AM",
+            "D_DEC_DPFPEEO1": "28 Tarjeta de debito",
+            "D_DEC_DPNEEID1": "2",
+            "D_DEC_DPNAEEO1": "FERNANDEZ OLIVA JESUS EDUARDO",
+            "D_DEC_NDRSEOE1": "INSTITUTO JASSA",
+            "I_DEC_RGEEAFC1": "0",
+            "I_DEC_IMPENOA1": "0",
+            "I_DEC_MOCHORN1": "0",
+            "I_DEC_SICPRAN1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "86121503",
+            "N_DEC_DPEEEJD1": "2023",
+            "D_DEC_TDIIENP1": "J",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "IJA630225QE8",
+            "D_DEC_DPRREEF1": "OIHC860804LB5",
+            "D_DEC_DPUEEUD1": "1D8CDAC2-F1FA-43F6-93DE-37697A774765",
+            "D_DEC_DBAETNO1": "4",
+            "D_DEC_TDIEPDO1": "J",
+            "D_DEC_DPCEEUD1": "FEOJ160618HGTRLSA8",
+            "I_DEC_MDLDPOE1": "0",
+            "D_DEC_CONCEPT1": "PAGO DE COLEGIATURA OCTUBRE",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "10/9/2023 12:02:56 PM",
+            "D_DEC_DPFPEEO1": "28 Tarjeta de debito",
+            "D_DEC_DPNEEID1": "2",
+            "D_DEC_DPNAEEO1": "FERNANDEZ OLIVA JESUS EDUARDO",
+            "D_DEC_NDRSEOE1": "INSTITUTO JASSA",
+            "I_DEC_RGEEAFC1": "0",
+            "I_DEC_IMPENOA1": "0",
+            "I_DEC_MOCHORN1": "0",
+            "I_DEC_SICPRAN1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "86121503",
+            "N_DEC_DPEEEJD1": "2023",
+            "D_DEC_TDIIENP1": "J",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "IJA630225QE8",
+            "D_DEC_DPRREEF1": "OIHC860804LB5",
+            "D_DEC_DPUEEUD1": "F190D866-341D-4B14-944E-4B5CE8AF5772",
+            "D_DEC_DBAETNO1": "4",
+            "D_DEC_TDIEPDO1": "J",
+            "D_DEC_DPCEEUD1": "FEOJ160618HGTRLSA8",
+            "I_DEC_MDLDPOE1": "0",
+            "D_DEC_CONCEPT1": "PAGO DE COLEGIATURA NOVIEMBRE",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "11/9/2023 9:08:51 AM",
+            "D_DEC_DPFPEEO1": "28 Tarjeta de debito",
+            "D_DEC_DPNEEID1": "2",
+            "D_DEC_DPNAEEO1": "FERNANDEZ OLIVA JESUS EDUARDO",
+            "D_DEC_NDRSEOE1": "INSTITUTO JASSA",
+            "I_DEC_RGEEAFC1": "0",
+            "I_DEC_IMPENOA1": "0",
+            "I_DEC_MOCHORN1": "0",
+            "I_DEC_SICPRAN1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "86121503",
+            "N_DEC_DPEEEJD1": "2023",
+            "D_DEC_TDIIENP1": "J",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "IJA630225QE8",
+            "D_DEC_DPRREEF1": "OIHC860804LB5",
+            "D_DEC_DPUEEUD1": "D686ABC8-C428-4ADB-A2E3-B947C0E515F2",
+            "D_DEC_DBAETNO1": "4",
+            "D_DEC_TDIEPDO1": "J",
+            "D_DEC_DPCEEUD1": "FEOJ160618HGTRLSA8",
+            "I_DEC_MDLDPOE1": "0",
+            "D_DEC_CONCEPT1": "PAGO DE COLEGIATURA DICIEMBRE",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "12/11/2023 10:47:17 AM",
+            "D_DEC_DPFPEEO1": "28 Tarjeta de debito",
+            "D_DEC_DPNEEID1": "2",
+            "D_DEC_DPNAEEO1": "FERNANDEZ OLIVA JESUS EDUARDO",
+            "D_DEC_NDRSEOE1": "INSTITUTO JASSA",
+            "I_DEC_RGEEAFC1": "0",
+            "I_DEC_IMPENOA1": "0",
+            "I_DEC_MOCHORN1": "0",
+            "I_DEC_SICPRAN1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "86121503",
+            "N_DEC_DPEEEJD1": "2023",
+            "D_DEC_TDIIENP1": "J",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "SEHO710610U44",
+            "D_DEC_DPRREEF1": "OIHC860804LB5",
+            "D_DEC_DPUEEUD1": "3994A882-5840-5FA9-851A-97982DD9756D",
+            "D_DEC_DBAETNO1": "0",
+            "D_DEC_TDIEPDO1": "A",
+            "I_DEC_MDLDPOE1": "3000",
+            "D_DEC_CONCEPT1": "SERVICIOS DE INMUNIZACION",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "2/21/2023 6:33:45 PM",
+            "D_DEC_DPFPEEO1": "03 Transferencia Electrónica",
+            "D_DEC_DPNEEID1": "0",
+            "D_DEC_NDRSEOE1": "OLIVIER AGUSTIN SERNA HERNANDEZ",
+            "I_DEC_RGEEAFC1": "0",
+            "I_DEC_IMPENOA1": "0",
+            "I_DEC_MOCHORN1": "0",
+            "I_DEC_SICPRAN1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "85111512",
+            "N_DEC_DPEEEJD1": "2023",
+            "D_DEC_TDIIENP1": "A",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "LOLD7711198Q3",
+            "D_DEC_DPRREEF1": "OIHC860804LB5",
+            "D_DEC_DPUEEUD1": "3418DF2F-F73E-4090-85A0-7F2E9A3B02E7",
+            "D_DEC_DBAETNO1": "0",
+            "D_DEC_TDIEPDO1": "A",
+            "I_DEC_MDLDPOE1": "1200",
+            "D_DEC_CONCEPT1": "HONIORARIOS MEDICOS",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "3/24/2023 12:23:05 PM",
+            "D_DEC_DPFPEEO1": "03 Transferencia Electrónica",
+            "D_DEC_DPNEEID1": "0",
+            "D_DEC_NDRSEOE1": "DANIEL IVAN LOZANO LOPEZ",
+            "I_DEC_RGEEAFC1": "0",
+            "I_DEC_IMPENOA1": "0",
+            "I_DEC_MOCHORN1": "0",
+            "I_DEC_SICPRAN1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "85121607",
+            "N_DEC_DPEEEJD1": "2023",
+            "D_DEC_TDIIENP1": "A",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "LOLD7711198Q3",
+            "D_DEC_DPRREEF1": "OIHC860804LB5",
+            "D_DEC_DPUEEUD1": "AF9E37F8-62F0-4A5C-B24A-17F92493C015",
+            "D_DEC_DBAETNO1": "0",
+            "D_DEC_TDIEPDO1": "A",
+            "I_DEC_MDLDPOE1": "1200",
+            "D_DEC_CONCEPT1": "HONIORARIOS MEDICOS",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "5/16/2023 8:07:14 PM",
+            "D_DEC_DPFPEEO1": "03 Transferencia Electrónica",
+            "D_DEC_DPNEEID1": "0",
+            "D_DEC_NDRSEOE1": "DANIEL IVAN LOZANO LOPEZ",
+            "I_DEC_RGEEAFC1": "0",
+            "I_DEC_IMPENOA1": "0",
+            "I_DEC_MOCHORN1": "0",
+            "I_DEC_SICPRAN1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "85121607",
+            "N_DEC_DPEEEJD1": "2023",
+            "D_DEC_TDIIENP1": "A",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "LOQL841205I85",
+            "D_DEC_DPRREEF1": "OIHC860804LB5",
+            "D_DEC_DPUEEUD1": "AAA1F8C7-A508-45B5-B393-30A89899D82D",
+            "D_DEC_DBAETNO1": "0",
+            "D_DEC_TDIEPDO1": "A",
+            "I_DEC_MDLDPOE1": "730",
+            "D_DEC_CONCEPT1": "HONORARIOS DENTALES",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "7/18/2023 8:56:04 AM",
+            "D_DEC_DPFPEEO1": "03 Transferencia Electrónica",
+            "D_DEC_DPNEEID1": "0",
+            "D_DEC_NDRSEOE1": "MARIA LUISA LOZORNIO QUEZADA",
+            "I_DEC_RGEEAFC1": "0",
+            "I_DEC_IMPENOA1": "0",
+            "I_DEC_MOCHORN1": "0",
+            "I_DEC_SICPRAN1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "85122000",
+            "N_DEC_DPEEEJD1": "2023",
+            "D_DEC_TDIIENP1": "A",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "LOQL841205I85",
+            "D_DEC_DPRREEF1": "OIHC860804LB5",
+            "D_DEC_DPUEEUD1": "AAA19EBE-4D7E-4ACD-8979-F0D542184602",
+            "D_DEC_DBAETNO1": "0",
+            "D_DEC_TDIEPDO1": "A",
+            "I_DEC_MDLDPOE1": "730",
+            "D_DEC_CONCEPT1": "HONORARIOS DENTALES",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "7/19/2023 8:13:19 AM",
+            "D_DEC_DPFPEEO1": "03 Transferencia Electrónica",
+            "D_DEC_DPNEEID1": "0",
+            "D_DEC_NDRSEOE1": "MARIA LUISA LOZORNIO QUEZADA",
+            "I_DEC_RGEEAFC1": "0",
+            "I_DEC_IMPENOA1": "0",
+            "I_DEC_MOCHORN1": "0",
+            "I_DEC_SICPRAN1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "85122000",
+            "N_DEC_DPEEEJD1": "2023",
+            "D_DEC_TDIIENP1": "A",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "FALI750817UY5",
+            "D_DEC_DPRREEF1": "OIHC860804LB5",
+            "D_DEC_DPUEEUD1": "7FB70379-6E3B-4BE8-9700-68BEE2ABF005",
+            "D_DEC_DBAETNO1": "0",
+            "D_DEC_TDIEPDO1": "A",
+            "I_DEC_MDLDPOE1": "1800",
+            "D_DEC_CONCEPT1": "HONORARIOS MEDICOS",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "8/12/2023 11:12:41 PM",
+            "D_DEC_DPFPEEO1": "28 Tarjeta de debito",
+            "D_DEC_DPNEEID1": "0",
+            "D_DEC_NDRSEOE1": "IVAN RAMON FRANCO LEYVA",
+            "I_DEC_RGEEAFC1": "0",
+            "I_DEC_IMPENOA1": "0",
+            "I_DEC_MOCHORN1": "0",
+            "I_DEC_SICPRAN1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "85121601",
+            "N_DEC_DPEEEJD1": "2023",
+            "D_DEC_TDIIENP1": "A",
+            "D_DEC_PPRROEV1": "1"
+        }
+    ]
+}

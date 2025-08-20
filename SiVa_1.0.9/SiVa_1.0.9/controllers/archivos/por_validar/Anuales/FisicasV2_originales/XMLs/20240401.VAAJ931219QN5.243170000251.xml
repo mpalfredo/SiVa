@@ -1,0 +1,726 @@
+<modeloDatos>
+  <relacionesGrid />
+  <calculos />
+  <SubRegimenes />
+  <ClabesBancarias>
+    <DatosBanco>
+      <Clabe>072100002839943442</Clabe>
+      <ClaveBanco>72</ClaveBanco>
+      <NombreBancoC>BANORTE/IXE</NombreBancoC>
+    </DatosBanco>
+  </ClabesBancarias>
+  <Regimenes>
+    <Regimen clave="605" descripcion="RÃ©gimen de Sueldos y Salarios e Ingresos Asimilados a Salarios" historico="false" />
+    <Regimen clave="626" descripcion="RÃ©gimen Simplificado de Confianza" historico="false" />
+  </Regimenes>
+  <Roles>
+    <Rol clave="300031" descripcion="ASALARIADO" historico="false" />
+    <Rol clave="300155" descripcion="CONTRIBUYENTE PF" historico="false" />
+    <Rol clave="300511" descripcion="INSC. DIRECTA PF" historico="false" />
+    <Rol clave="300688" descripcion="SIMPLIFICADO DE CONFIANZA PF" historico="false" />
+    <Rol clave="300505" descripcion="PF RIESGO" historico="true" />
+    <Rol clave="300702" descripcion="RIESGO EN COBRANZA" historico="true" />
+  </Roles>
+  <Obligaciones />
+  <Conceptos />
+  <entidad visibilidad="true" id="510001" tipo="SAT_DATOS_CONTRIBUYENTE" clave="SAT_DAT_CON">
+    <propiedad id="10" visible="false" claveinformativa="10" clave="SAT_RFC">VAAJ931219QN5</propiedad>
+    <propiedad id="11" visible="false" claveinformativa="11" clave="SAT_RFC_REP_LEG" />
+    <propiedad id="12" visible="false" claveinformativa="12" clave="SAT_CUR_REP_LEG" />
+    <propiedad id="13" visible="false" claveinformativa="13" clave="SAT_NOM_DEL_REP_LEG" />
+    <propiedad id="14" visible="false" claveinformativa="14" clave="SAT_APE_PAT_REP_LEG" />
+    <propiedad id="15" visible="false" claveinformativa="15" clave="SAT_APE_MAT_REP_LEG" />
+    <propiedad id="16" visible="false" claveinformativa="16" clave="SAT_BO_">3030595111158364746985371288368</propiedad>
+    <propiedad id="17" visible="false" claveinformativa="17" clave="SAT_ALS">O-060</propiedad>
+    <propiedad id="18" visible="false" claveinformativa="18" clave="SAT_ADD" />
+    <propiedad id="2" visible="false" claveinformativa="2" clave="SAT_CUR">VAAJ931219HCSZGN02</propiedad>
+    <propiedad id="3" visible="false" claveinformativa="3" clave="SAT_NOM">JUAN CARLOS</propiedad>
+    <propiedad id="3A" visible="false" claveinformativa="3A" clave="SAT_NOM_COM" />
+    <propiedad id="4" visible="false" claveinformativa="4" clave="SAT_APE_PAT">VAZQUEZ</propiedad>
+    <propiedad id="5" visible="false" claveinformativa="5" clave="SAT_APE_MAT">AGUILAR</propiedad>
+    <propiedad id="6" visible="false" claveinformativa="6" clave="SAT_RAZ_SOC" />
+    <propiedad id="7" visible="false" claveinformativa="7" clave="SAT_TIP_DE_SOC" />
+    <propiedad id="8" visible="false" claveinformativa="8" clave="SAT_ID_DE_PER" />
+    <propiedad id="9" visible="false" claveinformativa="9" clave="SAT_TIP_DE_PER">F</propiedad>
+  </entidad>
+  <entidad visibilidad="true" id="510002" tipo="SAT_DATOS_GENERALES" clave="SAT_DAT_GEN">
+    <propiedad id="20" visible="false" claveinformativa="20" clave="SAT_ID_DE_LA_DEC">C340EA5E-937A-49E5-BE07-3827332E8C79</propiedad>
+    <propiedad id="21" visible="false" claveinformativa="21" clave="SAT_VER_DE_LA_REF">11</propiedad>
+    <propiedad id="22" visible="false" claveinformativa="22" clave="SAT_CLA_TIP_DE_COM">0</propiedad>
+    <propiedad id="23" visible="false" claveinformativa="23" clave="SAT_CLA_DEL_PER">035</propiedad>
+    <propiedad id="24" visible="false" claveinformativa="24" clave="SAT_DES_DEL_TIP_DE_DEC">Normal</propiedad>
+    <propiedad id="25" visible="false" claveinformativa="25" clave="SAT_DES_DE_LA_PER">8-Del Ejercicio</propiedad>
+    <propiedad id="26" visible="false" claveinformativa="26" clave="SAT_DES_DEL_PER">Del Ejercicio</propiedad>
+    <propiedad id="27" visible="false" claveinformativa="27" clave="SAT_CLA_DE_LA_CLA_DE_DEC">002</propiedad>
+    <propiedad id="28" visible="false" claveinformativa="28" clave="SAT_FEC_DE_VEN_DE_LA_DEC">2024-04-30T05:00:00.000Z</propiedad>
+    <propiedad id="29" visible="false" claveinformativa="29" clave="SAT_FEC_DE_CAU">2024-04-30T05:00:00.000Z</propiedad>
+    <propiedad id="30" visible="false" claveinformativa="30" clave="SAT_EJE">2023</propiedad>
+    <propiedad id="31" visible="false" claveinformativa="31" clave="SAT_CLA_DEL_TIP_DE_DEC">001</propiedad>
+    <propiedad id="32" visible="false" claveinformativa="32" clave="SAT_CLA_DE_PER">Y</propiedad>
+    <propiedad id="33" visible="false" claveinformativa="33" clave="SAT_DES_DEL_TIP_DE_COM" />
+    <propiedad id="34" visible="false" claveinformativa="34" clave="SAT_MED_DE_LLE_DE_LA_DEC">E</propiedad>
+    <propiedad id="35" visible="false" claveinformativa="35" clave="SAT_ID_DE_LA_DEC_PAD">00000000-0000-0000-0000-000000000000</propiedad>
+    <propiedad id="36" visible="false" claveinformativa="36" clave="SAT_ID_DE_LA_DEC_RAI">00000000-0000-0000-0000-000000000000</propiedad>
+    <propiedad id="37" visible="false" claveinformativa="37" clave="SAT_MED_DE_PRE_DE_LA_DEC">Internet</propiedad>
+    <propiedad id="38" visible="false" claveinformativa="38" clave="SAT_FEC_CON_DEC">2024-04-01T00:00:00</propiedad>
+    <propiedad id="39" visible="false" claveinformativa="39" clave="SAT_CLA_USU_INI">VAAJ931219QN5</propiedad>
+    <propiedad id="40" visible="false" claveinformativa="40" clave="SAT_CLA_USU_CON">VAAJ931219QN5</propiedad>
+    <propiedad id="41" visible="false" claveinformativa="41" clave="SAT_CLA_DEL_REG_PRE">44</propiedad>
+    <propiedad id="42" visible="false" claveinformativa="42" clave="SAT_DES_DEL_REG_PRE">RÃ©gimen Simplificado de Confianza</propiedad>
+    <propiedad id="43" visible="false" claveinformativa="43" clave="SAT_FIR_DE_LA_DEC">false</propiedad>
+    <propiedad id="44" visible="false" claveinformativa="44" clave="SAT_NUM_DE_SER_CER" />
+    <propiedad id="45" visible="false" claveinformativa="45" clave="SAT_MED_DE_AUT">sat/ciec/contribuyentes/uri</propiedad>
+    <propiedad id="46" visible="false" claveinformativa="46" clave="SAT_ADD">Addenda</propiedad>
+    <propiedad id="47" visible="false" claveinformativa="47" clave="SAT_FEC_SIS" />
+    <propiedad id="48" visible="false" claveinformativa="48" clave="SAT_CER" />
+    <propiedad id="49" visible="false" claveinformativa="49" clave="SAT_FIR" />
+    <propiedad id="50" visible="false" claveinformativa="50" clave="SAT_CVE_MED_PRE">WEB</propiedad>
+    <propiedad id="51" visible="false" claveinformativa="51" clave="SAT_ID_ARE_GEO">1</propiedad>
+    <propiedad id="52" visible="false" claveinformativa="52" clave="SAT_DES_ARE_GEO">A</propiedad>
+    <propiedad id="52A" visible="false" claveinformativa="52A" clave="SAT_ARE_GEO_UNI" />
+    <propiedad id="53" visible="false" claveinformativa="53" clave="SAT_SUB_REG"></propiedad>
+    <propiedad id="54" visible="false" claveinformativa="54" clave="SAT_ID_ANU" />
+    <propiedad id="55" visible="false" claveinformativa="55" clave="SAT_SIN_CAL">0</propiedad>
+    <propiedad id="56" visible="false" claveinformativa="56" clave="SAT_SIM" />
+    <propiedad id="57" visible="false" claveinformativa="57" clave="SAT_CON_PRE">1</propiedad>
+    <propiedad id="58" visible="false" claveinformativa="58" clave="SAT_FUE_LIN">0</propiedad>
+    <propiedad id="59" visible="false" claveinformativa="59" clave="SAT_TIE_TRA" />
+    <propiedad id="60" visible="false" claveinformativa="60" clave="SAT_APL_EST" />
+    <propiedad id="61" visible="false" claveinformativa="61" clave="SAT_SEC_PRI" />
+    <propiedad id="62" visible="false" claveinformativa="62" clave="SAT_ENT_FED">07</propiedad>
+    <propiedad id="63" visible="false" claveinformativa="63" clave="SAT_ENT_FED_HIST" />
+    <propiedad id="64" visible="false" claveinformativa="64" clave="SAT_SUB_REG_HIST" />
+    <propiedad id="65" visible="false" claveinformativa="65" clave="SAT_ID_APL">1</propiedad>
+    <propiedad id="66" visible="false" claveinformativa="66" clave="SAT_NOM_APL">ANUAL INTERNET</propiedad>
+    <propiedad id="67" visible="false" claveinformativa="67" clave="SAT_ES_MOV">0</propiedad>
+    <propiedad id="69" visible="false" claveinformativa="69" clave="SAT_ES_PRO">0</propiedad>
+    <propiedad id="70" visible="false" claveinformativa="70" clave="SAT_REC_PRO" />
+    <propiedad id="71" visible="false" claveinformativa="71" clave="SAT_APL_PAG_PAR" />
+    <propiedad id="72" visible="false" claveinformativa="72" clave="SAT_EST_TIE_FOL_AUT_FIR_POR" />
+    <propiedad id="73" visible="false" claveinformativa="73" clave="SAT_FIR_POR" />
+    <propiedad id="74" visible="false" claveinformativa="74" clave="SAT_UTI_FAC" />
+    <propiedad id="75" visible="false" claveinformativa="75" clave="SAT_CON_PRO">300031|ASALARIADO|R|2015-04-01|2099-12-31;300155|CONTRIBUYENTE PF|SR|2015-09-06|2999-12-31;300511|INSC. DIRECTA PF|R|2015-09-05|;300688|SIMPLIFICADO DE CONFIANZA PF|R|2022-01-02|2099-12-31</propiedad>
+    <propiedad id="76" visible="false" claveinformativa="76" clave="SAT_EDI_PRE_SAL" />
+    <propiedad id="77" visible="false" claveinformativa="77" clave="SAT_EDI_PRE_CFDI" />
+    <propiedad id="78" visible="false" claveinformativa="78" clave="SAT_EDI_PRE_INT" />
+    <propiedad id="79" visible="false" claveinformativa="79" clave="SAT_EDI_PRE_PRO" />
+    <propiedad id="80" visible="false" claveinformativa="80" clave="SAT_TIE_PRE_SAL">1</propiedad>
+    <propiedad id="81" visible="false" claveinformativa="81" clave="SAT_TIE_PRE_CFDI">1</propiedad>
+    <propiedad id="82" visible="false" claveinformativa="82" clave="SAT_TIE_PRE_INT">1</propiedad>
+    <propiedad id="83" visible="false" claveinformativa="83" clave="SAT_TIE_PRE_PRO">0</propiedad>
+    <propiedad id="84" visible="false" claveinformativa="84">shusteer58@hotmail.com</propiedad>
+    <propiedad id="85" visible="false" claveinformativa="85">1</propiedad>
+    <propiedad id="MENSAJENOPROPUESTA" visible="false" claveinformativa="MENSAJENOPROPUESTA" />
+    <propiedad id="161" visible="false" claveinformativa="161">PERSONAS FÃSICAS</propiedad>
+    <propiedad id="162" visible="false" claveinformativa="162">17CCCCEEC4C3DFCA29A3AA90ABE69FE20058965350D9CD65F85B05F6461EF15B</propiedad>
+    <propiedad id="163" visible="false" claveinformativa="163">28E4066176B809AE6C363672FD747FE0F57EAC16435CE7B9CB1BE286DCB920AC</propiedad>
+    <propiedad id="181" visible="false" claveinformativa="181" />
+    <propiedad id="191" visible="false" claveinformativa="191" />
+    <propiedad id="185" visible="false" claveinformativa="185" />
+    <propiedad id="192" visible="false" claveinformativa="192">0</propiedad>
+    <propiedad id="AMPARADOINGRESOSEXENTOS" visible="false" claveinformativa="AMPARADOINGRESOSEXENTOS">0</propiedad>
+    <propiedad id="MOSTRARBTNAGREGARPF" visible="false" claveinformativa="MOSTRARBTNAGREGARPF">0</propiedad>
+    <propiedad id="ACTIVARBUZON" visible="false" claveinformativa="ACTIVARBUZON">0</propiedad>
+    <propiedad id="TUVOSECTORPRIMARIO" visible="false" claveinformativa="TUVOSECTORPRIMARIO">0</propiedad>
+    <propiedad id="TUVOARRENDAMIENTO" visible="false" claveinformativa="TUVOARRENDAMIENTO">0</propiedad>
+    <propiedad id="TUVOACTIVIDADEMPRESARIAL" visible="false" claveinformativa="TUVOACTIVIDADEMPRESARIAL">1</propiedad>
+    <propiedad id="TUVORIF" visible="false" claveinformativa="TUVORIF">0</propiedad>
+    <propiedad id="PERMITECONTINUARRESICO" visible="false" claveinformativa="PERMITECONTINUARRESICO">0</propiedad>
+    <propiedad id="HABILITARINGRESOSEXENTOSSP" visible="false" claveinformativa="HABILITARINGRESOSEXENTOSSP">0</propiedad>
+    <propiedad id="TIENEPRECRAGAINGRESOSEGRESOS" visible="false" claveinformativa="TIENEPRECRAGAINGRESOSEGRESOS">1</propiedad>
+    <propiedad id="ESOTIS" visible="false" claveinformativa="ESOTIS">0</propiedad>
+    <propiedad id="OCULTAINGRESOSGRABAVLESRSC" visible="false" claveinformativa="OCULTAINGRESOSGRABAVLESRSC">0</propiedad>
+    <propiedad id="OCULTADIFERENCIASDEDUCCIONESRSC" visible="false" claveinformativa="OCULTADIFERENCIASDEDUCCIONESRSC">0</propiedad>
+    <propiedad id="OCULTAPERDIDASFISCALESEARSC" visible="false" claveinformativa="OCULTAPERDIDASFISCALESEARSC">0</propiedad>
+    <propiedad id="OCULTADEDUCCIONESPARSC" visible="false" claveinformativa="OCULTADEDUCCIONESPARSC">0</propiedad>
+    <propiedad id="TUVORESICO" visible="false" claveinformativa="TUVORESICO">1</propiedad>
+    <propiedad id="183" visible="false" claveinformativa="183">2024-03-29T06:00:00.000Z</propiedad>
+    <propiedad id="184" visible="false" claveinformativa="184">2024-03-23T06:00:00.000Z</propiedad>
+    <propiedad id="187" visible="false" claveinformativa="187" />
+    <propiedad id="FECHADEDUCCIONES" visible="false" claveinformativa="FECHADEDUCCIONES">2023-12-31T06:00:00.000Z</propiedad>
+    <propiedad id="FECHANOMINATRABAJADOR" visible="false" claveinformativa="FECHANOMINATRABAJADOR" />
+    <propiedad id="FECHAINTERESES" visible="false" claveinformativa="FECHAINTERESES">2024-02-16T06:00:00.000Z</propiedad>
+    <propiedad id="FECHAINGRESOSEGRESOS" visible="false" claveinformativa="FECHAINGRESOSEGRESOS">2024-03-26T06:00:00.000Z</propiedad>
+    <propiedad id="177" visible="false" claveinformativa="177">5.7.25</propiedad>
+  </entidad>
+  <entidad visibilidad="true" id="510003" tipo="SAT_DATOS_ACUSE" clave="SAT_DAT_ACU">
+    <propiedad id="24001" visible="false" claveinformativa="24001" clave="SAT_FEC_DE_PRE_DE_LA_DEC">2024-04-01T06:12:12</propiedad>
+    <propiedad id="24002" visible="false" claveinformativa="24002" clave="SAT_FEC_DE_VEN_DE_LA_LIN_DE_CAP">2024-04-30T05:00:00</propiedad>
+    <propiedad id="24003" visible="false" claveinformativa="24003" clave="SAT_SEL_DIG">LgSmrIpFQmyTaTa9KE7w+y9KpVJ1qLfipnaC8puep00Zc5M/dvLz9yy11bqcBJQ0YmlGSoG8CTnH1omsSOTZyo5XKBBBv72+ia5v2ZNrssB7QAFLer9LDfDsHi92Iye6sw67imvRZ1ekvOGC6ng0sQZnq3TYEUfy2UI5B5iM78tVBuVWoiRzyGMXAK44BPhZtUoStR+g+cfVlJ+QuGyQ2m9GlFzdcOBAe+T2oCpmoUiYHCZSCiR/353tEsxnpL6Ub1Y92o25RxfU3x6DiL41EAh1+EeZA5ZKiCxRU4R9K7GnpRLB/TCwJ+JKKFickrQXO8ZN+9ujSF/Kp+e8apbV5w==</propiedad>
+    <propiedad id="24004" visible="false" claveinformativa="24004" clave="SAT_LIN_DE_CAP"></propiedad>
+    <propiedad id="24005" visible="false" claveinformativa="24005" clave="SAT_LEY_OBL_AP_PAG_POR_INT">2</propiedad>
+    <propiedad id="24006" visible="false" claveinformativa="24006" clave="SAT_NUM_DE_OPE">243170000251</propiedad>
+    <propiedad id="24007" visible="false" claveinformativa="24007" clave="SAT_TOT_AP_PAG">0</propiedad>
+    <propiedad id="24008" visible="false" claveinformativa="24008" clave="SAT_ALS_EN_DON_SE_PRE_LA" />
+    <propiedad id="24009" visible="false" claveinformativa="24009" clave="SAT_ADD" />
+    <propiedad id="24010" visible="false" claveinformativa="24010" clave="SAT_COD_DE_BAR"></propiedad>
+    <propiedad id="24011" visible="false" claveinformativa="24011" clave="SAT_COD"></propiedad>
+    <propiedad id="24012" visible="false" claveinformativa="24012" clave="SAT_CON_COD" />
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370001" titulo="RÃ©gimen Simplificado de Confianza" titulolargo="RÃ©gimen Simplificado de Confianza" tipo="SAT_ANEXOS" clave="SAT_RSC">
+    <propiedad id="REDATCOP01" visible="true" claveinformativa="REDATCOP01" etiqueta="No">2</propiedad>
+    <propiedad id="RESIN01" visible="true" claveinformativa="RESIN01">226359</propiedad>
+    <propiedad id="RESIN01C" visible="false" claveinformativa="RESIN01C">226359</propiedad>
+    <propiedad id="RESIN01D" visible="true" claveinformativa="RESIN01D">226359</propiedad>
+    <propiedad id="RESIN02" visible="true" claveinformativa="RESIN02">0</propiedad>
+    <propiedad id="RESIN02C" visible="false" claveinformativa="RESIN02C" />
+    <propiedad id="RESIN02E" visible="false" claveinformativa="RESIN02E">0</propiedad>
+    <propiedad id="RESIN02F" visible="false" claveinformativa="RESIN02F" />
+    <propiedad id="RESIN02D" visible="true" claveinformativa="RESIN02D">0</propiedad>
+    <propiedad id="RESIN03" visible="true" claveinformativa="RESIN03" />
+    <propiedad id="RESIN03D" visible="false" claveinformativa="RESIN03D" />
+    <propiedad id="RESIN04" visible="true" claveinformativa="RESIN04" />
+    <propiedad id="RESIN04C" visible="false" claveinformativa="RESIN04C" />
+    <propiedad id="RESIN05" visible="true" claveinformativa="RESIN05">226359</propiedad>
+    <propiedad id="RESIN05A" visible="true" claveinformativa="RESIN05A">0</propiedad>
+    <propiedad id="RESIN05D" visible="false" claveinformativa="RESIN05D">226359</propiedad>
+    <propiedad id="CONTADORINGOBT" visible="false" claveinformativa="CONTADORINGOBT">1</propiedad>
+    <propiedad id="RESIN06" visible="false" claveinformativa="RESIN06" />
+    <propiedad id="RESIN07" visible="false" claveinformativa="RESIN07" />
+    <propiedad id="RESIN08" visible="false" claveinformativa="RESIN08">0</propiedad>
+    <propiedad id="RESIN09" visible="false" claveinformativa="RESIN09" />
+    <propiedad id="RESIN10" visible="false" claveinformativa="RESIN10" />
+    <propiedad id="RESIN11" visible="true" claveinformativa="RESIN11">226359</propiedad>
+    <propiedad id="RESDE01" visible="false" claveinformativa="RESDE01" />
+    <propiedad id="RESDE01D" visible="false" claveinformativa="RESDE01D" />
+    <propiedad id="RESRE01" visible="false" claveinformativa="RESRE01">226359</propiedad>
+    <propiedad id="RESRE02" visible="false" claveinformativa="RESRE02" />
+    <propiedad id="RESRE03" visible="false" claveinformativa="RESRE03" />
+    <propiedad id="RESRE04" visible="true" claveinformativa="RESRE04">226359</propiedad>
+    <propiedad id="RESPP01" visible="true" claveinformativa="RESPP01">0</propiedad>
+    <propiedad id="RESPP01F" visible="false" claveinformativa="RESPP01F">280</propiedad>
+    <propiedad id="RESPP01G" visible="false" claveinformativa="RESPP01G">0</propiedad>
+    <propiedad id="RESPP01H" visible="false" claveinformativa="RESPP01H" />
+    <propiedad id="RESPP01I" visible="true" claveinformativa="RESPP01I">0</propiedad>
+    <propiedad id="RESRET01" visible="true" claveinformativa="RESRET01">2766</propiedad>
+    <propiedad id="RESRET01C" visible="false" claveinformativa="RESRET01C">2766</propiedad>
+    <propiedad id="RESRET01D" visible="true" claveinformativa="RESRET01D">2766</propiedad>
+    <propiedad id="RESRET01E" visible="true" claveinformativa="RESRET01E">0</propiedad>
+    <propiedad id="RESRET01F" visible="true" claveinformativa="RESRET01F" />
+    <propiedad id="RESRET01G" visible="true" claveinformativa="RESRET01G">2766</propiedad>
+    <propiedad id="RESRET01H" visible="true" claveinformativa="RESRET01H">0</propiedad>
+    <propiedad id="RESRET01L" visible="false" claveinformativa="RESRET01L">2766</propiedad>
+    <propiedad id="CMRES02" visible="true" claveinformativa="CMRES02" />
+    <propiedad id="RSCTIENEPRECARGAPROV" visible="false" claveinformativa="RSCTIENEPRECARGAPROV">1</propiedad>
+    <propiedad id="CONTADORINGADI" visible="false" claveinformativa="CONTADORINGADI" />
+    <propiedad id="CONTADORINGDIS" visible="false" claveinformativa="CONTADORINGDIS" />
+    <propiedad id="AUXRESIN06" visible="false" claveinformativa="AUXRESIN06">0</propiedad>
+    <propiedad id="RSCTUVOPRECARGAPF" visible="false" claveinformativa="RSCTUVOPRECARGAPF" />
+    <propiedad id="RSCTIENEPRECARGAPF" visible="false" claveinformativa="RSCTIENEPRECARGAPF" />
+    <propiedad id="RSCMOSTRARBTNAGREGARPF" visible="false" claveinformativa="RSCMOSTRARBTNAGREGARPF" />
+    <propiedad id="CONTADORISRRET" visible="false" claveinformativa="CONTADORISRRET">2766</propiedad>
+    <propiedad id="CONTADORPERDIDAS" visible="false" claveinformativa="CONTADORPERDIDAS" />
+    <propiedad id="SUMARESIN05C" visible="false" claveinformativa="SUMARESIN05C" />
+    <propiedad id="RESIN08LIMPIO" visible="false" claveinformativa="RESIN08LIMPIO">0</propiedad>
+    <propiedad id="AUXTOOLTIP" visible="false" claveinformativa="AUXTOOLTIP">1</propiedad>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370002" titulo="Total de ingresos efectivamente cobrados" titulolargo="Total de ingresos efectivamente cobrados" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_TOT_ING_EFE_COB" grid="1" numeroelementos="12">
+    <fila identificador="1" orden="1">
+      <propiedad id="RESIN01A" claveinformativa="RESIN01A" etiqueta="Enero">01</propiedad>
+      <propiedad id="RESIN01B" claveinformativa="RESIN01B">7000</propiedad>
+    </fila>
+    <fila identificador="2" orden="2">
+      <propiedad id="RESIN01A" claveinformativa="RESIN01A" etiqueta="Febrero">02</propiedad>
+      <propiedad id="RESIN01B" claveinformativa="RESIN01B">13421</propiedad>
+    </fila>
+    <fila identificador="3" orden="3">
+      <propiedad id="RESIN01A" claveinformativa="RESIN01A" etiqueta="Marzo">03</propiedad>
+      <propiedad id="RESIN01B" claveinformativa="RESIN01B">25492</propiedad>
+    </fila>
+    <fila identificador="4" orden="4">
+      <propiedad id="RESIN01A" claveinformativa="RESIN01A" etiqueta="Abril">04</propiedad>
+      <propiedad id="RESIN01B" claveinformativa="RESIN01B">12647</propiedad>
+    </fila>
+    <fila identificador="5" orden="5">
+      <propiedad id="RESIN01A" claveinformativa="RESIN01A" etiqueta="Mayo">05</propiedad>
+      <propiedad id="RESIN01B" claveinformativa="RESIN01B">27257</propiedad>
+    </fila>
+    <fila identificador="6" orden="6">
+      <propiedad id="RESIN01A" claveinformativa="RESIN01A" etiqueta="Junio">06</propiedad>
+      <propiedad id="RESIN01B" claveinformativa="RESIN01B">11962</propiedad>
+    </fila>
+    <fila identificador="7" orden="7">
+      <propiedad id="RESIN01A" claveinformativa="RESIN01A" etiqueta="Julio">07</propiedad>
+      <propiedad id="RESIN01B" claveinformativa="RESIN01B">10666</propiedad>
+    </fila>
+    <fila identificador="8" orden="8">
+      <propiedad id="RESIN01A" claveinformativa="RESIN01A" etiqueta="Agosto">08</propiedad>
+      <propiedad id="RESIN01B" claveinformativa="RESIN01B">32527</propiedad>
+    </fila>
+    <fila identificador="9" orden="9">
+      <propiedad id="RESIN01A" claveinformativa="RESIN01A" etiqueta="Septiembre">09</propiedad>
+      <propiedad id="RESIN01B" claveinformativa="RESIN01B">22199</propiedad>
+    </fila>
+    <fila identificador="10" orden="10">
+      <propiedad id="RESIN01A" claveinformativa="RESIN01A" etiqueta="Octubre">10</propiedad>
+      <propiedad id="RESIN01B" claveinformativa="RESIN01B">45188</propiedad>
+    </fila>
+    <fila identificador="11" orden="11">
+      <propiedad id="RESIN01A" claveinformativa="RESIN01A" etiqueta="Noviembre">11</propiedad>
+      <propiedad id="RESIN01B" claveinformativa="RESIN01B">9000</propiedad>
+    </fila>
+    <fila identificador="12" orden="12">
+      <propiedad id="RESIN01A" claveinformativa="RESIN01A" etiqueta="Diciembre">12</propiedad>
+      <propiedad id="RESIN01B" claveinformativa="RESIN01B">9000</propiedad>
+    </fila>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370003" titulo="Descuentos devoluciones y bonificaciones" titulolargo="Descuentos devoluciones y bonificaciones" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_DES_DEV_BON" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370004" titulo="Ingresos a disminuir" titulolargo="Ingresos a disminuir" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_ING_DIS" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370005" titulo="Ingresos adicionales" titulolargo="Ingresos adicionales" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_ING_ADI" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370006" titulo="Detalle de los ingresos obtenidos" titulolargo="Detalle de los ingresos obtenidos" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_ING_OBT" grid="1" numeroelementos="1">
+    <fila identificador="1" orden="1">
+      <propiedad id="RESIN05B" claveinformativa="RESIN05B" etiqueta="Servicios profesionales (Honorarios)">CIRE02</propiedad>
+      <propiedad id="RESIN05C" claveinformativa="RESIN05C">226359</propiedad>
+    </fila>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370007" titulo="Ingresos exclusivos por actividades agrÃ­colas, ganaderas, silvÃ­colas y pesqueras" titulolargo="Ingresos exclusivos por actividades agrÃ­colas, ganaderas, silvÃ­colas y pesqueras" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_ING_EXC_SEC_PRI">
+    <propiedad id="RESIN05E" visible="false" claveinformativa="RESIN05E">0</propiedad>
+    <propiedad id="RESIN05F" visible="false" claveinformativa="RESIN05F">0</propiedad>
+    <propiedad id="RESIN05G" visible="false" claveinformativa="RESIN05G">226359</propiedad>
+    <propiedad id="RESIN05H" visible="false" claveinformativa="RESIN05H">100</propiedad>
+    <propiedad id="RESIN05M" visible="false" claveinformativa="RESIN05M">0</propiedad>
+    <propiedad id="RESIN05N" visible="false" claveinformativa="RESIN05N">0</propiedad>
+    <propiedad id="RESIN05S" visible="false" claveinformativa="RESIN05S">0</propiedad>
+    <propiedad id="RESIN05T" visible="false" claveinformativa="RESIN05T">0</propiedad>
+    <propiedad id="RESIN05Y" visible="false" claveinformativa="RESIN05Y">0</propiedad>
+    <propiedad id="RESIN05Z" visible="false" claveinformativa="RESIN05Z">0</propiedad>
+    <propiedad id="RESIN05AA" visible="false" claveinformativa="RESIN05AA" />
+    <propiedad id="RESIN05AB" visible="false" claveinformativa="RESIN05AB">0</propiedad>
+    <propiedad id="RESIN05AC" visible="false" claveinformativa="RESIN05AC" />
+    <propiedad id="RESIN05AD" visible="false" claveinformativa="RESIN05AD">0</propiedad>
+    <propiedad id="RESIN05AE" visible="false" claveinformativa="RESIN05AE" />
+    <propiedad id="RESIN05AF" visible="false" claveinformativa="RESIN05AF">0</propiedad>
+    <propiedad id="RESIN05AG" visible="false" claveinformativa="RESIN05AG" />
+    <propiedad id="RESIN05AH" visible="false" claveinformativa="RESIN05AH">0</propiedad>
+    <propiedad id="RESIN05AI" visible="false" claveinformativa="RESIN05AI" />
+    <propiedad id="RESIN05AJ" visible="false" claveinformativa="RESIN05AJ">0</propiedad>
+    <propiedad id="RESIN05AK" visible="false" claveinformativa="RESIN05AK" />
+    <propiedad id="RESIN05AL" visible="false" claveinformativa="RESIN05AL">0</propiedad>
+    <propiedad id="RESIN05AM" visible="false" claveinformativa="RESIN05AM" />
+    <propiedad id="RESIN05AN" visible="false" claveinformativa="RESIN05AN">0</propiedad>
+    <propiedad id="RESIN05AO" visible="false" claveinformativa="RESIN05AO" />
+    <propiedad id="RESIN05AP" visible="false" claveinformativa="RESIN05AP">0</propiedad>
+    <propiedad id="RESIN05AQ" visible="false" claveinformativa="RESIN05AQ" />
+    <propiedad id="RESIN05AT" visible="false" claveinformativa="RESIN05AT">0</propiedad>
+    <propiedad id="RESIN05AR" visible="false" claveinformativa="RESIN05AR">226359</propiedad>
+    <propiedad id="RESIN05AS" visible="false" claveinformativa="RESIN05AS">100</propiedad>
+    <propiedad id="ETIQINGAGRICOLAS" visible="false" claveinformativa="" />
+    <propiedad id="ETIQSERPROFESIONALES" visible="false" claveinformativa="" />
+    <propiedad id="ETIQSALARIOS" visible="false" claveinformativa="" />
+    <propiedad id="ETIQINGINTERESES" visible="false" claveinformativa="" />
+    <propiedad id="ETIQINGDIVIDENDOS" visible="false" claveinformativa="" />
+    <propiedad id="ETIQINGPAGOS" visible="false" claveinformativa="" />
+    <propiedad id="ETIQINGENAJENACION" visible="false" claveinformativa="" />
+    <propiedad id="ETIQINGADQUISICION" visible="false" claveinformativa="" />
+    <propiedad id="ETIQINGINTERESES2" visible="false" claveinformativa="" />
+    <propiedad id="ETIQINGPREMIOS" visible="false" claveinformativa="" />
+    <propiedad id="ETIQINGDIVIDENDOS2" visible="false" claveinformativa="" />
+    <propiedad id="ETIQINGDEMAS" visible="false" claveinformativa="" />
+    <propiedad id="ETIQINGREFIPRES" visible="false" claveinformativa="" />
+    <propiedad id="ETIQINGEABV" visible="false" claveinformativa="" />
+    <propiedad id="ETIQINGTOTALES" visible="false" claveinformativa="" />
+    <propiedad id="ETIQMONTO" visible="false" claveinformativa="ETIQMONTO" />
+    <propiedad id="ETIQPORCENTAJE" visible="false" claveinformativa="ETIQPORCENTAJE" />
+    <propiedad id="ETIQINFO" visible="false" claveinformativa="ETIQINFO" />
+    <propiedad id="CONATDORSUELDOS" visible="false" claveinformativa="CONATDORSUELDOS">0</propiedad>
+    <propiedad id="CONTADORINTERESES" visible="false" claveinformativa="CONTADORINTERESES">0</propiedad>
+    <propiedad id="CONTADORDIVIDENDOS" visible="false" claveinformativa="CONTADORDIVIDENDOS">0</propiedad>
+    <propiedad id="AUXRESIN05F" visible="false" claveinformativa="AUXRESIN05F">0%</propiedad>
+    <propiedad id="AUXRESIN05H" visible="false" claveinformativa="AUXRESIN05H">100%</propiedad>
+    <propiedad id="AUXRESIN05N" visible="false" claveinformativa="AUXRESIN05N">0%</propiedad>
+    <propiedad id="AUXRESIN05T" visible="false" claveinformativa="AUXRESIN05T">0%</propiedad>
+    <propiedad id="AUXRESIN05Z" visible="false" claveinformativa="AUXRESIN05Z">0%</propiedad>
+    <propiedad id="AUXRESIN05AB" visible="false" claveinformativa="AUXRESIN05AB">0%</propiedad>
+    <propiedad id="AUXRESIN05AD" visible="false" claveinformativa="AUXRESIN05AD">0%</propiedad>
+    <propiedad id="AUXRESIN05AF" visible="false" claveinformativa="AUXRESIN05AF">0%</propiedad>
+    <propiedad id="AUXRESIN05AH" visible="false" claveinformativa="AUXRESIN05AH">0%</propiedad>
+    <propiedad id="AUXRESIN05AJ" visible="false" claveinformativa="AUXRESIN05AJ">0%</propiedad>
+    <propiedad id="AUXRESIN05AL" visible="false" claveinformativa="AUXRESIN05AL">0%</propiedad>
+    <propiedad id="AUXRESIN05AN" visible="false" claveinformativa="AUXRESIN05AN">0%</propiedad>
+    <propiedad id="AUXRESIN05AP" visible="false" claveinformativa="AUXRESIN05AP">0%</propiedad>
+    <propiedad id="AUXRESIN05AT" visible="false" claveinformativa="AUXRESIN05AT">0%</propiedad>
+    <propiedad id="AUXRESIN05AS" visible="false" claveinformativa="AUXRESIN05AS">100%</propiedad>
+    <propiedad id="SUMAAUXSUELDOS" visible="false" claveinformativa="SUMAAUXSUELDOS">0</propiedad>
+    <propiedad id="SUMAAUXINTERESES" visible="false" claveinformativa="SUMAAUXINTERESES">0</propiedad>
+    <propiedad id="SUMAAUXDIVIDENDOS" visible="false" claveinformativa="SUMAAUXDIVIDENDOS">0</propiedad>
+    <propiedad id="ETIQINFOCONT" visible="false" claveinformativa="" />
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370008" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_ING_EXC_SUE_SAL" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370009" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_ING_EXC_ING_INT" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370010" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_ING_EXC_ING_DIV" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370011" titulo="Deducciones pendientes de aplicar" titulolargo="Deducciones pendientes de aplicar" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_DED_PEN_APL" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370012" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_PER_FIS" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370013" titulo="PÃ©rdidas fiscales de ejercicios anteriores pendientes de aplicar" titulolargo="PÃ©rdidas fiscales de ejercicios anteriores pendientes de aplicar" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_PER_FIS_FLA">
+    <propiedad id="RESRE03C01" visible="false" claveinformativa="RESRE03C01" />
+    <propiedad id="RESRE03F01" visible="false" claveinformativa="RESRE03F01" />
+    <propiedad id="RESRE03G01" visible="false" claveinformativa="RESRE03G01" />
+    <propiedad id="RESRE03H01" visible="false" claveinformativa="RESRE03H01" />
+    <propiedad id="RESRE03I01" visible="false" claveinformativa="RESRE03I01" />
+    <propiedad id="RESRE03C02" visible="false" claveinformativa="RESRE03C02" />
+    <propiedad id="RESRE03F02" visible="false" claveinformativa="RESRE03F02" />
+    <propiedad id="RESRE03G02" visible="false" claveinformativa="RESRE03G02" />
+    <propiedad id="RESRE03H02" visible="false" claveinformativa="RESRE03H02" />
+    <propiedad id="RESRE03I02" visible="false" claveinformativa="RESRE03I02" />
+    <propiedad id="RESRE03C03" visible="false" claveinformativa="RESRE03C03" />
+    <propiedad id="RESRE03F03" visible="false" claveinformativa="RESRE03F03" />
+    <propiedad id="RESRE03G03" visible="false" claveinformativa="RESRE03G03" />
+    <propiedad id="RESRE03H03" visible="false" claveinformativa="RESRE03H03" />
+    <propiedad id="RESRE03I03" visible="false" claveinformativa="RESRE03I03" />
+    <propiedad id="RESRE03C04" visible="false" claveinformativa="RESRE03C04" />
+    <propiedad id="RESRE03F04" visible="false" claveinformativa="RESRE03F04" />
+    <propiedad id="RESRE03G04" visible="false" claveinformativa="RESRE03G04" />
+    <propiedad id="RESRE03H04" visible="false" claveinformativa="RESRE03H04" />
+    <propiedad id="RESRE03I04" visible="false" claveinformativa="RESRE03I04" />
+    <propiedad id="RESRE03C05" visible="false" claveinformativa="RESRE03C05" />
+    <propiedad id="RESRE03F05" visible="false" claveinformativa="RESRE03F05" />
+    <propiedad id="RESRE03G05" visible="false" claveinformativa="RESRE03G05" />
+    <propiedad id="RESRE03H05" visible="false" claveinformativa="RESRE03H05" />
+    <propiedad id="RESRE03I05" visible="false" claveinformativa="RESRE03I05" />
+    <propiedad id="RESRE03C06" visible="false" claveinformativa="RESRE03C06" />
+    <propiedad id="RESRE03F06" visible="false" claveinformativa="RESRE03F06" />
+    <propiedad id="RESRE03G06" visible="false" claveinformativa="RESRE03G06" />
+    <propiedad id="RESRE03H06" visible="false" claveinformativa="RESRE03H06" />
+    <propiedad id="RESRE03I06" visible="false" claveinformativa="RESRE03I06" />
+    <propiedad id="RESRE03C07" visible="false" claveinformativa="RESRE03C07" />
+    <propiedad id="RESRE03F07" visible="false" claveinformativa="RESRE03F07" />
+    <propiedad id="RESRE03G07" visible="false" claveinformativa="RESRE03G07" />
+    <propiedad id="RESRE03H07" visible="false" claveinformativa="RESRE03H07" />
+    <propiedad id="RESRE03I07" visible="false" claveinformativa="RESRE03I07" />
+    <propiedad id="RESRE03C08" visible="false" claveinformativa="RESRE03C08" />
+    <propiedad id="RESRE03F08" visible="false" claveinformativa="RESRE03F08" />
+    <propiedad id="RESRE03G08" visible="false" claveinformativa="RESRE03G08" />
+    <propiedad id="RESRE03H08" visible="false" claveinformativa="RESRE03H08" />
+    <propiedad id="RESRE03I08" visible="false" claveinformativa="RESRE03I08" />
+    <propiedad id="RESRE03C09" visible="false" claveinformativa="RESRE03C09" />
+    <propiedad id="RESRE03F09" visible="false" claveinformativa="RESRE03F09" />
+    <propiedad id="RESRE03G09" visible="false" claveinformativa="RESRE03G09" />
+    <propiedad id="RESRE03H09" visible="false" claveinformativa="RESRE03H09" />
+    <propiedad id="RESRE03I09" visible="false" claveinformativa="RESRE03I09" />
+    <propiedad id="RESRE03C10" visible="false" claveinformativa="RESRE03C10" />
+    <propiedad id="RESRE03F10" visible="false" claveinformativa="RESRE03F10" />
+    <propiedad id="RESRE03G10" visible="false" claveinformativa="RESRE03G10" />
+    <propiedad id="RESRE03H10" visible="false" claveinformativa="RESRE03H10" />
+    <propiedad id="RESRE03I10" visible="false" claveinformativa="RESRE03I10" />
+    <propiedad id="RESRE03CETIQ" visible="false" claveinformativa="RESRE03CETIQ" />
+    <propiedad id="RESRE03FETIQ" visible="false" claveinformativa="RESRE03FETIQ" />
+    <propiedad id="RESRE03GETIQ" visible="false" claveinformativa="RESRE03GETIQ" />
+    <propiedad id="RESRE03HETIQ" visible="false" claveinformativa="RESRE03HETIQ" />
+    <propiedad id="RESRE03IETIQ" visible="false" claveinformativa="RESRE03IETIQ" />
+    <propiedad id="RESRE03J" visible="false" claveinformativa="RESRE03J">0</propiedad>
+    <propiedad id="RESRE03K" visible="false" claveinformativa="RESRE03K">0</propiedad>
+    <propiedad id="RESRE03L" visible="false" claveinformativa="RESRE03L" />
+    <propiedad id="RESRE03M" visible="false" claveinformativa="RESRE03M" />
+    <propiedad id="ETIQTOTALRSC" visible="false" claveinformativa="ETIQTOTALRSC" />
+    <propiedad id="RESRE03A" visible="false" claveinformativa="RESRE03A">226359</propiedad>
+    <propiedad id="RESRE03B" visible="false" claveinformativa="RESRE03B">226359</propiedad>
+    <propiedad id="RESRE03G01NULO" visible="false" claveinformativa="RESRE03G01NULO">0</propiedad>
+    <propiedad id="RESRE03G02NULO" visible="false" claveinformativa="RESRE03G02NULO">0</propiedad>
+    <propiedad id="RESRE03G03NULO" visible="false" claveinformativa="RESRE03G03NULO">0</propiedad>
+    <propiedad id="RESRE03G04NULO" visible="false" claveinformativa="RESRE03G04NULO">0</propiedad>
+    <propiedad id="RESRE03G05NULO" visible="false" claveinformativa="RESRE03G05NULO">0</propiedad>
+    <propiedad id="RESRE03G06NULO" visible="false" claveinformativa="RESRE03G06NULO">0</propiedad>
+    <propiedad id="RESRE03G07NULO" visible="false" claveinformativa="RESRE03G07NULO">0</propiedad>
+    <propiedad id="RESRE03G08NULO" visible="false" claveinformativa="RESRE03G08NULO">0</propiedad>
+    <propiedad id="RESRE03G09NULO" visible="false" claveinformativa="RESRE03G09NULO">0</propiedad>
+    <propiedad id="RESRE03G10NULO" visible="false" claveinformativa="RESRE03G10NULO">0</propiedad>
+    <propiedad id="ETIQMES" visible="true" claveinformativa="ETIQMES" />
+    <propiedad id="ETIQINPC" visible="true" claveinformativa="ETIQINPC" />
+    <propiedad id="ETIQRESRE03GX08" visible="true" claveinformativa="ETIQRESRE03GX08" />
+    <propiedad id="ETIQRESRE03GX07" visible="true" claveinformativa="ETIQRESRE03GX07" />
+    <propiedad id="ETIQRESRE03GX09" visible="true" claveinformativa="ETIQRESRE03GX09" />
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370014" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_PAG_MEN" grid="1" numeroelementos="12">
+    <fila identificador="1" orden="1">
+      <propiedad id="RESPP01A" claveinformativa="RESPP01A" etiqueta="Enero">001</propiedad>
+      <propiedad id="RESPP01B" claveinformativa="RESPP01B">0</propiedad>
+      <propiedad id="RESPP01C" claveinformativa="RESPP01C" etiqueta="Presentada con pago en cero">ED04</propiedad>
+      <propiedad id="RESPP01D" claveinformativa="RESPP01D">230380159095</propiedad>
+      <propiedad id="RESPP01E" claveinformativa="RESPP01E">2023-02-09T06:00:00.000Z</propiedad>
+    </fila>
+    <fila identificador="2" orden="2">
+      <propiedad id="RESPP01A" claveinformativa="RESPP01A" etiqueta="Febrero">002</propiedad>
+      <propiedad id="RESPP01B" claveinformativa="RESPP01B">0</propiedad>
+      <propiedad id="RESPP01C" claveinformativa="RESPP01C" etiqueta="Presentada con pago en cero">ED04</propiedad>
+      <propiedad id="RESPP01D" claveinformativa="RESPP01D">230540056075</propiedad>
+      <propiedad id="RESPP01E" claveinformativa="RESPP01E">2023-03-28T06:00:00.000Z</propiedad>
+    </fila>
+    <fila identificador="3" orden="3">
+      <propiedad id="RESPP01A" claveinformativa="RESPP01A" etiqueta="Marzo">003</propiedad>
+      <propiedad id="RESPP01B" claveinformativa="RESPP01B">280</propiedad>
+      <propiedad id="RESPP01C" claveinformativa="RESPP01C" etiqueta="Presentada No pagada">ED02</propiedad>
+      <propiedad id="RESPP01D" claveinformativa="RESPP01D">230560124662</propiedad>
+      <propiedad id="RESPP01E" claveinformativa="RESPP01E">2023-04-24T05:00:00.000Z</propiedad>
+    </fila>
+    <fila identificador="4" orden="4">
+      <propiedad id="RESPP01A" claveinformativa="RESPP01A" etiqueta="Abril">004</propiedad>
+      <propiedad id="RESPP01B" claveinformativa="RESPP01B">0</propiedad>
+      <propiedad id="RESPP01C" claveinformativa="RESPP01C" etiqueta="Presentada con pago en cero">ED04</propiedad>
+      <propiedad id="RESPP01D" claveinformativa="RESPP01D">230320131462</propiedad>
+      <propiedad id="RESPP01E" claveinformativa="RESPP01E">2023-05-24T05:00:00.000Z</propiedad>
+    </fila>
+    <fila identificador="5" orden="5">
+      <propiedad id="RESPP01A" claveinformativa="RESPP01A" etiqueta="Mayo">005</propiedad>
+      <propiedad id="RESPP01B" claveinformativa="RESPP01B">0</propiedad>
+      <propiedad id="RESPP01C" claveinformativa="RESPP01C" etiqueta="Presentada con pago en cero">ED04</propiedad>
+      <propiedad id="RESPP01D" claveinformativa="RESPP01D">230600186969</propiedad>
+      <propiedad id="RESPP01E" claveinformativa="RESPP01E">2023-06-27T05:00:00.000Z</propiedad>
+    </fila>
+    <fila identificador="6" orden="6">
+      <propiedad id="RESPP01A" claveinformativa="RESPP01A" etiqueta="Junio">006</propiedad>
+      <propiedad id="RESPP01B" claveinformativa="RESPP01B" />
+      <propiedad id="RESPP01C" claveinformativa="RESPP01C" etiqueta="No presentada">ED03</propiedad>
+      <propiedad id="RESPP01D" claveinformativa="RESPP01D" />
+      <propiedad id="RESPP01E" claveinformativa="RESPP01E" />
+    </fila>
+    <fila identificador="7" orden="7">
+      <propiedad id="RESPP01A" claveinformativa="RESPP01A" etiqueta="Julio">007</propiedad>
+      <propiedad id="RESPP01B" claveinformativa="RESPP01B">0</propiedad>
+      <propiedad id="RESPP01C" claveinformativa="RESPP01C" etiqueta="Presentada con pago en cero">ED04</propiedad>
+      <propiedad id="RESPP01D" claveinformativa="RESPP01D">230421268121</propiedad>
+      <propiedad id="RESPP01E" claveinformativa="RESPP01E">2023-09-25T05:00:00.000Z</propiedad>
+    </fila>
+    <fila identificador="8" orden="8">
+      <propiedad id="RESPP01A" claveinformativa="RESPP01A" etiqueta="Agosto">008</propiedad>
+      <propiedad id="RESPP01B" claveinformativa="RESPP01B">0</propiedad>
+      <propiedad id="RESPP01C" claveinformativa="RESPP01C" etiqueta="Presentada con pago en cero">ED04</propiedad>
+      <propiedad id="RESPP01D" claveinformativa="RESPP01D">230460137579</propiedad>
+      <propiedad id="RESPP01E" claveinformativa="RESPP01E">2023-09-25T05:00:00.000Z</propiedad>
+    </fila>
+    <fila identificador="9" orden="9">
+      <propiedad id="RESPP01A" claveinformativa="RESPP01A" etiqueta="Septiembre">009</propiedad>
+      <propiedad id="RESPP01B" claveinformativa="RESPP01B" />
+      <propiedad id="RESPP01C" claveinformativa="RESPP01C" etiqueta="No presentada">ED03</propiedad>
+      <propiedad id="RESPP01D" claveinformativa="RESPP01D" />
+      <propiedad id="RESPP01E" claveinformativa="RESPP01E" />
+    </fila>
+    <fila identificador="10" orden="10">
+      <propiedad id="RESPP01A" claveinformativa="RESPP01A" etiqueta="Octubre">010</propiedad>
+      <propiedad id="RESPP01B" claveinformativa="RESPP01B" />
+      <propiedad id="RESPP01C" claveinformativa="RESPP01C" etiqueta="No presentada">ED03</propiedad>
+      <propiedad id="RESPP01D" claveinformativa="RESPP01D" />
+      <propiedad id="RESPP01E" claveinformativa="RESPP01E" />
+    </fila>
+    <fila identificador="11" orden="11">
+      <propiedad id="RESPP01A" claveinformativa="RESPP01A" etiqueta="Noviembre">011</propiedad>
+      <propiedad id="RESPP01B" claveinformativa="RESPP01B">0</propiedad>
+      <propiedad id="RESPP01C" claveinformativa="RESPP01C" etiqueta="Presentada con pago en cero">ED04</propiedad>
+      <propiedad id="RESPP01D" claveinformativa="RESPP01D">240040000792</propiedad>
+      <propiedad id="RESPP01E" claveinformativa="RESPP01E">2024-01-02T06:00:00.000Z</propiedad>
+    </fila>
+    <fila identificador="12" orden="12">
+      <propiedad id="RESPP01A" claveinformativa="RESPP01A" etiqueta="Diciembre">012</propiedad>
+      <propiedad id="RESPP01B" claveinformativa="RESPP01B">0</propiedad>
+      <propiedad id="RESPP01C" claveinformativa="RESPP01C" etiqueta="Presentada con pago en cero">ED04</propiedad>
+      <propiedad id="RESPP01D" claveinformativa="RESPP01D">240540017635</propiedad>
+      <propiedad id="RESPP01E" claveinformativa="RESPP01E">2024-01-24T06:00:00.000Z</propiedad>
+    </fila>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370015" titulo="Detalle de ISR retenido en CFDI" titulolargo="Detalle de ISR retenido en CFDI" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_ISR_RET_CFD" grid="1" numeroelementos="12">
+    <fila identificador="1" orden="1">
+      <propiedad id="RESRET01A" claveinformativa="RESRET01A" etiqueta="Enero">01</propiedad>
+      <propiedad id="RESRET01B" claveinformativa="RESRET01B">87</propiedad>
+    </fila>
+    <fila identificador="2" orden="2">
+      <propiedad id="RESRET01A" claveinformativa="RESRET01A" etiqueta="Febrero">02</propiedad>
+      <propiedad id="RESRET01B" claveinformativa="RESRET01B">168</propiedad>
+    </fila>
+    <fila identificador="3" orden="3">
+      <propiedad id="RESRET01A" claveinformativa="RESRET01A" etiqueta="Marzo">03</propiedad>
+      <propiedad id="RESRET01B" claveinformativa="RESRET01B">319</propiedad>
+    </fila>
+    <fila identificador="4" orden="4">
+      <propiedad id="RESRET01A" claveinformativa="RESRET01A" etiqueta="Abril">04</propiedad>
+      <propiedad id="RESRET01B" claveinformativa="RESRET01B">158</propiedad>
+    </fila>
+    <fila identificador="5" orden="5">
+      <propiedad id="RESRET01A" claveinformativa="RESRET01A" etiqueta="Mayo">05</propiedad>
+      <propiedad id="RESRET01B" claveinformativa="RESRET01B">341</propiedad>
+    </fila>
+    <fila identificador="6" orden="6">
+      <propiedad id="RESRET01A" claveinformativa="RESRET01A" etiqueta="Junio">06</propiedad>
+      <propiedad id="RESRET01B" claveinformativa="RESRET01B">87</propiedad>
+    </fila>
+    <fila identificador="7" orden="7">
+      <propiedad id="RESRET01A" claveinformativa="RESRET01A" etiqueta="Julio">07</propiedad>
+      <propiedad id="RESRET01B" claveinformativa="RESRET01B">133</propiedad>
+    </fila>
+    <fila identificador="8" orden="8">
+      <propiedad id="RESRET01A" claveinformativa="RESRET01A" etiqueta="Agosto">08</propiedad>
+      <propiedad id="RESRET01B" claveinformativa="RESRET01B">407</propiedad>
+    </fila>
+    <fila identificador="9" orden="9">
+      <propiedad id="RESRET01A" claveinformativa="RESRET01A" etiqueta="Septiembre">09</propiedad>
+      <propiedad id="RESRET01B" claveinformativa="RESRET01B">277</propiedad>
+    </fila>
+    <fila identificador="10" orden="10">
+      <propiedad id="RESRET01A" claveinformativa="RESRET01A" etiqueta="Octubre">10</propiedad>
+      <propiedad id="RESRET01B" claveinformativa="RESRET01B">565</propiedad>
+    </fila>
+    <fila identificador="11" orden="11">
+      <propiedad id="RESRET01A" claveinformativa="RESRET01A" etiqueta="Noviembre">11</propiedad>
+      <propiedad id="RESRET01B" claveinformativa="RESRET01B">112</propiedad>
+    </fila>
+    <fila identificador="12" orden="12">
+      <propiedad id="RESRET01A" claveinformativa="RESRET01A" etiqueta="Diciembre">12</propiedad>
+      <propiedad id="RESRET01B" claveinformativa="RESRET01B">112</propiedad>
+    </fila>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370016" titulo="ISR Retenido por personas Morales" titulolargo="ISR Retenido por personas Morales" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_ISR_RET_PER_MOR" grid="1" numeroelementos="2">
+    <fila identificador="1" orden="1">
+      <propiedad id="RESRET01I" claveinformativa="RESRET01I">SFS720322LF4</propiedad>
+      <propiedad id="RESRET01J" claveinformativa="RESRET01J">130518</propiedad>
+      <propiedad id="RESRET01K" claveinformativa="RESRET01K">1568</propiedad>
+    </fila>
+    <fila identificador="2" orden="2">
+      <propiedad id="RESRET01I" claveinformativa="RESRET01I">FCA7908209X7</propiedad>
+      <propiedad id="RESRET01J" claveinformativa="RESRET01J">95841</propiedad>
+      <propiedad id="RESRET01K" claveinformativa="RESRET01K">1198</propiedad>
+    </fila>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370017" titulo="DETERMINACIÃ“N DEL ISR RÃ‰GIMEN SIMPLIFICADO DE CONFIANZA" titulolargo="DETERMINACIÃ“N DEL ISR RÃ‰GIMEN SIMPLIFICADO DE CONFIANZA" tipo="SAT_DETERMINACION_IMPUESTO" clave="SAT_RSC_DET">
+    <propiedad id="RESDET01" visible="true" claveinformativa="RESDET01">226359</propiedad>
+    <propiedad id="RESDET02" visible="false" claveinformativa="RESDET02">0.01</propiedad>
+    <propiedad id="AUXRESDET02" visible="true" claveinformativa="AUXRESDET02">1.00%</propiedad>
+    <propiedad id="RESDET03" visible="true" claveinformativa="RESDET03">2264</propiedad>
+    <propiedad id="RESDET04" visible="true" claveinformativa="RESDET04">0</propiedad>
+    <propiedad id="RESDET05" visible="true" claveinformativa="RESDET05">2766</propiedad>
+    <propiedad id="RESDET06" visible="false" claveinformativa="RESDET06" />
+    <propiedad id="RESDET07" visible="true" claveinformativa="RESDET07">502</propiedad>
+    <propiedad id="RESDET08" visible="true" claveinformativa="RESDET08" etiqueta="DevoluciÃ³n">2</propiedad>
+    <propiedad id="RESDET09" visible="true" claveinformativa="RESDET09">072100002839943442</propiedad>
+    <propiedad id="RESDET10" visible="false" claveinformativa="RESDET10">072100002839943442</propiedad>
+    <propiedad id="RESDET11" visible="true" claveinformativa="RESDET11" etiqueta="Banco Mercantil del Norte, S.A.">072</propiedad>
+    <propiedad id="RESDET12" visible="false" claveinformativa="RESDET12" etiqueta="SÃ­">1</propiedad>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370018" titulo="Detalle del Pago (ISR)" titulolargo="DeterminaciÃ³n del Pago ISR Personas FÃ­sicas RÃ©gimen Simplificado de Confianza" tipo="SAT_DETERMINACION_PAGO" clave="SAT_DET_PAG_RSC">
+    <propiedad id="537C6" visible="true" claveinformativa="C6" clave="SAT_C6">502</propiedad>
+    <propiedad id="537C7" visible="false" claveinformativa="C7" clave="SAT_C7" />
+    <propiedad id="537C8" visible="false" claveinformativa="C8" clave="SAT_C8" />
+    <propiedad id="537C9" visible="false" claveinformativa="C9" clave="SAT_C9" />
+    <propiedad id="537C10" visible="false" claveinformativa="C10" clave="SAT_C10" />
+    <propiedad id="537C11" visible="false" claveinformativa="C11" clave="SAT_C11">0</propiedad>
+    <propiedad id="537C12" visible="false" claveinformativa="C12" clave="SAT_C12" />
+    <propiedad id="537C12A" visible="false" claveinformativa="C12A" clave="SAT_C12A" />
+    <propiedad id="537C12B" visible="false" claveinformativa="C12B" clave="SAT_C12B" />
+    <propiedad id="537C13" visible="false" claveinformativa="C13" clave="SAT_C13" />
+    <propiedad id="537C14" visible="false" claveinformativa="C14" clave="SAT_C14" />
+    <propiedad id="537C15" visible="false" claveinformativa="C15" clave="SAT_C15" />
+    <propiedad id="537C16" visible="false" claveinformativa="C16" clave="SAT_C16" />
+    <propiedad id="537C17" visible="false" claveinformativa="C17" clave="SAT_C17" />
+    <propiedad id="537C18" visible="false" claveinformativa="C18" clave="SAT_C18" />
+    <propiedad id="537C19" visible="false" claveinformativa="C19" clave="SAT_C19" />
+    <propiedad id="537C34" visible="false" claveinformativa="C34" clave="SAT_C34" />
+    <propiedad id="537C21" visible="false" claveinformativa="C21" clave="SAT_C21">0</propiedad>
+    <propiedad id="537C5" visible="false" claveinformativa="C5" clave="SAT_C5" />
+    <propiedad id="537C20" visible="false" claveinformativa="C20" clave="SAT_C20" />
+    <propiedad id="537C20B" visible="false" claveinformativa="C20B" clave="SAT_C20B" etiqueta="Selecciona">0</propiedad>
+    <propiedad id="537C20A" visible="false" claveinformativa="C20A" clave="SAT_20A" />
+    <propiedad id="537C22" visible="false" claveinformativa="C22" clave="SAT_C22">0</propiedad>
+    <propiedad id="537C23A" visible="false" claveinformativa="C23A" clave="SAT_C23A" etiqueta="Selecciona">0</propiedad>
+    <propiedad id="537C23" visible="false" claveinformativa="C23" clave="SAT_C23" />
+    <propiedad id="537C24" visible="false" claveinformativa="C24" clave="SAT_C24" />
+    <propiedad id="537C25" visible="false" claveinformativa="C25" clave="SAT_C25" />
+    <propiedad id="537C26" visible="false" claveinformativa="C26" clave="SAT_C26">0</propiedad>
+    <propiedad id="537UC26" visible="false" claveinformativa="UC26" />
+    <propiedad id="537220096" visible="false" claveinformativa="220096" clave="SAT_220096" etiqueta="No">0</propiedad>
+    <propiedad id="537C28" visible="false" claveinformativa="C28" clave="SAT_C28" etiqueta="Selecciona">0</propiedad>
+    <propiedad id="537220366" visible="false" claveinformativa="220366" />
+    <propiedad id="537C12AA" visible="false" claveinformativa="C12AA" />
+    <propiedad id="537C12AB" visible="false" claveinformativa="C12AB" />
+    <propiedad id="537C12AC" visible="false" claveinformativa="C12AC" />
+    <propiedad id="537PAGOANT" visible="false" claveinformativa="PAGOANT" />
+    <propiedad id="537C5PRE" visible="false" claveinformativa="C5PRE" />
+    <propiedad id="537FPDIAV" visible="false" claveinformativa="FPDIAV" />
+    <propiedad id="537C20PRE" visible="false" claveinformativa="C20PRE" />
+    <propiedad id="537C20LIMITE" visible="false" claveinformativa="C20LIMITE">0</propiedad>
+    <propiedad id="537C10A" visible="false" claveinformativa="C10A" />
+    <propiedad id="537C23AARSC" visible="false" claveinformativa="C23AA" />
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370019" titulo="DETALLE DE COMPENSACIONES RÃ‰GIMEN SIMPLIFICADO DE CONFIANZA" titulolargo="DETALLE DE COMPENSACIONES RÃ‰GIMEN SIMPLIFICADO DE CONFIANZA" tipo="SAT_COMPENSACIONES" clave="SAT_COM_RSC" grid="1" />
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370020" titulo="Detalle de Otros EstÃ­mulos" titulolargo="Detalle de Otros EstÃ­mulos" tipo="SAT_OTROS_ESTIMULOS" clave="SAT_OTR_EST_RSC" grid="1" />
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370021" titulo="Datos de nÃ³mina" titulolargo="Datos de nÃ³mina" tipo="SAT_ANEXOS" clave="SAT_RSC_DAT_COM_PAG_NOM">
+    <propiedad id="RSCDRET1X1" visible="false" claveinformativa="DRET1X1" />
+    <propiedad id="RSCDRET1X2" visible="false" claveinformativa="DRET1X2" />
+    <propiedad id="RSCDRET2X1" visible="false" claveinformativa="DRET2X1" />
+    <propiedad id="RSCDRET2X2" visible="false" claveinformativa="DRET2X2" />
+    <propiedad id="RSCDRET2X3" visible="false" claveinformativa="DRET2X3" />
+    <propiedad id="RSCDRET2X4" visible="false" claveinformativa="DRET2X4" />
+    <propiedad id="RSCDRET2X5" visible="false" claveinformativa="DRET2X5" />
+    <propiedad id="RSCDRET3X1" visible="false" claveinformativa="DRET3X1" />
+    <propiedad id="RSCDRET3X2" visible="false" claveinformativa="DRET3X2" />
+    <propiedad id="RSCDRET3X3" visible="false" claveinformativa="DRET3X3" />
+    <propiedad id="RSCDRET3X4" visible="false" claveinformativa="DRET3X4" />
+    <propiedad id="RSCDRET3X5" visible="false" claveinformativa="DRET3X5" />
+    <propiedad id="RSCETIQTOTNOM" visible="false" claveinformativa="ETIQTOTNOM" />
+    <propiedad id="RSCETIQSUESAL" visible="false" claveinformativa="ETIQSUESAL" />
+    <propiedad id="RSCETIQASIMSAL" visible="false" claveinformativa="ETIQASIMSAL" />
+    <propiedad id="RSCNOMINATIENEPRECARGA" visible="false" claveinformativa="NOMINATIENEPRECARGA" />
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370022" titulo="Total de nÃ³mina por sueldos y salarios" titulolargo="Total de nÃ³mina por sueldos y salarios" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_NOM_SUE_SAL" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370023" titulo="Detalle NÃ³mina por asimilados a salarios" titulolargo="Detalle NÃ³mina por asimilados a salarios" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_NOM_ASI_SAL" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370024" tipo="SAT_ANEXOS" clave="SAT_RSC_TOT_NOM_SUE_SAL">
+    <propiedad id="RSCDND1X10" visible="false" claveinformativa="DND1X10" />
+    <propiedad id="RSCDND1X11" visible="false" claveinformativa="DND1X11" />
+    <propiedad id="RSCDND1X14" visible="false" claveinformativa="DND1X14" />
+    <propiedad id="RSCDND1X15" visible="false" claveinformativa="DND1X15" />
+    <propiedad id="RSCDND1X16" visible="false" claveinformativa="DND1X16" />
+    <propiedad id="RSCDND1X17" visible="false" claveinformativa="DND1X17" />
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370025" titulo="Totales NÃ³mina por asimilados a salarios" titulolargo="Totales NÃ³mina por asimilados a salarios" tipo="SAT_ANEXOS" clave="SAT_RSC_TOT_NOM_ASI_SAL">
+    <propiedad id="RSCDND9XA" visible="false" claveinformativa="DND9XA" />
+    <propiedad id="RSCDND9XB" visible="false" claveinformativa="DND9XB" />
+    <propiedad id="RSCDND9XC" visible="false" claveinformativa="DND9XC" />
+    <propiedad id="RSCDND9XD" visible="false" claveinformativa="DND9XD" />
+    <propiedad id="RSCDND9XE" visible="false" claveinformativa="DND9XE" />
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370026" titulo="Subsidio para el empleo" titulolargo="Subsidio para el empleo" tipo="SAT_ANEXOS" clave="SAT_RSC_SUB_EMP">
+    <propiedad id="RSCSEP1" visible="false" claveinformativa="SEP1" />
+    <propiedad id="RSCSEP2" visible="false" claveinformativa="SEP2" />
+    <propiedad id="RSCSEP3" visible="false" claveinformativa="SEP3" />
+    <propiedad id="RSCSEP4" visible="false" claveinformativa="SEP4">0</propiedad>
+    <propiedad id="RSCSEP5" visible="false" claveinformativa="SEP5" />
+    <propiedad id="RSCSEP6" visible="false" claveinformativa="SEP6">0</propiedad>
+    <propiedad id="RSCSEP1XC" visible="false" claveinformativa="SEP1XC" />
+    <propiedad id="RSCALERTAPRECARGA" visible="false" claveinformativa="ALERTAPRECARGA" />
+    <propiedad id="RSCSEP5C" visible="false" claveinformativa="SEP5C" />
+    <propiedad id="RSCSEP2A" visible="false" claveinformativa="SEP2A" />
+    <propiedad id="RSCSEP7" visible="false" claveinformativa="SEP7" />
+    <propiedad id="RSCSEP4A7" visible="false" claveinformativa="SEP4A7" />
+    <propiedad id="RSCSEP4A3" visible="false" claveinformativa="SEP4A3" />
+    <propiedad id="RSCSEP4B3" visible="false" claveinformativa="SEP4B3" />
+    <propiedad id="RSCSEP4B7" visible="false" claveinformativa="SEP4B7" />
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370027" tipo="SAT_ANEXOS" clave="SAT_RSC_SUB_PAG_NOM" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370028" titulo="Aplicado en sueldos y salarios" titulolargo="Aplicado en sueldos y salarios" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_SUB_APL_RET_SUE" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370029" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_SUB_APL_RET_ASI" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370030" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_SUB_APL_OTR_RET" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370031" titulo="DATOS INFORMATIVOS RÃ‰GIMEN SIMPLIFICADO DE CONFIANZA" titulolargo="DATOS INFORMATIVOS RÃ‰GIMEN SIMPLIFICADO DE CONFIANZA" tipo="SAT_ANEXOS" clave="SAT_RSC_DAT_INF">
+    <propiedad id="RSCODI00B" visible="true" claveinformativa="ODI00B" etiqueta="No">2</propiedad>
+    <propiedad id="1A" visible="false" claveinformativa="1A" />
+    <propiedad id="2A" visible="false" claveinformativa="2A" />
+    <propiedad id="RSC3A" visible="false" claveinformativa="RSC3A" />
+    <propiedad id="4A" visible="false" claveinformativa="4A" />
+    <propiedad id="5A" visible="false" claveinformativa="5A" />
+    <propiedad id="6A" visible="false" claveinformativa="6A" />
+    <propiedad id="RSCODI00A" visible="true" claveinformativa="ODI00A" etiqueta="No">2</propiedad>
+    <propiedad id="RSCDIAG00A" visible="true" claveinformativa="DIAG00A" etiqueta="No">2</propiedad>
+    <propiedad id="RSCDIAG01" visible="false" claveinformativa="DIAG01" />
+    <propiedad id="RSCDIAG02" visible="false" claveinformativa="DIAG02" />
+    <propiedad id="RSCDIRD1" visible="false" claveinformativa="DIRD1" />
+    <propiedad id="RSCDIPTU1" visible="true" claveinformativa="DIPTU1" etiqueta="No">2</propiedad>
+    <propiedad id="RSCDIPTU2" visible="false" claveinformativa="DIPTU2" />
+    <propiedad id="RSCER01" visible="true" claveinformativa="ER01" etiqueta="No">2</propiedad>
+    <propiedad id="CONTADORRSCER02" visible="false" claveinformativa="CONTADORRSCER02">0</propiedad>
+    <propiedad id="CONTADOR7AA" visible="false" claveinformativa="CONTADOR7AA">0</propiedad>
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370032" titulo="DATOS DE COPROPIEDAD RÃ‰GIMEN SIMPLIFICADO DE CONFIANZA" titulolargo="DATOS DE COPROPIEDAD RÃ‰GIMEN SIMPLIFICADO DE CONFIANZA" tipo="SAT_ANEXOS" clave="SAT_RSC_DAT_COP" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370033" titulo="DATOS DE LOS INTEGRANTES DE LA COPROPIEDAD RÃ‰GIMEN SIMPLIFICADO DE CONFIANZA" titulolargo="DATOS DE LOS INTEGRANTES DE LA COPROPIEDAD RÃ‰GIMEN SIMPLIFICADO DE CONFIANZA" tipo="SAT_ANEXOS" clave="SAT_RSC_DAT_INT_COP" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370034" tipo="SAT_ANEXOS" clave="SAT_RSC_DET_ESQ_FIS_REP" grid="1" numeroelementos="0" />
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370035" titulo="InformaciÃ³n Sobre tu SituaciÃ³n Fiscal de RÃ©gimen Simplificado de Confianza" titulolargo="InformaciÃ³n Sobre tu SituaciÃ³n Fiscal de RÃ©gimen Simplificado de Confianza" tipo="SAT_DETERMINACION_INFORMATIVA" clave="SAT_ISSIF_PF_RSC">
+    <propiedad id="ISSIFP01RSC" visible="true" claveinformativa="ISSIFP01" etiqueta="No">2</propiedad>
+    <propiedad id="ISSIFARCHIVORSC" visible="false" claveinformativa="ISSIFARCHIVO" />
+    <propiedad id="ISSIFESTATUSRSC" visible="false" claveinformativa="ISSIFESTATUS" />
+    <propiedad id="ISSIFTEXTORSC" visible="false" claveinformativa="ISSIFTEXTO" />
+  </entidad>
+  <entidad visibilidad="true" claveimpuesto="0168" id="5370036" titulo="DETALLE DE COMPENSACIONES RÃ‰GIMEN SIMPLIFICADO DE CONFIANZA" titulolargo="DETALLE DE COMPENSACIONES RÃ‰GIMEN SIMPLIFICADO DE CONFIANZA" tipo="SAT_COMPENSACIONES_M4" clave="SAT_COM_RSC_M4" grid="1" />
+</modeloDatos>
