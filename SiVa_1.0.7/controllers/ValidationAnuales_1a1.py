@@ -4,12 +4,12 @@ import os
 from modules.JSONCleaner import JSONCleaner
 from modules.JSONsComparator import JSONsComparator, normalizar_enteros
 from modules.XMLXSLTProcessorV2 import XMLProcessor, XSLTProcessor
-from modules.JSONSchemaValidatorV2 import JSONSchemaValidator
+from modules.JSONSchemaValidatorV2 import JSONFunctions
 
 from common.downloads_path import get_downloads_folder as downloads_path
 
 
-class ValidacionDAPMV2:
+class ValidacionAnuales:
     """
     Clase que orquesta todo el flujo para Declaraciones Anuales de Personas Morales V2:
     XML → XSLT → JSON → Validación → Comparación JSON original.
@@ -36,12 +36,11 @@ class ValidacionDAPMV2:
         self.schema = schema
 
     def validar(self):
-        # 1. Parseo de XML yt XSLT
-        processor = XMLProcessor(self.xml_path, self.transformer)
-        processor.parse_xml()
+        # 1. Parseo de XML y XSLT
+        xml_doc = XMLProcessor.parse_xml(self.xml_path)
 
         # 2. Transformación XML → JSON (texto plano)
-        json_str = processor.transform_to_json_str()
+        json_str = XMLProcessor.transform_to_json_str(xml_doc, transformer)
 
         # 3. Limpieza del JSON (texto → texto limpio)
         json_str_clean = JSONCleaner.clean(json_str)
@@ -55,7 +54,7 @@ class ValidacionDAPMV2:
 
         # 5. Normalización de enteros y validación contra esquema
         json_normalized = normalizar_enteros(json_generado)
-        JSONSchemaValidator.validate_json(self.schema,json_normalized)
+        JSONFunctions.validate_json(self.schema,json_normalized)
 
         # 8. Guardar JSON final validado
 
@@ -73,8 +72,8 @@ class ValidacionDAPMV2:
         # 9. Generar comparación en Excel
 
         # Cargar JSON original
-        with open(self.json_path, "r", encoding="utf-8") as f:
-            json_original = json.load(f)
+
+        json_original = JSONFunctions.load_json(self.json_path)
 
         salida_completa_xlsx = os.path.join(salida_json, f"{nombre_json_original}.xlsx")
 
@@ -86,20 +85,20 @@ class ValidacionDAPMV2:
 if __name__ == "__main__":
 
     # --- Configuración de rutas: Regímenes y esquemas ---
-    xslt_path   = r"archivos\regimenes"
-    schema_path = r"archivos\esquemas"
+    xslt_path   = r"archivos\regimenes\FisicasV2Json.DecAnuPF.xslt"
+    schema_path = r"archivos\esquemas\FisicasV2Json.DecAnuPF_2022_v0.2.22.json"
 
     # --- Configuración de rutas: XML y JSON ---
-    xml_path  = r"archivos\por_validar\DyP3\0110\EUBE561117GE4.250080000008\EUBE561117GE4.38.2024.23d3acac-0358-4528-9748-8286b15ac2cb.xml"
-    json_path = r"archivos\por_validar\DyP3\0110\EUBE561117GE4.250080000008\EUBE561117GE4.250080000008.json"
+    xml_path  = r"archivos\por_validar\FísicasV2\20220425.SOCR710403TZ6.220080160506\20220425.SOCR710403TZ6.220080160506.xml"
+    json_path = r"archivos\por_validar\FísicasV2\20220425.SOCR710403TZ6.220080160506\20220425.SOCR710403TZ6.220080160506.json"
 
     # --- Configuración de ruta de archivos de salida: JSON generado y XLSX ---
-    output_path = os.path.join(downloads_path(), "output")
+    output_path = os.path.join(downloads_path(), "output_DAPF")
     os.makedirs(output_path, exist_ok=True)
 
     # --- Ejecución del flujo completo ---
-    transformer = XSLTProcessor(xslt_path).parse_xslt
-    validator = JSONSchemaValidator.load_schema(schema_path)
+    transformer = XSLTProcessor.parse_xslt(xslt_path)
+    validator = JSONFunctions.load_json(schema_path)
 
-    pipeline = ValidacionDAPMV2(xml_path, json_path, output_path, transformer)
+    pipeline = ValidacionAnuales(xml_path, json_path, output_path, transformer, validator)
     pipeline.validar()

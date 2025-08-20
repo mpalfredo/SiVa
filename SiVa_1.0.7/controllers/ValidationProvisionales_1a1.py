@@ -9,7 +9,6 @@ from modules.JSONSchemaValidator import JSONSchemaValidator
 from common.downloads_path import get_downloads_folder as downloads_path
 
 
-
 class ValidacionProvisionales:
     """
     Clase que orquesta todo el flujo:
@@ -97,7 +96,7 @@ class ValidacionProvisionales:
                                    generado=json_normalized,
                                    ruta_salida=salida_completa_xlsx)
 
-
+"""
 if __name__ == "__main__":
 
     # --- Configuración de rutas: Regímenes y esquemas ---
@@ -115,3 +114,4 @@ if __name__ == "__main__":
     # --- Ejecución del flujo completo ---
     pipeline = ValidacionProvisionales(xml_path, xslt_dir_path, json_path, schema_dir_path, xlsx_path)
     pipeline.validar()
+"""

@@ -2,7 +2,7 @@ import json
 from jsonschema import validate, ValidationError
 
 
-class JSONSchemaValidator:
+class JSONFunctions:
     """
     Clase encargada de instanciar el JSON Schema como objeto y validar un JSON contra el esquema.
 

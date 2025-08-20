@@ -87,7 +87,7 @@ class JSONsComparator:
         wb = Workbook()
         ws = wb.active
         ws.title = "Diferencias"
-        ws.append(["Ruta", "Valor Original", "Valor Generado"])
+        ws.append(["Ruta", "Valor JSON Original", "Valor JSON Generado"])
 
         diffs = 0
         for path in all_paths:

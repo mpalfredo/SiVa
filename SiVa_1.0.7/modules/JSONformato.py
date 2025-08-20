@@ -32,5 +32,5 @@ class JSONformato:
 
 if __name__ == "__main__":
 
-    json_dir_path = r"C:\Users\valeria.cano\Documents\ProcesoValidacionXML-JSON_VCS\SiVa_1.0.5\controllers\archivos\por_validar\MoralesV2\JSON"
+    json_dir_path = r"C:\Users\valeria.cano\Documents\ProcesoValidacionXML-JSON_VCS\SiVa_1.0.7\controllers\archivos\por_validar\FísicasV2_originales\JSON"
     JSONformato().pretty_format(json_dir_path)

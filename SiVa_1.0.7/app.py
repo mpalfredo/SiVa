@@ -1,6 +1,7 @@
 import os
 from flask import Flask, render_template, request, redirect, url_for
-from controllers.ValidationPipeline_padrones import ValidationPipelineFull
+from controllers.ValidationPadrones_prov import ValidationPipeline
+
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = 'uploads'
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024  # 16MB max size
@@ -29,10 +30,10 @@ def SiVa():
             os.makedirs(output_path, exist_ok=True)
 
             # --- Ejecución del flujo completo ---
-            pipeline = ValidationPipelineFull(xml_json_dir_path, xslt_dir_path, schema_dir_path, output_path)
+            pipeline = ValidationPipeline(xml_json_dir_path, xslt_dir_path, schema_dir_path, output_path)
             pipeline.run()
             # Termina proceso de conversion
-            resultado = "Validacion de declaraciones Provisionales terminada correctamente!!"
+            result = "Validacion de declaraciones Provisionales terminada correctamente!!"
         elif seleccion == 'opcion2':
             # Inicia conversion XML to Json
             # --- Configuración de rutas: Regímenes y esquemas ---
@@ -48,15 +49,14 @@ def SiVa():
             os.makedirs(output_path, exist_ok=True)
 
             # --- Ejecución del flujo completo ---
-            pipeline = ValidationPipelineFull(xml_json_dir_path, xslt_dir_path, schema_dir_path, output_path)
+            pipeline = ValidationPipeline(xml_json_dir_path, xslt_dir_path, schema_dir_path, output_path)
             pipeline.run()
             # Termina proceso de conversion
-            resultado = "Validacion de DAPMV2 terminada correctamente!!"
+            result = "Validacion de DAPMV2 terminada correctamente!!"
         else:
-            resultado = "Opción no válida"
+            result = "Opción no válida"
 
-
-        return render_template('index.html', resultado=resultado) # Muestra el resultado
+    return render_template('index.html', resultado=result) # Muestra el resultado
 
     return render_template('index.html')
 
