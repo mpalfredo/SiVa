@@ -24,32 +24,32 @@ Para el caso de **Declaraciones Anuales**:
 - Importa la paquetería necesaria:
 
 
-    from controllers.ValidationAnuales_1a1 import ValidacionAnualesV2
+    	from controllers.ValidationAnuales_1a1 import ValidacionAnualesV2
 
 - Configura las rutas de los archivos XSLT y del esquema JSON concernientes a la declaración.
 
 
-    xslt_path   = r"ruta/al/archivo/XSLT/archivo.xslt"
-    schema_path = r"ruta/al/archivo/JSONSchema/archivo.json"
+	    xslt_path   = r"ruta/al/archivo/XSLT/archivo.xslt"
+	    schema_path = r"ruta/al/archivo/JSONSchema/archivo.json"
 
 Sugerencia: Utiliza paths absolutos (globales) en caso de que los archivos no se encuentren dentro del mismo directorio desde donde corres el programa. 
 
 - Configura también las rutas de los archivos de interés (XML, JSON, salida):
 
 
-    # --- Configuración de rutas: XML y JSON ---
-    xml_path  = r"ruta/al/archivo/XML/declaracion_persona1.xml"
-    json_path = r"ruta/al/archivo/JSON/declaracion_persona1.json"
+    	# --- Configuración de rutas: XML y JSON ---
+    	xml_path  = r"ruta/al/archivo/XML/declaracion_persona1.xml"
+    	json_path = r"ruta/al/archivo/JSON/declaracion_persona1.json"
 
-    # --- Configuración de ruta de archivos de salida: JSON generado y XLSX ---
-    output_path = os.path.join(downloads_path(), "output") -> En este ejemplo: "Descargas/output"
-    os.makedirs(output_path, exist_ok=True)
+	    # --- Configuración de ruta de archivos de salida: JSON generado y XLSX ---
+	    output_path = os.path.join(downloads_path(), "output") -> En este ejemplo: "Descargas/output"
+	    os.makedirs(output_path, exist_ok=True)
 
 - Instancia la clase y manda a llamar el método 'validar':
 
 
-    pipeline = ValidacionAnualesV2(xml_path, json_path, output_path, XSLTProcessor.parse_xslt(xslt_path), JSONFunctions.load_json(schema_path))
-    pipeline.validar()
+	    pipeline = ValidacionAnualesV2(xml_path, json_path, output_path, XSLTProcessor.parse_xslt(xslt_path), JSONFunctions.load_json(schema_path))
+	    pipeline.validar()
 
 Los archivos resultantes (JSON generado a partir del XML y XLSX donde se desglosan diferencias) se adjuntan en el directorio de salida que especificaste.
 
@@ -59,30 +59,30 @@ Para el caso de **Declaraciones Provisionales**:
 - Importa la paquetería necesaria:
 
 
-    from controllers.ValidationProvisionales_1a1 import ValidacionProvisionales
+    	from controllers.ValidationProvisionales_1a1 import ValidacionProvisionales
 
 - Configura las rutas de los **directorios** donde se encuentran los archivos XSLT y JSON Schema. En este caso, el programa se encarga de identificar cuáles son los correspondientes a la declaración provisional: 
 
 
-    xslt_dir_path   = r"ruta/al/directorio/regimenes"
-    schema_dir_path = r"rita/al/directorio/esquemas"
+	    xslt_dir_path   = r"ruta/al/directorio/regimenes"
+	    schema_dir_path = r"rita/al/directorio/esquemas"
 
 - Configura también las rutas de los archivos de interés (XML, JSON, salida):
 
 
-    # --- Configuración de rutas: XML y JSON ---
-    xml_path  = r"ruta/al/archivo/XML/declaracion_persona2.xml"
-    json_path = r"ruta/al/archivo/JSON/declaracion_persona2.json"
-
-    # --- Configuración de ruta de archivos de salida: JSON generado y XLSX ---
-    output_path = os.path.join(downloads_path(), "output") -> En este ejemplo: "Descargas/output"
-    os.makedirs(output_path, exist_ok=True)
+	    # --- Configuración de rutas: XML y JSON ---
+	    xml_path  = r"ruta/al/archivo/XML/declaracion_persona2.xml"
+	    json_path = r"ruta/al/archivo/JSON/declaracion_persona2.json"
+	
+	    # --- Configuración de ruta de archivos de salida: JSON generado y XLSX ---
+	    output_path = os.path.join(downloads_path(), "output") -> En este ejemplo: "Descargas/output"
+	    os.makedirs(output_path, exist_ok=True)
 
 - Instancia la clase y manda a llamar el método 'validar':
 
 
-    pipeline = ValidacionProvisionales(xml_path, xslt_dir_path, json_path, schema_dir_path, xlsx_path)
-    pipeline.validar()
+	    pipeline = ValidacionProvisionales(xml_path, xslt_dir_path, json_path, schema_dir_path, xlsx_path)
+	    pipeline.validar()
 
 
 #### 2.2. Validación de procesos padronales
@@ -94,26 +94,26 @@ Para el caso de **Declaraciones Anuales**:
 - Importa la paquetería necesaria:
 
         
-        from controllers.ValidationPadrones_anuV2 import ValidationPadrones_anuV2:
+        	from controllers.ValidationPadrones_anuV2 import ValidationPadrones_anuV2:
 
 - Configura el tipo de persona de tu padrón de contribuyentes:
 
 
-    # --- Configuración de tipo de persona ---
-    tipo_persona = "F" -> "F" para personas físicas, "M" para personas morales
+	    # --- Configuración de tipo de persona ---
+	    tipo_persona = "F" -> "F" para personas físicas, "M" para personas morales
 
 - Configura la ruta al directorio que contiene subcarpetas para cada declaración y en cada una de ellas se encuentran las duplas XML-JSON (archivos de interés):
 
 
-    # --- Configuración de rutas: XML y JSON ---
-    xml_json_dir_path  = r"ruta/al/directorio/por_validar"
+	    # --- Configuración de rutas: XML y JSON ---
+	    xml_json_dir_path  = r"ruta/al/directorio/por_validar"
 
 - Configura también la ruta de salida (donde quieres que se carguen todos los archivos resultantes del proceso de validación):
 
 
-    # --- Configuración de ruta de archivos de salida: JSON generado y XLSX ---
-    output_path = os.path.join(downloads_path(), "output_padrones") -> En este ejemplo: "Descargas/output_padrones"
-    os.makedirs(output_path, exist_ok=True)
+	    # --- Configuración de ruta de archivos de salida: JSON generado y XLSX ---
+	    output_path = os.path.join(downloads_path(), "output_padrones") -> En este ejemplo: "Descargas/output_padrones"
+	    os.makedirs(output_path, exist_ok=True)
 
 - Instancia la clase y manda a llamar el método 'run':
 
@@ -128,28 +128,28 @@ Para el caso de **Declaraciones Provisionales**:
 - Configura las rutas de los **directorios** donde se encuentran los archivos XSLT y JSON Schema. En este caso, el programa se encarga de identificar cuáles son los correspondientes a cada declaración provisional: 
 
 
-    # --- Configuración de rutas: Regímenes y esquemas ---
-    xslt_dir_path   = r"ruta/al/directorio/regimenes"
-    schema_dir_path = r"rita/al/directorio/esquemas"
+	    # --- Configuración de rutas: Regímenes y esquemas ---
+	    xslt_dir_path   = r"ruta/al/directorio/regimenes"
+	    schema_dir_path = r"rita/al/directorio/esquemas"
 
 - Configura la ruta al directorio que contiene subcarpetas para cada declaración y en cada una de ellas se encuentran las duplas XML-JSON (archivos de interés):
 
 
-    # --- Configuración de rutas: XML y JSON ---
-    xml_json_dir_path  = r"ruta/al/directorio/por_validar"
+	    # --- Configuración de rutas: XML y JSON ---
+	    xml_json_dir_path  = r"ruta/al/directorio/por_validar"
 
 
 - Configura también la ruta de salida:
 
 
-    # --- Configuración de ruta de archivos de salida: JSON generado y XLSX ---
-    output_path = os.path.join(downloads_path(), "output_padrones_prov")
-    os.makedirs(output_path, exist_ok=True)
+	    # --- Configuración de ruta de archivos de salida: JSON generado y XLSX ---
+	    output_path = os.path.join(downloads_path(), "output_padrones_prov")
+	    os.makedirs(output_path, exist_ok=True)
 
 - Instancia la clase y manda a llamar el método 'run':
 
 
-    pipeline = ValidationPadrones_prov(xml_json_dir_path, output_path)
+    	pipeline = ValidationPadrones_prov(xml_json_dir_path, output_path)
 
 **Nota:** Observa que si no especificas como parámetros el 'xslt_dir_path' y el 'schema_dir_path' (en ese orden), entonces el programa toma las rutas asignadas por default.
 
