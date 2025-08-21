@@ -1,0 +1,381 @@
+{
+  "IdentiDecla": {
+    "rfcdeclarante": "AERO500826JA7",
+    "rolvigente": "1|9|44|300033|300155|300476|300505|",
+    "regvigente": "606|",
+    "oblvigente": "2|3|9|734|",
+    "verformu": "13",
+    "fechapresentacion": "2025-02-13T11:32:51",
+    "ejercicio": 2024,
+    "numerooperacion": 250900000046,
+    "iddeclaracion": "5C90F5FC-3F47-4DED-B8E0-CC80F7579491",
+    "metodoautenticacion": "cpn/uat/contrib/contrasena",
+    "bo_id": "850302575786633202930650020720",
+    "esquemajsondwh": "1.0.0.30"
+  },
+  "Contribuyente": {
+    "tipopersona": "F",
+    "apellidopaterno": "OLVERA",
+    "apellidomaterno": "LOPEZ",
+    "nombre": "ALBERTO",
+    "iddescon": "O-060",
+    "descdescon": "CHIAPAS 1",
+    "idactprep": "805",
+    "descactprep": "Alquiler de Oficinas y locales comerciales",
+    "identfed": "07",
+    "descentfed": "CHIAPAS",
+    "idmunic": "07-065",
+    "descmunic": "PALENQUE",
+    "codigopostal": "29960",
+    "reghistorico": "606|",
+    "oblhistorica": "588|589|"
+  },
+  "Declaracion": {
+    "idperiodo": "012",
+    "descperiodo": "Diciembre",
+    "idperiodic": "M",
+    "descperiodic": "1-Mensual",
+    "idtipodecla": "001",
+    "desctipodecla": "Normal",
+    "idtipocomplem": "0",
+    "fechavencimiento": "2025-01-23",
+    "totalpagar": 0,
+    "fechavencilc": "2025-01-23T06:00:00",
+    "mediopresenta": "Internet ",
+    "firma": "false",
+    "fechadecausacion": "2025-01-23T06:00:00"
+  },
+  "AdminDeclaracion": [
+    {
+      "idconceptopago": "0110",
+      "descconceptopago": "ISR personas físicas Arrendamiento de inmuebles",
+      "impoconceptopago": 0,
+      "Concepto": {
+        "Pago": {
+          "acargo": 0,
+          "totalcontribuciones": 0,
+          "tienescompensacionesporaplicar": 0,
+          "tienesestimulosporaplicar": 0,
+          "totalaplicaciones": 0,
+          "realizoult48pagoconcepto": 0,
+          "cantidadacargo": 0,
+          "optapagarparcialidades": 0,
+          "cantidadapagar": 0,
+          "tiposolicitud": 0,
+          "DetMontoPagadoLineaCapturaADR": [],
+          "totalmontoantadrs": 0,
+          "deseaagregarlineanoconciderada": 0
+        },
+        "Deducciones": {
+          "DetComprasYGastosDelPeriodo": {
+            "DetComprasYGastosFacturados": {
+              "DetComprasYGastosFacturadosDelMes": [
+                {
+                  "mes": "012",
+                  "numfacturascanceladas": 0,
+                  "numfacturasvigentes": 6,
+                  "subtotal": 294591571,
+                  "descuento": 5996347,
+                  "subtotaldescuento": 288595224,
+                  "mestipopago": "012",
+                  "numfactcanpago": 0,
+                  "numfactvigpago": 1,
+                  "imppagsinimp": 3569066,
+                  "totalnumfaccanceladas": 0,
+                  "totalnumfacvigentes": 1,
+                  "Totalingcobrsinimp": 3569066
+                }
+              ]
+            },
+            "DetDescBoniFacturadasMes": {
+              "mes": "012",
+              "numfacturascanceladas": 0,
+              "numfacturasvigentes": 6,
+              "subtotal": 602605132,
+              "descuento": 12080609,
+              "subtotaldescuento": 590524524,
+              "mes2": "012",
+              "numfacturascanceladas2": 0,
+              "numfacturasvigentes2": 1,
+              "subtotal2": 187723,
+              "descuento2": 0,
+              "subtotaldescuento2": 187723,
+              "descuentofacturastipoingreso": 12080609,
+              "totalnumerodefacturascan": 0,
+              "totalnumerodefacturasvig": 6,
+              "totalsubtotalcfdi": 602605132,
+              "totaldescuentocfdi": 12080609,
+              "totalsubtotaldescuentocfdi": 590524524,
+              "totalnumerofacturascan": 0,
+              "totalnumerofacturasvig": 1,
+              "totalsubtotal": 187723,
+              "totaldescuento": 0,
+              "totalsubtotaldescuento": 187723
+            },
+            "DetFacturasEgresosRecibidas": {
+              "mes": "012",
+              "numfacturascanceladas": 0,
+              "numfacturasvigentes": 1,
+              "subtotal": 97984,
+              "facurasegresosgastosmes": 97984,
+              "gastosperiodo": 304334638,
+              "gastosmesant": 1008386725
+            },
+            "DetComprasYGastosMeses": {
+              "DetComprasYGastosMesesAnt": [
+                {
+                  "mes": "003",
+                  "estatus": "ED01",
+                  "TotCompraGastAcumulaDeclaracionPresentadEjerciciAnterior": 1609584377,
+                  "FechaPresentacionPrellenado": "2025-02-05",
+                  "arrgastmesant": 1008386725,
+                  "deduccinversiones": 742836535
+                },
+                {
+                  "mes": "013",
+                  "estatus": "ED04",
+                  "TotCompraGastAcumulaDeclaracionPresentadEjerciciAnterior": 1609584377,
+                  "FechaPresentacionPrellenado": "2025-01-24",
+                  "arrgastmesant": 1008386725,
+                  "deduccinversiones": 742836535
+                },
+                {
+                  "mes": "014",
+                  "estatus": "ED01",
+                  "TotCompraGastAcumulaDeclaracionPresentadEjerciciAnterior": 1609584377,
+                  "FechaPresentacionPrellenado": "2025-01-28",
+                  "arrgastmesant": 1008386725,
+                  "deduccinversiones": 742836535
+                },
+                {
+                  "mes": "007",
+                  "estatus": "ED04",
+                  "TotCompraGastAcumulaDeclaracionPresentadEjerciciAnterior": 1609584377,
+                  "FechaPresentacionPrellenado": "2025-01-27",
+                  "arrgastmesant": 1008386725,
+                  "deduccinversiones": 742836535
+                },
+                {
+                  "mes": "008",
+                  "estatus": "ED04",
+                  "TotCompraGastAcumulaDeclaracionPresentadEjerciciAnterior": 1609584377,
+                  "FechaPresentacionPrellenado": "2025-01-29",
+                  "arrgastmesant": 1008386725,
+                  "deduccinversiones": 742836535
+                },
+                {
+                  "mes": "015",
+                  "estatus": "ED02",
+                  "TotCompraGastAcumulaDeclaracionPresentadEjerciciAnterior": 1609584377,
+                  "FechaPresentacionPrellenado": "2025-01-30",
+                  "arrgastmesant": 1008386725,
+                  "deduccinversiones": 742836535
+                }
+              ]
+            },
+            "DetInversionesPeriodo": {},
+            "DetEstimulos": {}
+          },
+          "DetGastosNomNoConsEnPrellenado": [
+            {}
+          ],
+          "tipodeduccionaplicaduranteejer": "ARRT1",
+          "gastosperiodo": 1312721363,
+          "DetDeduccionesInversiones": [
+            {
+              "mes": "003",
+              "estatus": "ED01",
+              "numerooperaciondecla": "250860000028",
+              "fechapresentaciondecla": "2025-02-05T06:00:00",
+              "deduccionnversiones": 0,
+              "deduccionnversionesmesant": 1725424,
+              "deduccionnversionesmes": 741111111,
+              "deduccionesinversionesperiodo": 742836535,
+              "deduccionopcionames": 213523415,
+              "deduccionopcionalperiodo": 1507178143,
+              "impuestopredialmes": 0,
+              "impuestopredialmesperiodo": 6926762
+            },
+            {
+              "mes": "013",
+              "estatus": "ED04",
+              "numerooperaciondecla": "250330000020",
+              "fechapresentaciondecla": "2025-01-24T06:00:00",
+              "deduccionnversiones": 965444,
+              "deduccionnversionesmesant": 1725424,
+              "deduccionnversionesmes": 741111111,
+              "deduccionesinversionesperiodo": 742836535,
+              "deduccionopcionames": 213523415,
+              "deduccionopcionalperiodo": 1507178143,
+              "impuestopredialmes": 0,
+              "impuestopredialmesperiodo": 6926762
+            },
+            {
+              "mes": "014",
+              "estatus": "ED01",
+              "numerooperaciondecla": "250450000005",
+              "fechapresentaciondecla": "2025-01-28T06:00:00",
+              "deduccionnversiones": 12450,
+              "deduccionnversionesmesant": 1725424,
+              "deduccionnversionesmes": 741111111,
+              "deduccionesinversionesperiodo": 742836535,
+              "deduccionopcionames": 213523415,
+              "deduccionopcionalperiodo": 1507178143,
+              "impuestopredialmes": 0,
+              "impuestopredialmesperiodo": 6926762
+            },
+            {
+              "mes": "007",
+              "estatus": "ED04",
+              "numerooperaciondecla": "250240000024",
+              "fechapresentaciondecla": "2025-01-27T06:00:00",
+              "deduccionnversiones": 652330,
+              "deduccionnversionesmesant": 1725424,
+              "deduccionnversionesmes": 741111111,
+              "deduccionesinversionesperiodo": 742836535,
+              "deduccionopcionames": 213523415,
+              "deduccionopcionalperiodo": 1507178143,
+              "impuestopredialmes": 0,
+              "impuestopredialmesperiodo": 6926762
+            },
+            {
+              "mes": "008",
+              "estatus": "ED04",
+              "numerooperaciondecla": "250030000004",
+              "fechapresentaciondecla": "2025-01-29T06:00:00",
+              "deduccionnversiones": 95200,
+              "deduccionnversionesmesant": 1725424,
+              "deduccionnversionesmes": 741111111,
+              "deduccionesinversionesperiodo": 742836535,
+              "deduccionopcionames": 213523415,
+              "deduccionopcionalperiodo": 1507178143,
+              "impuestopredialmes": 0,
+              "impuestopredialmesperiodo": 6926762
+            },
+            {
+              "mes": "015",
+              "estatus": "ED02",
+              "numerooperaciondecla": "250740000008",
+              "fechapresentaciondecla": "2025-01-30T06:00:00",
+              "deduccionnversiones": 500000,
+              "deduccionnversionesmesant": 1725424,
+              "deduccionnversionesmes": 741111111,
+              "deduccionesinversionesperiodo": 742836535,
+              "deduccionopcionames": 213523415,
+              "deduccionopcionalperiodo": 1507178143,
+              "impuestopredialmes": 0,
+              "impuestopredialmesperiodo": 6926762
+            }
+          ],
+          "deduccionopcional": 1507178143,
+          "impuestopredial": 6926762,
+          "tieneestimuloaplicar": 2,
+          "totalporaplicarperiodo": 0,
+          "totaldeduccionesautorizadas2": 2062484660
+        },
+        "IngresosRCPF": {
+          "IngresosCobradosMes": 610066899,
+          "IngresosADisminuir": 0,
+          "DetIngresosFacturados": {
+            "DetIngresosFacturadosMes": []
+          },
+          "DetIngresosCobradosMes": [
+            {
+              "mespue": "012",
+              "numfaccanpue": 0,
+              "numfacvigpue": 6,
+              "subtotalpue": 602605132,
+              "descuentopue": 12080609,
+              "subdespue": 590524524,
+              "mestippag": "012",
+              "numfaccantippag": 0,
+              "numfacvigtippag": 1,
+              "ingcobsinimp": 7461767,
+              "subtotfacemitiping": 602605132,
+              "ingcobsinimps": 7461767,
+              "ingcobmes": 610066899
+            }
+          ],
+          "DetTotalIngresosPeriodo": [],
+          "DetIngresosNominales": {},
+          "Tusingfueobtcoposoccon": 2,
+          "Tieingadisdelmes": 2,
+          "Tieingadicdelmes": 2,
+          "ingdelmes": 610066899,
+          "ingdemesant": 3696917795,
+          "DetIngresosExentos": {
+            "DetIngresosExentosMes": []
+          },
+          "DetTotalesIngresosCobradosMes": {
+            "totalnumfaccanceladasarr": 0,
+            "totalnumfacvigentesarr": 6,
+            "totalsubtotal": 602605132,
+            "totaldescuento": 12080609,
+            "totalsubtotaldescuento": 590524524,
+            "totalnumfactcan": 0,
+            "totalnumfactvig": 1,
+            "Totalingcobrsinimparr": 7461767
+          },
+          "ingadidelmes": 0,
+          "totalingadimesarren": 5215212231,
+          "DetIngresosMesesAnt": {
+            "DetIngresosMesesAnteriores": [],
+            "optasporelcalculoacumulado": 1
+          },
+          "DetIngresosMes": [
+            {}
+          ],
+          "DetTotalIngresosEfectCobradosPeriodo": []
+        },
+        "DatosAdicionalesRCPF": {
+          "DetDatosAdicionalesRCPF": []
+        },
+        "DeterminacionRCPF": {
+          "DetIngresosCobradosYAmparados": {
+            "DetIngresosCobradosYAmparadosTot": []
+          },
+          "DetISRRetenidoPF": {
+            "DetISRRetenidoTot": [
+              {
+                "isretenidomesant": 8048266,
+                "isrretmes": 0
+              }
+            ],
+            "totalisrretenido": 8048266
+          },
+          "pagoprovefecconant": 422182964,
+          "DetPagosProvisionalesAnt": {
+            "DetPagosProvisionalesAnterioridad": []
+          },
+          "DetEstimulosISRCausado": {
+            "Pagoprovefectuadosant": 422182964,
+            "detestimulosisrcausado": [],
+            "totaldelsaldopendiaplicarejercianterior": 0,
+            "totaldelestimuloautorizadoenelperiodoquesedeclara": 0,
+            "totaldelestimulodisponibleporaplicarenelperiodo": 0,
+            "totalporaplicarenelperiodo": 0
+          },
+          "DetParticipacionesTrabajadores": {
+            "ptuacumuladaenperiodos": []
+          },
+          "Impuestoperiodo": 260561333,
+          "DetEstimuloISRRegionFronteriza": {},
+          "DetPerdidasFiscalesEjerciciosAnterioresPendientesAplicar": {},
+          "totalestimulosalimpuestocausado": 580366353,
+          "impuestoacargomenosimpretenido": 0,
+          "DetPagosProvRC": [],
+          "DetDeduccionInmediataInversionesPF": [],
+          "totaldeduccionesaut": 2062484660,
+          "tienesdeduccionessuperaintgre": 1,
+          "totaldeduccionesuperi": 1500000000,
+          "basegravable2": 744500034,
+          "impuestocausado2": 260561333,
+          "tienesestimulosporaplicar": 2,
+          "DetPagosProvisionalesEfectuadosPeriodosAnteriores": {
+            "DetPagosProvEfecPerAntISRPF": []
+          }
+        }
+      }
+    }
+  ]
+}

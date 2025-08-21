@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>SVCF</title>
+</head>
+<body>
+    <div style="text-align: center;">
+        <h1>ACSI >> Declaraciones y Pagos >> Reformas Fiscales</h1><br>
+        <h2>SIVA >> Sistema de Validaciones</h2><br>
+        {% if message %}
+            <p>{{ message }}</p>
+        {% endif %}
+        <form method="post" enctype="multipart/form-data">
+
+            <label for="tipoDecla">Selecciona el tipo de declaracion a validar:</label><br><br>
+            <select id="tipoDecla" name="tipoDecla">
+              <option value="opcion0">             </option>
+              <option value="opcion1">Provisionales</option>
+              <option value="opcion2">DA Morales V2</option>
+            </select><br><br><br><br>
+
+            <button type="submit">Validar Diferencias</button>
+
+
+        </form>
+    {% if filepath %}
+        <p>Archivo guardado en: {{ filepath }}</p>
+    {% endif %}
+
+    </div>
+
+</body>
+</html>
