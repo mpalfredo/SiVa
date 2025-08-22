@@ -1,0 +1,540 @@
+{
+    "IdentiDecla": {
+        "rfcdeclarante": "MORJ520724SL0",
+        "rolvigente": "1|9|44|300155|300476|300505|",
+        "regvigente": "612|",
+        "oblvigente": "3|9|30|33|203|579|",
+        "verformu": "13",
+        "fechapresentacion": "2025-01-31T15:07:15",
+        "ejercicio": 2024,
+        "numerooperacion": 250710000002,
+        "iddeclaracion": "E1E58D84-FAF1-46A1-9B3B-EBE9A100E761",
+        "metodoautenticacion": "cpn/uat/contrib/contrasena",
+        "bo_id": "976173531464373632151294182288",
+        "esquemajsondwh": "1.0.0.29"
+    },
+    "Contribuyente": {
+        "tipopersona": "F",
+        "apellidopaterno": "DOMINGUEZ",
+        "apellidomaterno": "MACIN",
+        "nombre": "LUZ MARIA",
+        "iddescon": "O-055",
+        "descdescon": "BAJA CALIFORNIA 2",
+        "idactprep": "540",
+        "descactprep": "Comercio al por mayor de cemento tabique y grava",
+        "identfed": "02",
+        "descentfed": "BAJA CALIFORNIA",
+        "idmunic": "02-004",
+        "descmunic": "TIJUANA",
+        "codigopostal": "22105",
+        "reghistorico": "612|626|",
+        "oblhistorica": "11|16|588|589|"
+    },
+    "Declaracion": {
+        "idperiodo": "005",
+        "descperiodo": "Mayo",
+        "idperiodic": "M",
+        "descperiodic": "1-Mensual",
+        "idtipodecla": "001",
+        "desctipodecla": "Normal",
+        "idtipocomplem": "0",
+        "fechavencimiento": "2024-06-19",
+        "totalpagar": 137627403,
+        "lineacaptura": "04250002590045035253",
+        "fechavencilc": "2025-02-09T00:00:00",
+        "mediopresenta": "Internet ",
+        "firma": "false",
+        "fechadecausacion": "2024-06-19T06:00:00"
+    },
+    "AdminDeclaracion": [
+        {
+            "idconceptopago": "0161",
+            "descconceptopago": "ISR Personas físicas Actividad empresarial y profesional",
+            "impoconceptopago": 137627403,
+            "Concepto": {
+                "Pago": {
+                    "acargo": 121390237,
+                    "parteactualizada": 3496039,
+                    "recargos": 12850798,
+                    "totalcontribuciones": 137737074,
+                    "compensaciones": 109671,
+                    "tienescompensacionesporaplicar": 1,
+                    "tienesestimulosporaplicar": 2,
+                    "totalaplicaciones": 109671,
+                    "realizoult48pagoconcepto": 0,
+                    "cantidadacargo": 137627403,
+                    "optapagarparcialidades": 0,
+                    "cantidadapagar": 137627403,
+                    "tiposolicitud": 0,
+                    "DetMontoPagadoLineaCapturaADR": [],
+                    "totalmontoantadrs": 0,
+                    "deseaagregarlineanoconciderada": 0
+                },
+                "Compensaciones": [
+                    {
+                        "tipocompensacion": "SAF",
+                        "desccompensacion": "Saldo a favor",
+                        "periodicidadComp": "Y",
+                        "periodocomp": "035",
+                        "ejerciciocomp": 2023,
+                        "conceptodelacomp": "0119",
+                        "saldoaaplicar": 109671,
+                        "tipodeclaracioncomp": "001",
+                        "numerooperacioncomp": 819191119191,
+                        "montosaldofavororig": 1800000,
+                        "remanentehistantesaplica": 109671,
+                        "fechapresentodeclasaldofavor": "2024-04-30T06:00:00.000",
+                        "remanenteactualizadoantesaplica": 109671,
+                        "numeroconsecinteraccion": 1,
+                        "cveconceptoaplicocompensa": "0161",
+                        "total": 109671
+                    }
+                ],
+                "Estimulos": [
+                    {
+                        "numconsecutivoiteracion": 1,
+                        "tipodeestimulo": 84,
+                        "descestimulo": "Producción cinematográfica",
+                        "estimuloacreditable": 0,
+                        "concepto": "Producción cinematográfica",
+                        "importeacreditable": 9001
+                    },
+                    {
+                        "numconsecutivoiteracion": 2,
+                        "tipodeestimulo": 103,
+                        "descestimulo": "Estímulo a proyectos de inversión en las artes",
+                        "estimuloacreditable": 0,
+                        "concepto": "Estímulo a proyectos de inversión en las artes",
+                        "importeacreditable": 59010
+                    }
+                ],
+                "Deducciones": {
+                    "ComprasYGastosPeriodo": 397661865,
+                    "DeduccionesInversionesPeriodo": 798883,
+                    "EstimulosDiminuir": 8010100,
+                    "TotalDeduccionesAutorizadas": 523913530,
+                    "Gastosnominaperiodonoconsideprellenado": 98337790,
+                    "DetComprasYGastosDelPeriodo": {
+                        "comprasygastosfacturados": 175027882,
+                        "devolucionesdtosbonificaciones": 13333587,
+                        "comprasgastosnodeduciblesmes": 1097811,
+                        "comprasgastosnoprellenado": 290678,
+                        "comprasygastosmes": 187554336,
+                        "factegresoscomprasygastosmes": 34981,
+                        "comprasygastosdeduciblesmes": 187519355,
+                        "comprasygastosmesesantpagadas": 210142510,
+                        "comprasygastosperiodo": 397661865,
+                        "DetComprasYGastosFacturados": {
+                            "comprasygastosmes": 175027882,
+                            "DetComprasYGastosFacturadosDelMes": [
+                                {
+                                    "mes": "005",
+                                    "numfacturascanceladas": 0,
+                                    "numfacturasvigentes": 6,
+                                    "subtotal": 176795376,
+                                    "descuento": 3764915,
+                                    "subtotaldescuento": 173030462,
+                                    "mestipopago": "005",
+                                    "numfactcanpago": 0,
+                                    "numfactvigpago": 1,
+                                    "numfactingcobsinimppago": 1997420,
+                                    "subtotdesccfdiing": 173030462,
+                                    "importepagadosinimpuesto": 1997420
+                                }
+                            ]
+                        },
+                        "DetDescBoniFacturadasMes": {
+                            "mes": "005",
+                            "numfacturascanceladas": 0,
+                            "numfacturasvigentes": 6,
+                            "subtotal": 650662392,
+                            "descuento": 13125317,
+                            "subtotaldescuento": 637537075,
+                            "mes2": "005",
+                            "numfacturascanceladas2": 0,
+                            "numfacturasvigentes2": 1,
+                            "subtotal2": 208270,
+                            "descuento2": 0,
+                            "subtotaldescuento2": 208270,
+                            "descuentofacturastipoingreso": 13125317,
+                            "subtotaldtofacturasegreso": 208270,
+                            "devolucionesdtosbonificacionesmes": 13333587
+                        },
+                        "DetFacturasEgresosRecibidas": {
+                            "mes": "005",
+                            "numfacturascanceladas": 0,
+                            "numfacturasvigentes": 1,
+                            "subtotal": 70210,
+                            "descuento": 0,
+                            "subtotaldescuento": 70210,
+                            "factsegresoscomprasygastosmes": 70210
+                        },
+                        "DetComprasYGastosMeses": {
+                            "DetComprasYGastosMesesAnt": [
+                                {
+                                    "mes": "001",
+                                    "estatus": "ED03",
+                                    "comprasygastosmesesantpagadas": 210142510
+                                },
+                                {
+                                    "mes": "002",
+                                    "estatus": "ED03",
+                                    "comprasygastosmesesantpagadas": 210142510
+                                },
+                                {
+                                    "mes": "003",
+                                    "estatus": "ED03",
+                                    "comprasygastosmesesantpagadas": 210142510
+                                },
+                                {
+                                    "mes": "004",
+                                    "comprasygastos": 210142510,
+                                    "estatus": "ED01",
+                                    "comprasygastosmesesantpagadas": 210142510,
+                                    "NumeroOperacionPrellenado": 250240000019,
+                                    "FechaPresentacionPrellenado": "2025-01-20"
+                                }
+                            ]
+                        },
+                        "DetInversionesPeriodo": {
+                            "inversionesmesesantpagadas": 609872,
+                            "deduccioninversionesmes": 189011,
+                            "deduccionesinversionesperiodo": 798883,
+                            "DetInversionesPeriodos": [
+                                {
+                                    "mes": "001",
+                                    "estatus": "ED03"
+                                },
+                                {
+                                    "mes": "002",
+                                    "estatus": "ED03"
+                                },
+                                {
+                                    "mes": "003",
+                                    "estatus": "ED03"
+                                },
+                                {
+                                    "mes": "004",
+                                    "inversiones": 609872,
+                                    "estatus": "ED01"
+                                }
+                            ]
+                        },
+                        "DetEstimulos": {
+                            "totalestimuloenperiodo": 8010100109,
+                            "totalaplicarenperiodo": 8010100,
+                            "DetEstimulosDisminuir": [
+                                {
+                                    "tipoestimulo": "EDA8",
+                                    "estimuloautorizadoenperiodo": 8010100109,
+                                    "poraplicarenperiodo": 8010100
+                                }
+                            ]
+                        }
+                    },
+                    "DetGastosNomNoConsEnPrellenado": [
+                        {
+                            "mes": "001",
+                            "estatus": "ED03",
+                            "gastonominamesantedeclapagadas": 87546789,
+                            "gastosnominames": 10791001,
+                            "gastosnominaperiodo": 98337790
+                        },
+                        {
+                            "mes": "002",
+                            "estatus": "ED03",
+                            "gastonominamesantedeclapagadas": 87546789,
+                            "gastosnominames": 10791001,
+                            "gastosnominaperiodo": 98337790
+                        },
+                        {
+                            "mes": "003",
+                            "estatus": "ED03",
+                            "gastonominamesantedeclapagadas": 87546789,
+                            "gastosnominames": 10791001,
+                            "gastosnominaperiodo": 98337790
+                        },
+                        {
+                            "mes": "004",
+                            "gastonomina": 87546789,
+                            "estatus": "ED01",
+                            "gastonominamesantedeclapagadas": 87546789,
+                            "gastosnominames": 10791001,
+                            "gastosnominaperiodo": 98337790,
+                            "NumeroOperacionPrellenado": 250240000019
+                        }
+                    ],
+                    "deduinminver": 19104892,
+                    "tienesfaciliadmestiaplicar": 1,
+                    "DetDeduccionesInversiones": []
+                },
+                "DeterminacionRCPF": {
+                    "BaseGravable": 484904900,
+                    "ISRRetenido": 35999872,
+                    "ImpuestoCargo": 120222343,
+                    "DetIngresosCobradosYAmparados": {
+                        "DetIngresosCobradosYAmparadosTot": []
+                    },
+                    "DetISRRetenidoPF": {
+                        "DetISRRetenidoTot": [
+                            {
+                                "isretenidomesant": 35098761,
+                                "isrretmes": 901111
+                            }
+                        ],
+                        "totalisrretenido": 35999872
+                    },
+                    "pagoprovefecconant": 2275691,
+                    "DetPagosProvisionalesAnt": {
+                        "DetPagosProvisionalesAnterioridad": [
+                            {
+                                "mes": "001",
+                                "estatus": "ED03"
+                            },
+                            {
+                                "mes": "002",
+                                "estatus": "ED03"
+                            },
+                            {
+                                "mes": "003",
+                                "estatus": "ED03"
+                            },
+                            {
+                                "mes": "004",
+                                "acargo": 2370702,
+                                "parteactualizada": 63535,
+                                "recargos": 286266,
+                                "totalcontribuciones": 2720503,
+                                "totalaplicaciones": 0,
+                                "realizoenultimas48horaspago": 2,
+                                "cantidadcargo": 2720503,
+                                "impuestocargo": 2275691,
+                                "estatus": "ED01",
+                                "NumeroOperacionPrellenado": 250240000019,
+                                "FechaPresentacionPrellenado": "2025-01-20"
+                            }
+                        ],
+                        "pagosprovefectconantsolopagadas": 2275691
+                    },
+                    "DetEstimulosISRCausado": {
+                        "detestimulosisrcausado": [
+                            {
+                                "tipoestimulo": "84",
+                                "saldopendienteejerciciosant1": 180111,
+                                "estimuloautorizadoenperiodo1": 9061191,
+                                "estimulodisponibleperiodo": 9241302,
+                                "poraplicarenperiodo": 9241302
+                            },
+                            {
+                                "tipoestimulo": "103",
+                                "saldopendienteejerciciosant1": 0,
+                                "estimuloautorizadoenperiodo1": 1909111,
+                                "estimulodisponibleperiodo": 1909111,
+                                "poraplicarenperiodo": 1909111
+                            }
+                        ],
+                        "montlimiestimaaplicar": 169648319,
+                        "totaldelsaldopendiaplicarejercianterior": 180111,
+                        "totaldelestimuloautorizadoenelperiodoquesedeclara": 10970302,
+                        "totaldelestimulodisponibleporaplicarenelperiodo": 11150413,
+                        "totalporaplicarenelperiodo": 11150413
+                    },
+                    "DetParticipacionesTrabajadores": {
+                        "montolimiteptu": 484982911,
+                        "ptupagadomesant": 0,
+                        "ptupagadomes": 0,
+                        "ptuacumuladaaaplicarenelperiodo": 0,
+                        "ptuacumuladaenperiodos": [
+                            {
+                                "mes": "001",
+                                "estatus": "ED03"
+                            },
+                            {
+                                "mes": "002",
+                                "estatus": "ED03"
+                            },
+                            {
+                                "mes": "003",
+                                "estatus": "ED03"
+                            },
+                            {
+                                "mes": "004",
+                                "ptupagada": 0,
+                                "estatus": "ED01",
+                                "NumeroOperacionPrellenado": 250240000019,
+                                "FechaPresentacionPrellenado": "2025-01-20"
+                            }
+                        ]
+                    },
+                    "Totingdelper": 1008896441,
+                    "totdeduautorizadas": 523913530,
+                    "participaciontrabajadoresutilidades": 0,
+                    "perdidafiscalesejercanteraplicanenelperio": 78011,
+                    "totalptudisminuir": 0,
+                    "Impuestocausado": 169648319,
+                    "tieneestimuloaplicar": "1",
+                    "estimuloimpcausado": 11150413,
+                    "Impuestoperiodo": 158497906,
+                    "Pagoprovefectuadorgsc": 0,
+                    "montocausadotasa16": 8010100,
+                    "impuestocausadotasa16": 1281616,
+                    "estimuloacreditable": 68011,
+                    "pagoprovperiodoant": 45711,
+                    "impacargoestimacreditablemenosprov": 1167894,
+                    "DetEstimuloISRRegionFronteriza": {},
+                    "DetPerdidasFiscalesEjerciciosAnterioresPendientesAplicar": {
+                        "MontoLimPerdidaAplica": 484982911,
+                        "PerdidaEjerAnteAplica": 78011,
+                        "PerdidaActualAplicaPeriodo": 78011
+                    },
+                    "DetPagosProvRC": [
+                        {
+                            "mes": "001",
+                            "numerooperacionsim": 81991919911111,
+                            "Montopagado": 0,
+                            "Totalmontopagadoactemp": 0
+                        }
+                    ],
+                    "DetDeduccionInmediataInversionesPF": [
+                        {
+                            "Mes": "001",
+                            "Estatus": "ED03",
+                            "DedInmInvMesAntDeclaPagadas": 10036781,
+                            "DeduInmInveMes": 9068111,
+                            "DedInmInverPeriodo": 19104892,
+                            "ClaveEntidadorigen": "SAT_1100132",
+                            "DesEntidadorigen": "Detalle de Deducción inmediata de inversiones"
+                        },
+                        {
+                            "Mes": "002",
+                            "Estatus": "ED03",
+                            "DedInmInvMesAntDeclaPagadas": 10036781,
+                            "DeduInmInveMes": 9068111,
+                            "DedInmInverPeriodo": 19104892,
+                            "ClaveEntidadorigen": "SAT_1100132",
+                            "DesEntidadorigen": "Detalle de Deducción inmediata de inversiones"
+                        },
+                        {
+                            "Mes": "003",
+                            "Estatus": "ED03",
+                            "DedInmInvMesAntDeclaPagadas": 10036781,
+                            "DeduInmInveMes": 9068111,
+                            "DedInmInverPeriodo": 19104892,
+                            "ClaveEntidadorigen": "SAT_1100132",
+                            "DesEntidadorigen": "Detalle de Deducción inmediata de inversiones"
+                        },
+                        {
+                            "Mes": "004",
+                            "Inversiones": 10036781,
+                            "Estatus": "ED01",
+                            "DedInmInvMesAntDeclaPagadas": 10036781,
+                            "DeduInmInveMes": 9068111,
+                            "DedInmInverPeriodo": 19104892,
+                            "NumeroOperacionPrellenado": 250240000019,
+                            "FechaPresentacionPrellenado": "2025-01-20",
+                            "ClaveEntidadorigen": "SAT_1100132",
+                            "DesEntidadorigen": "Detalle de Deducción inmediata de inversiones"
+                        }
+                    ],
+                    "totalivaacreditable": 1,
+                    "Totingdelper2": 1008896441,
+                    "DetPagosProvisionalesEfectuadosPeriodosAnteriores": {
+                        "DetPagosProvEfecPerAntISRPF": []
+                    }
+                },
+                "IngresosRCPF": {
+                    "IngresosCobradosMes": 658648584,
+                    "IngresosADisminuir": 81225474,
+                    "IngresosAdicionales": 89604,
+                    "DetIngresosFacturados": {
+                        "DetIngresosFacturadosMes": []
+                    },
+                    "DetIngresosDisminuir": [
+                        {
+                            "concepto": "IAD03",
+                            "importe": 74510913,
+                            "ingresosdisminuir": 81225474
+                        },
+                        {
+                            "concepto": "IAD04",
+                            "importe": 6714561,
+                            "ingresosdisminuir": 81225474
+                        }
+                    ],
+                    "DetIngresosAdicionales": [
+                        {
+                            "concepto": "IA03",
+                            "importe": 89604,
+                            "ingresosadicionales": 89604
+                        }
+                    ],
+                    "DetIngresosCobradosMes": [
+                        {
+                            "mespue": "005",
+                            "numfaccanpue": 0,
+                            "numfacvigpue": 6,
+                            "subtotalpue": 650662392,
+                            "descuentopue": 13125317,
+                            "subdespue": 637537075,
+                            "mestippag": "005",
+                            "numfaccantippag": 0,
+                            "numfacvigtippag": 1,
+                            "ingcobsinimp": 7986192,
+                            "subtotfacemitiping": 650662392,
+                            "ingcobsinimps": 7986192,
+                            "ingcobmes": 658648584
+                        }
+                    ],
+                    "DetTotalIngresosPeriodo": [
+                        {}
+                    ],
+                    "DetIngresosNominales": {},
+                    "Tusingfueobtcoposoccon": 2,
+                    "Tieingadisdelmes": 1,
+                    "Tieingadicdelmes": 1,
+                    "ingdelmes": 577512714,
+                    "ingdemesant": 431383727,
+                    "DetIngresosExentos": {
+                        "ingexemesant": 0,
+                        "DetIngresosExentosMes": [
+                            {}
+                        ]
+                    },
+                    "DetTotalesIngresosCobradosMes": {},
+                    "DetIngresosMesesAnt": {
+                        "ingmesesantsolodeclapagadas": 431383727,
+                        "DetIngresosMesesAnteriores": [
+                            {
+                                "mes": "001",
+                                "estatus": "ED03"
+                            },
+                            {
+                                "mes": "002",
+                                "estatus": "ED03"
+                            },
+                            {
+                                "mes": "003",
+                                "estatus": "ED03"
+                            },
+                            {
+                                "mes": "004",
+                                "ingresos": 431383727,
+                                "estatus": "ED01",
+                                "numerooperacionprellenado": 250240000019,
+                                "fechapresentacionprellenado": "2025-01-20"
+                            }
+                        ]
+                    },
+                    "DetIngresosMes": [
+                        {}
+                    ],
+                    "DetTotalIngresosEfectCobradosPeriodo": [],
+                    "totalingresosperiodo": 1008896441
+                },
+                "DatosAdicionalesRCPF": {
+                    "DetDatosAdicionalesRCPF": []
+                }
+            }
+        }
+    ]
+}

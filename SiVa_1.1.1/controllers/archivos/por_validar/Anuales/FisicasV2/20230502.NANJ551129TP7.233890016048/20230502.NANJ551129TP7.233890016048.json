@@ -1,0 +1,941 @@
+{
+    "sat_declaracion_contribuyente": {
+        "D_DEC_CURP0001": "NANJ551129HDFCKS00",
+        "D_DEC_EPSROP01": "0",
+        "D_DEC_NOMBRE01": "JESUS ROBERTO",
+        "D_DEC_APPAETL1": "NACIF",
+        "D_DEC_AMPAETL1": "NAKAGAWA",
+        "B_DEC_TPIEPRO1": "F",
+        "D_DEC_RFCEEOG1": "NANJ551129TP7",
+        "D_DEC_BO_ID001": "1150250279526098915204549173083",
+        "D_DEC_ALSC0001": "O-039",
+        "D_DEC_IDDECLA1": "6C112AC8-3277-46EA-B893-EC7686AB1E46",
+        "N_DEC_VREERFS1": 10,
+        "D_DEC_CTCLIOA1": "0",
+        "D_DEC_CPLEARV1": "035",
+        "D_DEC_DTDEIES1": "Normal",
+        "D_DEC_DPEESRC1": "8-Del Ejercicio",
+        "D_DEC_DPEESRC2": "Del Ejercicio",
+        "D_DEC_CCDLLEA1": "002",
+        "F_DEC_FVDEEEC1": "2023-05-02T06:00:00",
+        "F_DEC_FCEACUH1": "2023-05-02T06:00:00",
+        "N_DEC_EJERCIC1": 2022,
+        "D_DEC_CTDLIEA1": "001",
+        "D_DEC_CPLEARV2": "Y",
+        "B_DEC_MLDELED1": "E",
+        "D_DEC_IDPDEAC1": "00000000-0000-0000-0000-000000000000",
+        "D_DEC_IDRDEAC1": "00000000-0000-0000-0000-000000000000",
+        "D_DEC_MPDERED1": "Internet",
+        "F_DEC_FCDEOEC1": "2023-05-02T00:00:00",
+        "D_DEC_CUILSNA1": "NANJ551129TP7",
+        "D_DEC_CUCLSOA1": "NANJ551129TP7",
+        "D_DEC_CRPLERA1": "44",
+        "D_DEC_DRPEERS1": "Régimen Simplificado de Confianza",
+        "N_DEC_FDIERCM1": 0,
+        "D_DEC_MAEUDTI1": "sat/ciec/contribuyentes/uri",
+        "D_DEC_EFNETDI1": "20",
+        "F_DEC_FPDEREC1": "2023-05-02T19:57:05",
+        "D_DEC_SDEILGL1": "jq3H9NXlEW+3KeZczd94+n/yflZ+3pvgOnaK3P+xMnlt8X9M+4j667dfrTvMjaPpyaNPYeWtw5SlZdzXA4N/t/GAk6RgHNqWZcem5EPvGaMHdW25+aTOASdFz9KI7zmzyhQMgbAnBMF5MymdlFq2QmQZ3QkjAM8Lpic1KrFetqaX8YxO9Km+jWaJYp6HfG7aSU4oTTLS2r50Qctzoofks3lEa6EoZW7YmXdbIRIAgMOkXOj+sXOiLpNL46ZJt8WKaVk3IlqEpvlns1KEjHt+h6gjGlY11hpq5KCsDM73ZnnPxCl2tymx8kUiCvC+Ng+jzoAM8YIzhfh6MncFto4KEw==",
+        "D_DEC_LOPIEBA1": 2,
+        "N_DEC_NOUPMEE1": "233890016048",
+        "I_DEC_TPOATGA1": "0"
+    },
+    "af2_sat_anexos_didcemi_1": {
+        "D_DEC_ADDENDA2": "Addenda",
+        "D_DEC_CMPLERA1": "WEB",
+        "D_DEC_IDAREAG1": "1",
+        "D_DEC_DAGERES1": "A",
+        "N_DEC_CALCULO1": 0,
+        "N_DEC_PRECARG1": 1,
+        "N_DEC_FLUIENR1": 0,
+        "D_DEC_IDAPLIC1": "1",
+        "D_DEC_NAOPMLB1": "ANUAL INTERNET",
+        "D_DEC_EMSOVI01": "0",
+        "D_DEC_CPOONPO1": "1|Persona|R|1972-01-03|2999-12-31;9|Persona Fisica|R|1972-01-03|2999-12-31;44|Contacto Gestión (PART)|R|1972-01-03|2999-12-31;300155|CONTRIBUYENTE PF|SR|1972-01-03|2999-12-31;300250|PATRON PF|R|2002-03-31|2999-12-31;300429|EMPRESARIAL PF|R|2018-01-18|2099-12-31;300482|ACTIVIDAD MEDIA PF|R|2010-01-01|2999-12-31;300688|SIMPLIFICADO DE CONFIANZA PF|R|",
+        "N_DEC_TPSIRAE1": 1,
+        "N_DEC_TPCIRFE1": 0,
+        "N_DEC_TPIIRNE1": 0,
+        "N_DEC_TPPIRRE1": 0,
+        "D_DEC_CEOLRER1": "cplovar@gmail.com",
+        "N_DEC_TPCIRLE1": 0,
+        "D_DEC_TFIOTRU1": "PERSONAS FÍSICAS",
+        "N_DEC_DDTCACE1": 0
+    },
+    "af2_sat_anexos_didcemi_2": {
+        "I_DEC_SPTCEAO1": "0",
+        "N_DEC_URUHPCS1": 0,
+        "I_DEC_SPTAEAO1": "0",
+        "I_DEC_SPCCEAA1": "0",
+        "N_DEC_OPPPAAT1": 0,
+        "I_DEC_SPCPEAA1": "0",
+        "N_DEC_NPUAMRE1": 0,
+        "I_DEC_SPFEAAC1": "175",
+        "N_DEC_TODIDIT1B": 2,
+        "N_DEC_OIPTUEJ1A": 2
+    },
+    "af2_sat_anexos_didcemi_3": {
+        "N_DEC_TIOCSCS1": 2,
+        "N_DEC_OIPDPSB1": 2
+    },
+    "af2_sat_anexos_didcemi3B": {
+        "I_DEC_ITNMOOP1": "253696",
+        "I_DEC_NTTNURO1": "4",
+        "I_DEC_ISSMUAP1": "253696",
+        "I_DEC_IRSSSEU1": "1256",
+        "I_DEC_IESSSNU1": "1256",
+        "I_DEC_DSSIUAF1": "0",
+        "I_DEC_NTSSURU1": "4",
+        "I_DEC_IASMSAP1": "0",
+        "I_DEC_IRASSES1": "0",
+        "I_DEC_DASISAF1": "0",
+        "I_DEC_NTASURS1": "0",
+        "I_DEC_TNSSOOU1": "253696",
+        "I_DEC_TNESSOO1": "12033",
+        "I_DEC_TIRSSOS1": "1256",
+        "I_DEC_TIESSOS1": "1256",
+        "I_DEC_TDSSOIU1": "0",
+        "I_DEC_TTSSORU1": "4",
+        "I_DEC_TAOSTIA1": "0",
+        "I_DEC_TIROSET1": "0",
+        "I_DEC_TIEOSNT1": "0",
+        "I_DEC_TDOITFA1": "0",
+        "I_DEC_TTORTAA1": "0",
+        "B_DEC_TEFRQII1": 2,
+        "SEP7": "0"
+    },
+    "af2_sat_anexos_sat_dem_ing_det_ing_obt": [
+        {}
+    ],
+    "DD_DEC_DIDCEMI3": {
+        "I_DEC_SPNUAOB1": "1179",
+        "I_DEC_SPEAPAU1": "35595",
+        "I_DEC_SAPPUPA1": "12465",
+        "I_DEC_SDSAUIU1": "24309",
+        "I_DEC_TSPEDOU1": "36774"
+    },
+    "DD_DEC_DPIAEEE1": [],
+    "sat_decla_resico": {
+        "rfcDeclarante": "NANJ551129TP7",
+        "numeroOperacion": 233890016048,
+        "fechaPresentacion": "2023-05-02T19:57:05",
+        "ejercicio": 2022,
+        "idPeriodoDecla": "035",
+        "tipoPersona": "F",
+        "idEntFed": "20",
+        "descPeriodo": "Del Ejercicio",
+        "idDescon": "O-039",
+        "boId": "1150250279526098915204549173083",
+        "verReforma": 10,
+        "idPeriodic": "Y",
+        "descPeriodic": "8-Del Ejercicio",
+        "idTipoDecla": "001",
+        "descTipoDecla": "Normal",
+        "idTipoComplem": "0",
+        "D_DEC_NOMBRE01": "JESUS ROBERTO",
+        "D_DEC_APPAETL1": "NACIF",
+        "D_DEC_AMPAETL1": "NAKAGAWA",
+        "tipoAutentica": "sat/ciec/contribuyentes/uri",
+        "claseDecla": "002",
+        "ingresosObtenidosCopro": "2",
+        "totalIngresos": "1425559",
+        "totalIngresosAmpComFis": "1425559",
+        "descDevBonificaAmpComp": "0",
+        "totalDescDevBonAmpComp": "0",
+        "ingExenActivAgriGanSilvePes": "0",
+        "ingresosGravados": "1433614",
+        "ingresosGravables": "1433614",
+        "perdidasFisEjerAnt": "0",
+        "limitePerdidasApl": "1433614",
+        "montoRemanenteApl": "1433614",
+        "totalPerdidasPendAplicar": "1863959",
+        "totalPerdidaFiscalAct": "2011125",
+        "totalAplicarEjercicio": "0",
+        "totalRemanente": "0",
+        "baseGravable": "1433614",
+        "pagosMensuales": "15197",
+        "totalPagosProvisionales": "15197",
+        "totalPagosMensDeclaPag": "15197",
+        "totalPagosMenEfectAcred": "15197",
+        "isrRetPersonasMorales": "13650",
+        "totalIsrRetCfdi": "13650",
+        "totalImpRetProvenCfdi": "13650",
+        "isrRetAdicionar": "0",
+        "totalIsrRetEfectAcred": "13650",
+        "montoDetallarIsrPerMor": "0",
+        "totalIsrRetPerMor": "13650",
+        "baseGravableDeter": "1433614",
+        "tasaAplicable": "2.00",
+        "isrCausado": "28672",
+        "pagosMensualesDeter": "15197",
+        "isrRetenido": "13650",
+        "aFavor": "175",
+        "queDeseasHacerSaldoFavor": "1",
+        "numCuentaClabeSel": "-1",
+        "nombreBanco": "0",
+        "manifiestoBajoProtesta": "0",
+        "importeNomina": "253696",
+        "numTrabajadoresNom": "4",
+        "importeSueldosSalarios": "253696",
+        "isrRetenidoSuelSal": "1256",
+        "isrEnteradoSuelSal": "1256",
+        "DiferenciaSuelSal": "0",
+        "numTrabajadoresSuelSal": "4",
+        "importeAsimiSalarios": "0",
+        "isrRetenidoAsimSal": "0",
+        "DiferenciaAsimSal": "0",
+        "numTrabajadoresAsimSal": "0",
+        "totalesNominaSuelSal": "253696",
+        "totalesNominaExenta": "12033",
+        "totalesIsrRetenidoSueSal": "1256",
+        "totalesIsrEnteradoSueSal": "1256",
+        "totalesDiferenciasSueSal": "0",
+        "totalesTrabajadoresSueSal": "4",
+        "totalesNominaAsimSal": "0",
+        "totalesIsrRetenidoAsimAsal": "0",
+        "totalesDiferenciasAsimAsal": "0",
+        "totalesTrabajadoresAsimAsal": "0",
+        "subsidioPagadoNomina": "1179",
+        "subsidioPagEjerAnt": "35595",
+        "subsidioDevAauto": "0",
+        "totalSubsidioEmpDis": "36774",
+        "subsidioPagosProv": "12465",
+        "totalRetenAsimSal": "1361",
+        "totalSubRetenSalPerPag": "1361",
+        "subsidioDispAplica": "24309",
+        "optasInformarPTU": "2",
+        "tienesEsquemasFiscalesReporta": "2",
+        "tngresosEfect": "1425559",
+        "descDevoBonifica": "0",
+        "ingAdicionales": "8055",
+        "ingActividad": "1433614",
+        "montoDetallar": "0",
+        "totalActividad": "1433614",
+        "totalIngAdicionales": "8055"
+    },
+    "ent_isr_ret_suel_sal_resico": [
+        {
+            "conceptoNomina": "Datos informativos de nómina (Sueldos y Salarios)",
+            "mesIsrRetSuelSal": "001",
+            "totalNomIsrRetSuelSal": "16763",
+            "NominaExenta": "0",
+            "isrRetenidoEntIsr": "128",
+            "isrEnteradoEntRet": "128",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "3"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Sueldos y Salarios)",
+            "mesIsrRetSuelSal": "002",
+            "totalNomIsrRetSuelSal": "15746",
+            "NominaExenta": "605",
+            "isrRetenidoEntIsr": "26",
+            "isrEnteradoEntRet": "26",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "3"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Sueldos y Salarios)",
+            "mesIsrRetSuelSal": "003",
+            "totalNomIsrRetSuelSal": "19183",
+            "NominaExenta": "0",
+            "isrRetenidoEntIsr": "109",
+            "isrEnteradoEntRet": "109",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "4"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Sueldos y Salarios)",
+            "mesIsrRetSuelSal": "004",
+            "totalNomIsrRetSuelSal": "22091",
+            "NominaExenta": "682",
+            "isrRetenidoEntIsr": "68",
+            "isrEnteradoEntRet": "68",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "4"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Sueldos y Salarios)",
+            "mesIsrRetSuelSal": "005",
+            "totalNomIsrRetSuelSal": "22122",
+            "NominaExenta": "0",
+            "isrRetenidoEntIsr": "147",
+            "isrEnteradoEntRet": "147",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "4"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Sueldos y Salarios)",
+            "mesIsrRetSuelSal": "006",
+            "totalNomIsrRetSuelSal": "19939",
+            "NominaExenta": "605",
+            "isrRetenidoEntIsr": "68",
+            "isrEnteradoEntRet": "68",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "4"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Sueldos y Salarios)",
+            "mesIsrRetSuelSal": "007",
+            "totalNomIsrRetSuelSal": "18492",
+            "NominaExenta": "0",
+            "isrRetenidoEntIsr": "128",
+            "isrEnteradoEntRet": "128",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "4"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Sueldos y Salarios)",
+            "mesIsrRetSuelSal": "008",
+            "totalNomIsrRetSuelSal": "22122",
+            "NominaExenta": "0",
+            "isrRetenidoEntIsr": "147",
+            "isrEnteradoEntRet": "147",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "4"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Sueldos y Salarios)",
+            "mesIsrRetSuelSal": "009",
+            "totalNomIsrRetSuelSal": "21408",
+            "NominaExenta": "0",
+            "isrRetenidoEntIsr": "68",
+            "isrEnteradoEntRet": "68",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "4"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Sueldos y Salarios)",
+            "mesIsrRetSuelSal": "010",
+            "totalNomIsrRetSuelSal": "22122",
+            "NominaExenta": "0",
+            "isrRetenidoEntIsr": "147",
+            "isrEnteradoEntRet": "147",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "4"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Sueldos y Salarios)",
+            "mesIsrRetSuelSal": "011",
+            "totalNomIsrRetSuelSal": "21408",
+            "NominaExenta": "0",
+            "isrRetenidoEntIsr": "68",
+            "isrEnteradoEntRet": "68",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "4"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Sueldos y Salarios)",
+            "mesIsrRetSuelSal": "012",
+            "totalNomIsrRetSuelSal": "32301",
+            "NominaExenta": "10140",
+            "isrRetenidoEntIsr": "152",
+            "isrEnteradoEntRet": "152",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "4"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Asimilado a Salarios)",
+            "mesIsrRetSuelSal": "001",
+            "totalNomIsrRetSuelSal": "0",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "0"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Asimilado a Salarios)",
+            "mesIsrRetSuelSal": "002",
+            "totalNomIsrRetSuelSal": "0",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "0"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Asimilado a Salarios)",
+            "mesIsrRetSuelSal": "003",
+            "totalNomIsrRetSuelSal": "0",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "0"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Asimilado a Salarios)",
+            "mesIsrRetSuelSal": "004",
+            "totalNomIsrRetSuelSal": "0",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "0"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Asimilado a Salarios)",
+            "mesIsrRetSuelSal": "005",
+            "totalNomIsrRetSuelSal": "0",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "0"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Asimilado a Salarios)",
+            "mesIsrRetSuelSal": "006",
+            "totalNomIsrRetSuelSal": "0",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "0"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Asimilado a Salarios)",
+            "mesIsrRetSuelSal": "007",
+            "totalNomIsrRetSuelSal": "0",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "0"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Asimilado a Salarios)",
+            "mesIsrRetSuelSal": "008",
+            "totalNomIsrRetSuelSal": "0",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "0"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Asimilado a Salarios)",
+            "mesIsrRetSuelSal": "009",
+            "totalNomIsrRetSuelSal": "0",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "0"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Asimilado a Salarios)",
+            "mesIsrRetSuelSal": "010",
+            "totalNomIsrRetSuelSal": "0",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "0"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Asimilado a Salarios)",
+            "mesIsrRetSuelSal": "011",
+            "totalNomIsrRetSuelSal": "0",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "0"
+        },
+        {
+            "conceptoNomina": "Datos informativos de nómina (Asimilado a Salarios)",
+            "mesIsrRetSuelSal": "012",
+            "totalNomIsrRetSuelSal": "0",
+            "diferenciaEntIsr": "0",
+            "numTrabajaEntIsrRet": "0"
+        }
+    ],
+    "subsidio_empleo_resico": [
+        {
+            "periodoSubEmp": "010",
+            "montoSubEmp": "0"
+        },
+        {
+            "periodoSubEmp": "003",
+            "montoSubEmp": "291"
+        },
+        {
+            "periodoSubEmp": "011",
+            "montoSubEmp": "65"
+        },
+        {
+            "periodoSubEmp": "006",
+            "montoSubEmp": "280"
+        },
+        {
+            "periodoSubEmp": "005",
+            "montoSubEmp": "0"
+        },
+        {
+            "periodoSubEmp": "012",
+            "montoSubEmp": "0"
+        },
+        {
+            "periodoSubEmp": "008",
+            "montoSubEmp": "0"
+        },
+        {
+            "periodoSubEmp": "004",
+            "montoSubEmp": "65"
+        },
+        {
+            "periodoSubEmp": "001",
+            "montoSubEmp": "0"
+        },
+        {
+            "periodoSubEmp": "009",
+            "montoSubEmp": "65"
+        },
+        {
+            "periodoSubEmp": "002",
+            "montoSubEmp": "88"
+        },
+        {
+            "periodoSubEmp": "007",
+            "montoSubEmp": "325"
+        }
+    ],
+    "ent_isr_ret_suel_asim_resico": [
+        {
+            "conceptoAplicAsimSuelSal": "Aplicado Sueldos y Salarios",
+            "periodoRetenAsimSal": "001",
+            "montoRetenAsimSal": "159",
+            "estatusRetenAsimSal": "ED04",
+            "numeroOperaRetenAsimSal": 230250018872,
+            "fechaPresentaRetenAsimSal": "2023-02-02T06:00:00"
+        },
+        {
+            "conceptoAplicAsimSuelSal": "Aplicado Sueldos y Salarios",
+            "periodoRetenAsimSal": "002",
+            "montoRetenAsimSal": "26",
+            "estatusRetenAsimSal": "ED04",
+            "numeroOperaRetenAsimSal": 220770096058,
+            "fechaPresentaRetenAsimSal": "2022-03-18T06:00:00"
+        },
+        {
+            "conceptoAplicAsimSuelSal": "Aplicado Sueldos y Salarios",
+            "periodoRetenAsimSal": "003",
+            "montoRetenAsimSal": "129",
+            "estatusRetenAsimSal": "ED04",
+            "numeroOperaRetenAsimSal": 230290140053,
+            "fechaPresentaRetenAsimSal": "2023-02-02T06:00:00"
+        },
+        {
+            "conceptoAplicAsimSuelSal": "Aplicado Sueldos y Salarios",
+            "periodoRetenAsimSal": "004",
+            "montoRetenAsimSal": "68",
+            "estatusRetenAsimSal": "ED04",
+            "numeroOperaRetenAsimSal": 220280140699,
+            "fechaPresentaRetenAsimSal": "2022-05-20T05:00:00"
+        },
+        {
+            "conceptoAplicAsimSuelSal": "Aplicado Sueldos y Salarios",
+            "periodoRetenAsimSal": "005",
+            "montoRetenAsimSal": "169",
+            "estatusRetenAsimSal": "ED04",
+            "numeroOperaRetenAsimSal": 230960018965,
+            "fechaPresentaRetenAsimSal": "2023-02-02T06:00:00"
+        },
+        {
+            "conceptoAplicAsimSuelSal": "Aplicado Sueldos y Salarios",
+            "periodoRetenAsimSal": "006",
+            "montoRetenAsimSal": "68",
+            "estatusRetenAsimSal": "ED04",
+            "numeroOperaRetenAsimSal": 220820107447,
+            "fechaPresentaRetenAsimSal": "2022-07-14T05:00:00"
+        },
+        {
+            "conceptoAplicAsimSuelSal": "Aplicado Sueldos y Salarios",
+            "periodoRetenAsimSal": "007",
+            "montoRetenAsimSal": "141",
+            "estatusRetenAsimSal": "ED04",
+            "numeroOperaRetenAsimSal": 230070045113,
+            "fechaPresentaRetenAsimSal": "2023-02-02T06:00:00"
+        },
+        {
+            "conceptoAplicAsimSuelSal": "Aplicado Sueldos y Salarios",
+            "periodoRetenAsimSal": "008",
+            "montoRetenAsimSal": "159",
+            "estatusRetenAsimSal": "ED04",
+            "numeroOperaRetenAsimSal": 230440026441,
+            "fechaPresentaRetenAsimSal": "2023-02-02T06:00:00"
+        },
+        {
+            "conceptoAplicAsimSuelSal": "Aplicado Sueldos y Salarios",
+            "periodoRetenAsimSal": "009",
+            "montoRetenAsimSal": "68",
+            "estatusRetenAsimSal": "ED04",
+            "numeroOperaRetenAsimSal": 220390181263,
+            "fechaPresentaRetenAsimSal": "2022-10-11T05:00:00"
+        },
+        {
+            "conceptoAplicAsimSuelSal": "Aplicado Sueldos y Salarios",
+            "periodoRetenAsimSal": "010",
+            "montoRetenAsimSal": "152",
+            "estatusRetenAsimSal": "ED04",
+            "numeroOperaRetenAsimSal": 230630018358,
+            "fechaPresentaRetenAsimSal": "2023-02-02T06:00:00"
+        },
+        {
+            "conceptoAplicAsimSuelSal": "Aplicado Sueldos y Salarios",
+            "periodoRetenAsimSal": "011",
+            "montoRetenAsimSal": "68",
+            "estatusRetenAsimSal": "ED04",
+            "numeroOperaRetenAsimSal": 220180192806,
+            "fechaPresentaRetenAsimSal": "2022-12-09T06:00:00"
+        },
+        {
+            "conceptoAplicAsimSuelSal": "Aplicado Sueldos y Salarios",
+            "periodoRetenAsimSal": "012",
+            "montoRetenAsimSal": "154",
+            "estatusRetenAsimSal": "ED04",
+            "numeroOperaRetenAsimSal": 230060036989,
+            "fechaPresentaRetenAsimSal": "2023-02-02T06:00:00"
+        }
+    ],
+    "ing_cobrados_devol_resico": [
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "mesIngresos": "01",
+            "ingresosFacturados": "119937"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "mesIngresos": "02",
+            "ingresosFacturados": "130809"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "mesIngresos": "03",
+            "ingresosFacturados": "123068"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "mesIngresos": "04",
+            "ingresosFacturados": "117194"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "mesIngresos": "05",
+            "ingresosFacturados": "114605"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "mesIngresos": "06",
+            "ingresosFacturados": "107343"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "mesIngresos": "07",
+            "ingresosFacturados": "110481"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "mesIngresos": "08",
+            "ingresosFacturados": "120580"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "mesIngresos": "09",
+            "ingresosFacturados": "115180"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "mesIngresos": "10",
+            "ingresosFacturados": "133054"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "mesIngresos": "11",
+            "ingresosFacturados": "115564"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "mesIngresos": "12",
+            "ingresosFacturados": "117744"
+        }
+    ],
+    "ing_dismin_adic_act_resico": [
+        {
+            "ConceptoIngreso": "Ingresos adicionales",
+            "idConceptoIngreso": "CIRE15",
+            "descripcionConcepto": "Ingresos no considerados en el prellenado",
+            "importeIngreso": "8055"
+        },
+        {
+            "ConceptoIngreso": "Total de ingresos percibidos por la actividad",
+            "idConceptoIngreso": "CIRE01",
+            "descripcionConcepto": "Actividad empresarial",
+            "importeIngreso": "337417"
+        },
+        {
+            "ConceptoIngreso": "Total de ingresos percibidos por la actividad",
+            "idConceptoIngreso": "CIRE04",
+            "descripcionConcepto": "Uso o goce temporal de bienes",
+            "importeIngreso": "1096197"
+        }
+    ],
+    "ing_sect_primario_resico": [
+        {
+            "conceptoIngPrimario": "Ingresos por Actividades agrícolas, ganaderas, silvícolas y pesqueras",
+            "montoIngresos": "0",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por Servicios profesionales (Honorarios) y por el uso o goce temporal de bienes",
+            "montoIngresos": "1096197",
+            "porcentajeIngresos": "100"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos identificados en pagos provisionales efectuados por el contribuyente",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por enajenación de bienes no afectos a su actividad",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por adquisición de bienes",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por Intereses",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por premios",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por dividendos",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por demás ingresos",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por REFIPRES",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por enajenación de acciones en bolsa de valores",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos totales",
+            "montoIngresos": "100",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Sueldos, salarios, asimilados e Indemnizaciones (se excluyen jubilaciones).",
+            "montoIngresos": "0",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por intereses",
+            "montoIngresos": "0",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por dividendos",
+            "montoIngresos": "0",
+            "porcentajeIngresos": "0"
+        }
+    ],
+    "perdidas_fiscales_resico": [
+        {
+            "anioGeneroPerdida": "2017",
+            "perdidaPendAplicarEjerAnt": "479669",
+            "perdidaFiscalAct": "517947",
+            "anioActualizoUltiVez": "2021",
+            "mesActualizoUltiVez": "006",
+            "inpcUltiMesAplicaActuPerdMes": "Junio-2022",
+            "inpcUltiMesAplicaActuPerdInpc": "122.044",
+            "inpcMesActuUltiperdMes": "Junio-2021",
+            "inpcMesActuUltiperdInpc": "113.018",
+            "factorActuPeriodo": "1.0798",
+            "perdidaPendAplicarAct": "479669",
+            "perdidaFiscalActRem": "517947",
+            "porAplicarEjercicio": "0",
+            "remanente": "0"
+        },
+        {
+            "anioGeneroPerdida": "2018",
+            "perdidaPendAplicarEjerAnt": "665409",
+            "perdidaFiscalAct": "718509",
+            "anioActualizoUltiVez": "2021",
+            "mesActualizoUltiVez": "006",
+            "inpcUltiMesAplicaActuPerdMes": "Junio-2022",
+            "inpcUltiMesAplicaActuPerdInpc": "122.044",
+            "inpcMesActuUltiperdMes": "Junio-2021",
+            "inpcMesActuUltiperdInpc": "113.018",
+            "factorActuPeriodo": "1.0798",
+            "perdidaPendAplicarAct": "665409",
+            "perdidaFiscalActRem": "718509",
+            "porAplicarEjercicio": "0",
+            "remanente": "0"
+        },
+        {
+            "anioGeneroPerdida": "2019",
+            "perdidaPendAplicarEjerAnt": "216439",
+            "perdidaFiscalAct": "233711",
+            "anioActualizoUltiVez": "2021",
+            "mesActualizoUltiVez": "006",
+            "inpcUltiMesAplicaActuPerdMes": "Junio-2022",
+            "inpcUltiMesAplicaActuPerdInpc": "122.044",
+            "inpcMesActuUltiperdMes": "Junio-2021",
+            "inpcMesActuUltiperdInpc": "113.018",
+            "factorActuPeriodo": "1.0798",
+            "perdidaPendAplicarAct": "216439",
+            "perdidaFiscalActRem": "233711",
+            "porAplicarEjercicio": "0",
+            "remanente": "0"
+        },
+        {
+            "anioGeneroPerdida": "2020",
+            "perdidaPendAplicarEjerAnt": "256543",
+            "perdidaFiscalAct": "277015",
+            "anioActualizoUltiVez": "2021",
+            "mesActualizoUltiVez": "006",
+            "inpcUltiMesAplicaActuPerdMes": "Junio-2022",
+            "inpcUltiMesAplicaActuPerdInpc": "122.044",
+            "inpcMesActuUltiperdMes": "Junio-2021",
+            "inpcMesActuUltiperdInpc": "113.018",
+            "factorActuPeriodo": "1.0798",
+            "perdidaPendAplicarAct": "256543",
+            "perdidaFiscalActRem": "277015",
+            "porAplicarEjercicio": "0",
+            "remanente": "0"
+        },
+        {
+            "anioGeneroPerdida": "2021",
+            "perdidaPendAplicarEjerAnt": "245899",
+            "perdidaFiscalAct": "263943",
+            "porAplicarEjercicio": "0",
+            "remanente": "0"
+        }
+    ],
+    "ing_prec_prov_resico": [
+        {
+            "mesPagosProvisionales": "001",
+            "MontoPagosProvisionales": "1344",
+            "estatusPagosProvisionales": "ED01",
+            "numOperaUltiDeclaVigente": "220000502916",
+            "fechaPresentaPagosProvisionales": "2022-02-15T06:00:00"
+        },
+        {
+            "mesPagosProvisionales": "002",
+            "MontoPagosProvisionales": "1568",
+            "estatusPagosProvisionales": "ED04",
+            "numOperaUltiDeclaVigente": "220770096058",
+            "fechaPresentaPagosProvisionales": "2022-03-18T06:00:00"
+        },
+        {
+            "mesPagosProvisionales": "003",
+            "MontoPagosProvisionales": "1329",
+            "estatusPagosProvisionales": "ED04",
+            "numOperaUltiDeclaVigente": "220050176046",
+            "fechaPresentaPagosProvisionales": "2022-04-16T05:00:00"
+        },
+        {
+            "mesPagosProvisionales": "004",
+            "MontoPagosProvisionales": "1212",
+            "estatusPagosProvisionales": "ED01",
+            "numOperaUltiDeclaVigente": "220280140699",
+            "fechaPresentaPagosProvisionales": "2022-05-20T05:00:00"
+        },
+        {
+            "mesPagosProvisionales": "005",
+            "MontoPagosProvisionales": "1160",
+            "estatusPagosProvisionales": "ED04",
+            "numOperaUltiDeclaVigente": "220610097991",
+            "fechaPresentaPagosProvisionales": "2022-06-09T05:00:00"
+        },
+        {
+            "mesPagosProvisionales": "006",
+            "MontoPagosProvisionales": "1015",
+            "estatusPagosProvisionales": "ED04",
+            "numOperaUltiDeclaVigente": "220820107447",
+            "fechaPresentaPagosProvisionales": "2022-07-14T05:00:00"
+        },
+        {
+            "mesPagosProvisionales": "007",
+            "MontoPagosProvisionales": "1033",
+            "estatusPagosProvisionales": "ED04",
+            "numOperaUltiDeclaVigente": "220290710527",
+            "fechaPresentaPagosProvisionales": "2022-08-09T05:00:00"
+        },
+        {
+            "mesPagosProvisionales": "008",
+            "MontoPagosProvisionales": "1235",
+            "estatusPagosProvisionales": "ED04",
+            "numOperaUltiDeclaVigente": "220530168661",
+            "fechaPresentaPagosProvisionales": "2022-09-08T05:00:00"
+        },
+        {
+            "mesPagosProvisionales": "009",
+            "MontoPagosProvisionales": "1301",
+            "estatusPagosProvisionales": "ED04",
+            "numOperaUltiDeclaVigente": "220390181263",
+            "fechaPresentaPagosProvisionales": "2022-10-11T05:00:00"
+        },
+        {
+            "mesPagosProvisionales": "010",
+            "MontoPagosProvisionales": "1484",
+            "estatusPagosProvisionales": "ED04",
+            "numOperaUltiDeclaVigente": "220650252509",
+            "fechaPresentaPagosProvisionales": "2022-11-09T06:00:00"
+        },
+        {
+            "mesPagosProvisionales": "011",
+            "MontoPagosProvisionales": "1236",
+            "estatusPagosProvisionales": "ED04",
+            "numOperaUltiDeclaVigente": "220180192806",
+            "fechaPresentaPagosProvisionales": "2022-12-09T06:00:00"
+        },
+        {
+            "mesPagosProvisionales": "012",
+            "MontoPagosProvisionales": "1280",
+            "estatusPagosProvisionales": "ED04",
+            "numOperaUltiDeclaVigente": "230120008853",
+            "fechaPresentaPagosProvisionales": "2023-01-12T06:00:00"
+        }
+    ],
+    "isr_prec_cfdi_resico": [
+        {
+            "mesIsrRetCfdi": "01",
+            "facturadosIsrRetCfdi": "1132"
+        },
+        {
+            "mesIsrRetCfdi": "02",
+            "facturadosIsrRetCfdi": "1132"
+        },
+        {
+            "mesIsrRetCfdi": "03",
+            "facturadosIsrRetCfdi": "1132"
+        },
+        {
+            "mesIsrRetCfdi": "04",
+            "facturadosIsrRetCfdi": "1132"
+        },
+        {
+            "mesIsrRetCfdi": "05",
+            "facturadosIsrRetCfdi": "1132"
+        },
+        {
+            "mesIsrRetCfdi": "06",
+            "facturadosIsrRetCfdi": "1132"
+        },
+        {
+            "mesIsrRetCfdi": "07",
+            "facturadosIsrRetCfdi": "1177"
+        },
+        {
+            "mesIsrRetCfdi": "08",
+            "facturadosIsrRetCfdi": "1177"
+        },
+        {
+            "mesIsrRetCfdi": "09",
+            "facturadosIsrRetCfdi": "1177"
+        },
+        {
+            "mesIsrRetCfdi": "10",
+            "facturadosIsrRetCfdi": "1177"
+        },
+        {
+            "mesIsrRetCfdi": "11",
+            "facturadosIsrRetCfdi": "1075"
+        },
+        {
+            "mesIsrRetCfdi": "12",
+            "facturadosIsrRetCfdi": "1075"
+        }
+    ],
+    "isr_prec_anual_pm_resico": [
+        {
+            "rfcREetenedorIsrPerMor": "IIN070604298",
+            "montoIngreso": "440798",
+            "montoIsrRetenido": "5510"
+        },
+        {
+            "rfcREetenedorIsrPerMor": "PRO030226UG5",
+            "montoIngreso": "651203",
+            "montoIsrRetenido": "8140"
+        }
+    ],
+    "af2_sat_anexos_sat_ded_per": []
+}

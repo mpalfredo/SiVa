@@ -1,0 +1,658 @@
+{
+    "sat_declaracion_contribuyente": {
+        "D_DEC_CURP0001": "OIPP810121HNLNLB08",
+        "D_DEC_EPSROP01": "0",
+        "D_DEC_NOMBRE01": "PABLO DAVID",
+        "D_DEC_APPAETL1": "ONTIVEROS",
+        "D_DEC_AMPAETL1": "PLAZA",
+        "B_DEC_TPIEPRO1": "F",
+        "D_DEC_RFCEEOG1": "OIPP810121L39",
+        "D_DEC_BO_ID001": "9015097401799531908760166229848",
+        "D_DEC_ALSC0001": "O-051",
+        "D_DEC_IDDECLA1": "21F23E9B-7F7C-4273-A3C5-BAE21ACE32C8",
+        "N_DEC_VREERFS1": 7,
+        "D_DEC_CTCLIOA1": "003",
+        "D_DEC_CPLEARV1": "035",
+        "D_DEC_DTDEIES1": "Complementaria",
+        "D_DEC_DPEESRC1": "8-Del Ejercicio",
+        "D_DEC_DPEESRC2": "Del Ejercicio",
+        "D_DEC_CCDLLEA1": "002",
+        "F_DEC_FVDEEEC1": "2020-06-30T05:00:00",
+        "F_DEC_FCEACUH1": "2020-06-30T05:00:00",
+        "N_DEC_EJERCIC1": 2019,
+        "D_DEC_CTDLIEA1": "002",
+        "D_DEC_CPLEARV2": "Y",
+        "D_DEC_DTCEIOS1": "Modificación de Declaración",
+        "B_DEC_MLDELED1": "E",
+        "D_DEC_IDPDEAC1": "b4672187-950b-4361-9c5c-eab58ec43172",
+        "D_DEC_IDRDEAC1": "b4672187-950b-4361-9c5c-eab58ec43172",
+        "D_DEC_MPDERED1": "Internet",
+        "F_DEC_FCDEOEC1": "2024-04-10T00:00:00",
+        "D_DEC_CUILSNA1": "OIPP810121L39",
+        "D_DEC_CUCLSOA1": "OIPP810121L39",
+        "D_DEC_CRPLERA1": "6",
+        "D_DEC_DRPEERS1": "Declaración Anual de Personas Físicas",
+        "N_DEC_FDIERCM1": 0,
+        "D_DEC_MAEUDTI1": "sat/ciec/contribuyentes/uri",
+        "D_DEC_EFNETDI1": "09",
+        "F_DEC_FPDEREC1": "2024-04-10T09:26:59",
+        "D_DEC_SDEILGL1": "EWL/PDMfF/dpoU8LVtxtBoRC8Vu/TxvtmSc9h0h7yDd18d6OlLR2VGDlIjexiapEka0r3osXU0toRZCT8cNp9Mw18jndYRQGG3J2uos8Zc9kWt43ekz5aWY3khFoSQO5WM4PqHd7DxUgIkYDI26mOgqI8yAxEg4DC1uAlo/t/99X+EHlOIR64hEkdQqoJQopuB7Lrm91w60SS6CVO73D1J4c0k89ZFt8LxQ+oWkqqWZE8h/pnGpyby23y/IjBpD1hEGdZp9iu9ycjid2IyjxRqnN1QXUXJJkH2Gh/oTqsNbl/oWs+W9V/WlrXYGAjlDuvzfmw7Trx3IdCY6AEIo7XA==",
+        "D_DEC_LOPIEBA1": 2,
+        "N_DEC_NOUPMEE1": "240000271661",
+        "I_DEC_TPOATGA1": "0"
+    },
+    "af2_sat_anexos_didcemi_1": {
+        "D_DEC_ADDENDA2": "Addenda",
+        "D_DEC_CMPLERA1": "WEB",
+        "D_DEC_IDAREAG1": "1",
+        "D_DEC_DAGERES1": "A",
+        "D_DEC_SUBREGI1": "605|Régimen de Sueldos y Salarios e Ingresos Asimilados a Salarios|2021-04-01|",
+        "N_DEC_CALCULO1": 0,
+        "N_DEC_PRECARG1": 1,
+        "N_DEC_FLUIENR1": 0,
+        "D_DEC_IDAPLIC1": "11",
+        "D_DEC_NAOPMLB1": "DAS",
+        "D_DEC_EMSOVI01": "0",
+        "D_DEC_CPOONPO1": "300031|ASALARIADO|R|2021-04-01|2099-12-31;300155|CONTRIBUYENTE PF|SR|2021-04-01|2099-12-31",
+        "N_DEC_TPSIRAE1": 1,
+        "N_DEC_TPCIRFE1": 1,
+        "N_DEC_TPIIRNE1": 0,
+        "N_DEC_TPPIRRE1": 1,
+        "D_DEC_CEOLRER1": "pablo.ontiveros@gmail.com",
+        "N_DEC_TPCIRLE1": 1,
+        "D_DEC_TFIOTRU1": "PERSONAS FÍSICAS",
+        "I_DEC_SPIRPME1": "8423",
+        "N_DEC_DDTCACE1": 0,
+        "I_DEC_MADPOPE1": "3153",
+        "I_DEC_DIATDPE1": "3153",
+        "I_DEC_TSIAOAN1": "288173",
+        "I_DEC_INAGOCR1": "0",
+        "I_DEC_SIAANNL1": "290708",
+        "I_DEC_TPPOART1": "0",
+        "I_DEC_SAIRACM1": "56418",
+        "I_DEC_ASECCUM1": "0",
+        "I_DEC_IIAMNCP1": "0",
+        "I_DEC_SSAIEUA1": "2535",
+        "I_DEC_AEUGCMT1": "0",
+        "I_DEC_SPTIERO1": "84244",
+        "I_DEC_SPTDAER1": "58420",
+        "I_DEC_SPMPDER1": "0",
+        "I_DEC_SPUGDER1": "25824",
+        "I_DEC_SPUFERT1": "25824",
+        "I_DEC_SPIPPER1": "0",
+        "I_DEC_SPPFEAE1": "0",
+        "I_DEC_SPUGERT1": "25824",
+        "N_DEC_AALPRIL1": 0,
+        "N_DEC_AALPRIL2": 0,
+        "I_DEC_USRITUE1": "-3153",
+        "I_DEC_UNSRITO1": "317150",
+        "I_DEC_ISBARSO1": "0",
+        "I_DEC_RIESDRU1": "0",
+        "I_DEC_IRMEPDU1": "0",
+        "I_DEC_ISIASON1": "0",
+        "I_DEC_IIANNCT1": "0",
+        "I_DEC_DIAISCV1": "0",
+        "I_DEC_DIDIIAE1": "0",
+        "I_DEC_DIAENCM2": "0",
+        "I_DEC_PMIARON1": "0",
+        "I_DEC_EDIANEN1": "0",
+        "I_DEC_EDPNEEA1": "0",
+        "I_DEC_EBGNARA1": "313997",
+        "I_DEC_EITANSA1": "52052"
+    },
+    "af2_sat_anexos_didcemi_2": {
+        "I_DEC_AIADNCQ1": "0",
+        "I_DEC_DIAIAES1": "313997",
+        "I_DEC_DIAPDDI1": "0",
+        "I_DEC_DIABGES1": "310844",
+        "I_DEC_DIAITAE1": "51311",
+        "I_DEC_DIASECE1": "0",
+        "I_DEC_DIAISSI1": "0",
+        "I_DEC_DIAPPES1": "611",
+        "I_DEC_DIAIRES1": "64841",
+        "I_DEC_DIAIFES1": "14141",
+        "D_DEC_DIANBES1": "0",
+        "D_DEC_DIADPES1": "0",
+        "N_DEC_DICOSFI1": 1,
+        "I_DEC_ISRCMOE1": "51311",
+        "I_DEC_DIEPIDT1": "0",
+        "I_DEC_DIIAAEM1": "164636",
+        "D_DEC_DIANCCE1": "0",
+        "I_DEC_SPIAERN1": "84244",
+        "I_DEC_SPDAERE1": "58420",
+        "I_DEC_SPPPEER1": "611",
+        "N_DEC_ODEFPIS1A": 0,
+        "I_DEC_MISENAN1": "0",
+        "I_DEC_MSEAUMY1": "0",
+        "N_DEC_PIESSAS1": 2,
+        "I_DEC_MONTO001": "0",
+        "I_DEC_SPTCEAO1": "0",
+        "I_DEC_SPTAEAO1": "0",
+        "I_DEC_SPCCEAA1": "0",
+        "N_DEC_OPPPAAT1": 0,
+        "I_DEC_SPCPEAA1": "0",
+        "N_DEC_NPUAMRE1": 0,
+        "I_DEC_SPFEAAC1": "14141",
+        "B_DEC_DCOCCFE1": 0,
+        "N_DEC_TODIDIT1B": 2,
+        "I_DEC_DISEMAT1": "288173",
+        "N_DEC_DITEENO1": 2014,
+        "N_DEC_DITEENO2": 2015,
+        "N_DEC_DITEENO3": 2016,
+        "N_DEC_DITEENO4": 2017,
+        "N_DEC_DITEENO5": 2018,
+        "N_DEC_OIPTUEJ1A": 2,
+        "I_DEC_DISPEME1": "0",
+        "I_DEC_CIONPTP1": "0",
+        "D_DEC_ISTEFAN1": "2"
+    },
+    "af2_sat_anexos_didcemi_3": {
+        "N_DEC_OIPSNBN1": 2,
+        "N_DEC_OIRPTBN1": 2,
+        "I_DEC_DIIAEMN1": "374952",
+        "N_DEC_TIEONJT1": 2014,
+        "N_DEC_TIEONJT2": 2015,
+        "N_DEC_TIEONJT3": 2016,
+        "N_DEC_TIEONJT4": 2017,
+        "N_DEC_TIEONJT5": 2018,
+        "I_DEC_JPIETUA1": "0",
+        "I_DEC_MHMOOEN1": "3153",
+        "I_DEC_MPDOEEN1": "53089",
+        "N_DEC_SPNRIRE1": 2,
+        "N_DEC_TIOCSCS1": 0,
+        "N_DEC_OIPDPSB1": 2,
+        "D_DEC_OCDPOEC1": "A",
+        "B_DEC_DISPREE1B": 2,
+        "N_DEC_SPTEFNA1": 2,
+        "N_DEC_PIEISPA1": 2,
+        "N_DEC_SPPIAER1": "84244",
+        "N_DEC_SPPDAER1": "58420",
+        "B_DEC_TEACICS1": 2,
+        "N_DEC_SPPPPER1": "611",
+        "I_DEC_SPSIRCU1": "8423",
+        "N_DEC_SPPIRPM1": "8423",
+        "N_DEC_SPTPERI1": 1,
+        "N_DEC_SCTRUOO1": 3,
+        "I_DEC_IETTNXO1": "2535",
+        "I_DEC_CTOONTA1": "3",
+        "I_DEC_SIETIUN1": "0",
+        "I_DEC_SIAIUNC1": "0",
+        "N_DEC_SRMSFUF1": 0,
+        "I_DEC_SMTPUOO1": "0",
+        "I_DEC_SIETJUE1": "0",
+        "I_DEC_SIAJUEU1": "0",
+        "I_DEC_SIAUNSM1": "195143",
+        "I_DEC_SPSMDER1": "58420",
+        "I_DEC_SPSMTER1": "0",
+        "I_DEC_SIAUNNM1": "95565",
+        "I_DEC_SSUSM6A1": "0",
+        "I_DEC_TAUONMP1": "30822",
+        "I_DEC_TGROAET1": "0",
+        "I_DEC_THMOOET1": "3153",
+        "I_DEC_TIHMOMO1": "3153",
+        "I_DEC_TMAOOPT1": "3153",
+        "I_DEC_TMDOOET1": "3153",
+        "I_DEC_TRMOEET1": "0",
+        "I_DEC_DITDEMO1": "3153",
+        "I_DEC_DITIEMO1": "313997",
+        "I_DEC_CPDAAAE1": "0"
+    },
+    "af2_sat_anexos_didcemi3B": {
+        "I_DEC_TIESSOS1": "0"
+    },
+    "af2_sat_anexos_sat_ret": [
+        {
+            "I_DEC_RMIREOS1": "4830",
+            "I_DEC_RMIREON1": "48300",
+            "D_DEC_RRREFET1": "TRI171128H31",
+            "D_DEC_RTIEINT1": "2"
+        },
+        {
+            "I_DEC_RMIREOS1": "3593",
+            "I_DEC_RMIREON1": "35944",
+            "D_DEC_RRREFET1": "MOB150825LM0",
+            "D_DEC_RTIEINT1": "2"
+        },
+        {
+            "I_DEC_RMIREOS1": "45601",
+            "I_DEC_RMIREON1": "195143",
+            "D_DEC_RRREFET1": "GNA151221NK4",
+            "D_DEC_RTIEINT1": "1"
+        },
+        {
+            "I_DEC_RMIREOS1": "1358",
+            "I_DEC_RMIREON1": "12413",
+            "D_DEC_RRREFET1": "ICO930914IFA",
+            "D_DEC_RTIEINT1": "1"
+        },
+        {
+            "I_DEC_RMIREOS1": "9459",
+            "I_DEC_RMIREON1": "83152",
+            "D_DEC_RRREFET1": "XCO071023LRA",
+            "D_DEC_RTIEINT1": "1"
+        }
+    ],
+    "af2_sat_anexos_sat_sue_sal": [
+        {
+            "I_DEC_SSSECUA1": "0",
+            "I_DEC_AGUINAL1": "0",
+            "I_DEC_PVRAICM1": "0",
+            "I_DEC_PDROIMM1": "0",
+            "I_DEC_IPMTPUO1": "0",
+            "I_DEC_SSIEUAN1": "0",
+            "I_DEC_AIASNSI1": "195143",
+            "I_DEC_SSTIUAO1": "0",
+            "I_DEC_SSSEEUA1": "0",
+            "D_DEC_SSRFCPU1": "GNA151221NK4",
+            "D_DEC_NDRSPOE1": "GRUPO NEXTO Y ASOCIADOS GNA",
+            "I_DEC_SSOIEUA1": "0",
+            "D_DEC_ITNADSE1": "0",
+            "I_DEC_LIEINXM1": "0",
+            "I_DEC_SEUMBPS1": "0",
+            "N_DEC_SMMICUA1": 0,
+            "N_DEC_SCRUOEE1": 1,
+            "I_DEC_TIEONXT1": "0",
+            "N_DEC_CIAONNT1": 0,
+            "I_DEC_IENXGER1": "0",
+            "I_DEC_IANNGUR1": "195143",
+            "I_DEC_RIESTRE1": "45601",
+            "D_DEC_OIRNITG1": 0
+        },
+        {
+            "I_DEC_SSSECUA1": "0",
+            "I_DEC_AGUINAL1": "0",
+            "I_DEC_PVRAICM1": "0",
+            "I_DEC_PDROIMM1": "0",
+            "I_DEC_IPMTPUO1": "0",
+            "I_DEC_SSIEUAN1": "0",
+            "I_DEC_SSTIUAO1": "12413",
+            "I_DEC_SSSEEUA1": "0",
+            "D_DEC_SSRFCPU1": "ICO930914IFA",
+            "D_DEC_NDRSPOE1": "IDS COMERCIAL",
+            "I_DEC_SSOIEUA1": "0",
+            "D_DEC_ITNADSE1": "0",
+            "I_DEC_LIEINXM1": "0",
+            "I_DEC_SEUMBPS1": "0",
+            "N_DEC_SMMICUA1": 0,
+            "N_DEC_SCRUOEE1": 1,
+            "I_DEC_TIEONXT1": "0",
+            "N_DEC_CIAONNT1": 1,
+            "I_DEC_IENXGER1": "0",
+            "I_DEC_IANNGUR1": "12413",
+            "I_DEC_RIESTRE1": "1358",
+            "D_DEC_OIRNITG1": 0
+        },
+        {
+            "I_DEC_SSSECUA1": "0",
+            "I_DEC_AGUINAL1": "2535",
+            "I_DEC_PVRAICM1": "0",
+            "I_DEC_PDROIMM1": "0",
+            "I_DEC_IPMTPUO1": "0",
+            "I_DEC_SSIEUAN1": "2535",
+            "I_DEC_SSTIUAO1": "83152",
+            "I_DEC_SSSEEUA1": "0",
+            "D_DEC_SSRFCPU1": "XCO071023LRA",
+            "D_DEC_NDRSPOE1": "XCC CONSULTORIA",
+            "I_DEC_SSOIEUA1": "0",
+            "D_DEC_ITNADSE1": "0",
+            "I_DEC_LIEINXM1": "2535",
+            "I_DEC_SEUMBPS1": "0",
+            "N_DEC_SMMICUA1": 0,
+            "N_DEC_SCRUOEE1": 1,
+            "I_DEC_TIEONXT1": "2535",
+            "N_DEC_CIAONNT1": 1,
+            "I_DEC_IENXGER1": "2535",
+            "I_DEC_IANNGUR1": "83152",
+            "I_DEC_RIESTRE1": "9459",
+            "D_DEC_OIRNITG1": 0
+        }
+    ],
+    "af2_sat_anexos_sat_ser_pro_det_ret_isr": [
+        {
+            "D_DEC_RFCTIEE1": "TRI171128H31",
+            "I_DEC_SPMIRER1": "48300",
+            "I_DEC_SPIRERS1": "4830"
+        },
+        {
+            "D_DEC_RFCTIEE1": "MOB150825LM0",
+            "I_DEC_SPMIRER1": "35944",
+            "I_DEC_SPIRERS1": "3593"
+        }
+    ],
+    "af2_sat_anexos_sat_act_emp_det_ded_aut": [
+        {
+            "fila": 1,
+            "N_DEC_TDIEPDO1": "37",
+            "D_DEC_CDOENDC1": "117889",
+            "I_DEC_MDOENDT1": "58420"
+        }
+    ],
+    "af2_sat_anexos_sat_ser_pro_mon_pen": [
+        {
+            "N_DEC_TDIEPDO1": "37",
+            "D_DEC_CDOENDC1": "117889",
+            "I_DEC_MDOENDT1": "58420"
+        }
+    ],
+    "AF2_SAT_ACT_EMP_PRE_PRO12": [
+        {
+            "D_DEC_PERIODO1": "001",
+            "I_DEC_MONTO001": "26222"
+        },
+        {
+            "D_DEC_PERIODO1": "002",
+            "I_DEC_MONTO001": "14183"
+        },
+        {
+            "D_DEC_PERIODO1": "003",
+            "I_DEC_MONTO001": "35944"
+        },
+        {
+            "D_DEC_PERIODO1": "004",
+            "I_DEC_MONTO001": "7895"
+        },
+        {
+            "D_DEC_PERIODO1": "005",
+            "I_DEC_MONTO001": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "006",
+            "I_DEC_MONTO001": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "007",
+            "I_DEC_MONTO001": "0"
+        }
+    ],
+    "AF2_SAT_ACT_EMP_PRE_PRO13": [
+        {
+            "D_DEC_PERIODO1": "001",
+            "I_DEC_MONTO001": "8622"
+        },
+        {
+            "D_DEC_PERIODO1": "002",
+            "I_DEC_MONTO001": "4598"
+        },
+        {
+            "D_DEC_PERIODO1": "003",
+            "I_DEC_MONTO001": "6362"
+        },
+        {
+            "D_DEC_PERIODO1": "004",
+            "I_DEC_MONTO001": "15614"
+        },
+        {
+            "D_DEC_PERIODO1": "005",
+            "I_DEC_MONTO001": "9062"
+        },
+        {
+            "D_DEC_PERIODO1": "006",
+            "I_DEC_MONTO001": "6758"
+        },
+        {
+            "D_DEC_PERIODO1": "007",
+            "I_DEC_MONTO001": "7404"
+        }
+    ],
+    "AF2_SAT_ACT_EMP_PRE_PRO14": [
+        {
+            "D_DEC_PERIODO1": "001",
+            "I_DEC_MONTO001": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "002",
+            "I_DEC_MONTO001": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "003",
+            "I_DEC_MONTO001": "611"
+        },
+        {
+            "D_DEC_PERIODO1": "004",
+            "I_DEC_MONTO001": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "005",
+            "I_DEC_MONTO001": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "006",
+            "I_DEC_MONTO001": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "007",
+            "I_DEC_MONTO001": "0"
+        }
+    ],
+    "AF2_SAT_ACT_EMP_PRE_PRO15": [
+        {
+            "D_DEC_PERIODO1": "001",
+            "I_DEC_MONTO001": "2622"
+        },
+        {
+            "D_DEC_PERIODO1": "002",
+            "I_DEC_MONTO001": "1418"
+        },
+        {
+            "D_DEC_PERIODO1": "003",
+            "I_DEC_MONTO001": "3594"
+        },
+        {
+            "D_DEC_PERIODO1": "004",
+            "I_DEC_MONTO001": "789"
+        },
+        {
+            "D_DEC_PERIODO1": "005",
+            "I_DEC_MONTO001": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "006",
+            "I_DEC_MONTO001": "0"
+        },
+        {
+            "D_DEC_PERIODO1": "007",
+            "I_DEC_MONTO001": "0"
+        }
+    ],
+    "DD_DEC_DIDCEMI3": {},
+    "af2_sat_anexos_sat_ded_per": [
+        {
+            "D_DEC_REPPSFM1": "PPL961114GZ1",
+            "D_DEC_DPRREEF1": "OIPP810121L39",
+            "D_DEC_DPUEEUD1": "C9392C84-6FDC-4710-B237-8982933338E5",
+            "D_DEC_DBAETNO1": "0",
+            "D_DEC_TDIEPDO1": "L",
+            "I_DEC_MDLDPOE1": "0",
+            "D_DEC_CONCEPT1": "TADALAFIL TAB 20MG C/1 TAEDALLIS",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "1/29/2019 8:07:37 AM",
+            "D_DEC_DPFPEEO1": "28 Tarjeta de debito",
+            "D_DEC_DPNEEID1": "0",
+            "D_DEC_NDRSEOE1": "Pharma Plus SA de CV",
+            "I_DEC_RGEEAFC1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "51212400",
+            "N_DEC_DPEEEJD1": "2019",
+            "D_DEC_MCLOLMT1": "A2|A3|A6",
+            "D_DEC_TDIIENP1": "L",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "PPL961114GZ1",
+            "D_DEC_DPRREEF1": "OIPP810121L39",
+            "D_DEC_DPUEEUD1": "C9392C84-6FDC-4710-B237-8982933338E5",
+            "D_DEC_DBAETNO1": "0",
+            "D_DEC_TDIEPDO1": "L",
+            "I_DEC_MDLDPOE1": "0",
+            "D_DEC_CONCEPT1": "TADALAFIL TAB 20MG C/1 TAEDALLIS",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "1/29/2019 8:07:37 AM",
+            "D_DEC_DPFPEEO1": "28 Tarjeta de debito",
+            "D_DEC_DPNEEID1": "0",
+            "D_DEC_NDRSEOE1": "Pharma Plus SA de CV",
+            "I_DEC_RGEEAFC1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "51212400",
+            "N_DEC_DPEEEJD1": "2019",
+            "D_DEC_MCLOLMT1": "A2|A3|A6",
+            "D_DEC_TDIIENP1": "L",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "PPL961114GZ1",
+            "D_DEC_DPRREEF1": "OIPP810121L39",
+            "D_DEC_DPUEEUD1": "4894F663-C380-4F94-AB82-73AEE8BC56BA",
+            "D_DEC_DBAETNO1": "0",
+            "D_DEC_TDIEPDO1": "L",
+            "I_DEC_MDLDPOE1": "0",
+            "D_DEC_CONCEPT1": "TADALAFIL TAB 20MG C/1 TAEDALLIS",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "1/29/2019 9:47:33 AM",
+            "D_DEC_DPFPEEO1": "28 Tarjeta de debito",
+            "D_DEC_DPNEEID1": "0",
+            "D_DEC_NDRSEOE1": "Pharma Plus SA de CV",
+            "I_DEC_RGEEAFC1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "51212400",
+            "N_DEC_DPEEEJD1": "2019",
+            "D_DEC_MCLOLMT1": "A2|A3|A6",
+            "D_DEC_TDIIENP1": "L",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "PPL961114GZ1",
+            "D_DEC_DPRREEF1": "OIPP810121L39",
+            "D_DEC_DPUEEUD1": "4894F663-C380-4F94-AB82-73AEE8BC56BA",
+            "D_DEC_DBAETNO1": "0",
+            "D_DEC_TDIEPDO1": "L",
+            "I_DEC_MDLDPOE1": "0",
+            "D_DEC_CONCEPT1": "TADALAFIL TAB 20MG C/1 TAEDALLIS",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "1/29/2019 9:47:33 AM",
+            "D_DEC_DPFPEEO1": "28 Tarjeta de debito",
+            "D_DEC_DPNEEID1": "0",
+            "D_DEC_NDRSEOE1": "Pharma Plus SA de CV",
+            "I_DEC_RGEEAFC1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "51212400",
+            "N_DEC_DPEEEJD1": "2019",
+            "D_DEC_MCLOLMT1": "A2|A3|A6",
+            "D_DEC_TDIIENP1": "L",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "TSO991022PB6",
+            "D_DEC_DPRREEF1": "OIPP810121L39",
+            "D_DEC_DPUEEUD1": "DE644161-D854-40C1-A6E1-A3DB742D643F",
+            "D_DEC_DBAETNO1": "0",
+            "D_DEC_TDIEPDO1": "L",
+            "I_DEC_MDLDPOE1": "0",
+            "D_DEC_CONCEPT1": "CREMA DENTAL COLGATE MFP 100ML",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "4/15/2019 10:31:18 AM",
+            "D_DEC_DPFPEEO1": "28 Tarjeta de debito",
+            "D_DEC_DPNEEID1": "0",
+            "D_DEC_NDRSEOE1": "TIENDAS SORIANA S.A. DE C.V",
+            "I_DEC_RGEEAFC1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "53131502",
+            "N_DEC_DPEEEJD1": "2019",
+            "D_DEC_MCLOLMT1": "A1|A2|A6",
+            "D_DEC_TDIIENP1": "L",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "LGA1506234A7",
+            "D_DEC_DPRREEF1": "OIPP810121L39",
+            "D_DEC_DPUEEUD1": "A56365FD-A61C-4CAF-BCD7-DB23513D3C78",
+            "D_DEC_DBAETNO1": "0",
+            "D_DEC_TDIEPDO1": "A",
+            "I_DEC_MDLDPOE1": "1594.99",
+            "D_DEC_CONCEPT1": "GUILLERMO - Supernova",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "6/4/2019 3:19:42 PM",
+            "D_DEC_DPFPEEO1": "04 Tarjeta de crédito",
+            "D_DEC_DPNEEID1": "0",
+            "D_DEC_NDRSEOE1": "Lentes Galileo SAPI de CV",
+            "I_DEC_RGEEAFC1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "42142901",
+            "N_DEC_DPEEEJD1": "2019",
+            "D_DEC_MCLOLMT1": "A1|A6",
+            "D_DEC_TDIIENP1": "A",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "LGA1506234A7",
+            "D_DEC_DPRREEF1": "OIPP810121L39",
+            "D_DEC_DPUEEUD1": "A56365FD-A61C-4CAF-BCD7-DB23513D3C78",
+            "D_DEC_DBAETNO1": "0",
+            "D_DEC_TDIEPDO1": "A",
+            "I_DEC_MDLDPOE1": "0.01",
+            "D_DEC_CONCEPT1": "Micas - Con Graduación (T) - Se tomará receta en tienda",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "6/4/2019 3:19:42 PM",
+            "D_DEC_DPFPEEO1": "04 Tarjeta de crédito",
+            "D_DEC_DPNEEID1": "0",
+            "D_DEC_NDRSEOE1": "Lentes Galileo SAPI de CV",
+            "I_DEC_RGEEAFC1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "42142902",
+            "N_DEC_DPEEEJD1": "2019",
+            "D_DEC_MCLOLMT1": "A6",
+            "D_DEC_TDIIENP1": "A",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "POP591001E92",
+            "D_DEC_DPRREEF1": "OIPP810121L39",
+            "D_DEC_DPUEEUD1": "E5BB45E9-B4F9-49D5-8139-8BE35E8330BB",
+            "D_DEC_DBAETNO1": "0",
+            "D_DEC_TDIEPDO1": "A",
+            "I_DEC_MDLDPOE1": "690",
+            "D_DEC_CONCEPT1": "Monturas para anteojos",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "6/6/2019 5:11:38 PM",
+            "D_DEC_DPFPEEO1": "04 Tarjeta de crédito",
+            "D_DEC_DPNEEID1": "0",
+            "D_DEC_NDRSEOE1": "PRECISION OPTICA SA",
+            "I_DEC_RGEEAFC1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "42142903",
+            "N_DEC_DPEEEJD1": "2019",
+            "D_DEC_MCLOLMT1": "A1|A6",
+            "D_DEC_TDIIENP1": "A",
+            "D_DEC_PPRROEV1": "1"
+        },
+        {
+            "D_DEC_REPPSFM1": "POP591001E92",
+            "D_DEC_DPRREEF1": "OIPP810121L39",
+            "D_DEC_DPUEEUD1": "E5BB45E9-B4F9-49D5-8139-8BE35E8330BB",
+            "D_DEC_DBAETNO1": "0",
+            "D_DEC_TDIEPDO1": "A",
+            "I_DEC_MDLDPOE1": "868",
+            "D_DEC_CONCEPT1": "Lentes para anteojos PABLO DAVID ONTIVERAS PLAZA OD +0.50 -1.75 OI +0.25 -0.75",
+            "I_DEC_CDFREIE1": "0",
+            "F_DEC_FEEMCIH1": "6/6/2019 5:11:38 PM",
+            "D_DEC_DPFPEEO1": "04 Tarjeta de crédito",
+            "D_DEC_DPNEEID1": "0",
+            "D_DEC_NDRSEOE1": "PRECISION OPTICA SA",
+            "I_DEC_RGEEAFC1": "0",
+            "N_DEC_ECHSRIE1": "False",
+            "N_DEC_DPTCEEI1": "I",
+            "D_DEC_CCLOANV1": "42142902",
+            "N_DEC_DPEEEJD1": "2019",
+            "D_DEC_MCLOLMT1": "A6",
+            "D_DEC_TDIIENP1": "A",
+            "D_DEC_PPRROEV1": "1"
+        }
+    ]
+}

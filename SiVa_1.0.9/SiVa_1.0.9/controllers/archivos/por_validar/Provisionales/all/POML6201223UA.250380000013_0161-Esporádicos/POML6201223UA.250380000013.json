@@ -1,0 +1,199 @@
+{
+  "IdentiDecla": {
+    "rfcdeclarante": "POML6201223UA",
+    "rolvigente": "1|9|44|300155|300250|300476|300681|300682|",
+    "regvigente": "612|",
+    "oblvigente": "3|9|20|26|27|31|33|203|597|",
+    "verformu": "13",
+    "fechapresentacion": "2025-01-10T10:58:37",
+    "ejercicio": 2024,
+    "numerooperacion": 250380000013,
+    "iddeclaracion": "669C8FAA-0E75-4784-9C87-C6A377BD5BD5",
+    "metodoautenticacion": "cpn/uat/contrib/contrasena",
+    "bo_id": "68401987350282269539388007561",
+    "esquemajsondwh": "1.0.0.26"
+  },
+  "Contribuyente": {
+    "tipopersona": "F",
+    "apellidopaterno": "SANTOS",
+    "apellidomaterno": "LORENZO",
+    "nombre": "CARLOS ANGEL",
+    "iddescon": "O-003",
+    "descdescon": "QUINTANA ROO 2",
+    "idactprep": "907",
+    "descactprep": "Otros servicios de apoyo a los negocios",
+    "identfed": "23",
+    "descentfed": "QUINTANA ROO",
+    "idmunic": "23-005",
+    "descmunic": "BENITO JUAREZ",
+    "codigopostal": "77535",
+    "reghistorico": "612|",
+    "oblhistorica": "16|588|589|"
+  },
+  "Declaracion": {
+    "idperiodo": "099",
+    "descperiodo": "Sin Periodo",
+    "idperiodic": "N",
+    "descperiodic": "9-Sin período",
+    "idtipodecla": "002",
+    "desctipodecla": "Complementaria",
+    "idtipocomplem": "003",
+    "desctipocomplem": "Modificación de Obligaciones",
+    "fechavencimiento": "2024-02-09",
+    "totalpagar": 59,
+    "lineacaptura": "04250000870044728230",
+    "fechavencilc": "2025-01-09T00:00:00",
+    "mediopresenta": "Internet ",
+    "firma": "false",
+    "fechadecausacion": "2024-01-18T06:00:00"
+  },
+  "AdminDeclaracion": [
+    {
+      "idconceptopago": "0161",
+      "descconceptopago": "ISR Personas físicas Actividad empresarial y profesional",
+      "impoconceptopago": 59,
+      "Concepto": {
+        "Pago": {
+          "acargo": 50,
+          "parteactualizada": 1,
+          "recargos": 8,
+          "totalcontribuciones": 59,
+          "tienescompensacionesporaplicar": 2,
+          "tienesestimulosporaplicar": 2,
+          "totalaplicaciones": 0,
+          "realizoult48pagoconcepto": 2,
+          "cantidadacargo": 59,
+          "optapagarparcialidades": 0,
+          "cantidadapagar": 59,
+          "tiposolicitud": 0,
+          "DetMontoPagadoLineaCapturaADR": [],
+          "totalmontoantadrs": 0,
+          "deseaagregarlineanoconciderada": 0
+        },
+        "Compensaciones": [],
+        "Estimulos": [],
+        "Deducciones": {
+          "DetComprasYGastosDelPeriodo": {
+            "comprasygastosfacturados": 0,
+            "devolucionesdtosbonificaciones": 0,
+            "comprasygastosmes": 0,
+            "factegresoscomprasygastosmes": 0,
+            "comprasygastosdeduciblesmes": 0,
+            "comprasygastosmesesantpagadas": 0,
+            "comprasygastosperiodo": 0,
+            "DetComprasYGastosFacturados": {},
+            "DetDescBoniFacturadasMes": {
+              "descuentofacturastipoingreso": 0,
+              "subtotaldtofacturasegreso": 0,
+              "devolucionesdtosbonificacionesmes": 0
+            },
+            "DetFacturasEgresosRecibidas": {
+              "factsegresoscomprasygastosmes": 0
+            },
+            "DetComprasYGastosMeses": {},
+            "DetInversionesPeriodo": {
+              "inversionesmesesantpagadas": 0,
+              "deduccionesinversionesperiodo": 0
+            },
+            "DetEstimulos": {}
+          },
+          "DetGastosNomNoConsEnPrellenado": [
+            {
+              "gastonominamesantedeclapagadas": 0
+            }
+          ],
+          "tienesfaciliadmestiaplicar": 0,
+          "DetDeduccionesInversiones": []
+        },
+        "DeterminacionRCPF": {
+          "ImpuestoCargo": 50,
+          "DetIngresosCobradosYAmparados": {
+            "DetIngresosCobradosYAmparadosTot": []
+          },
+          "DetISRRetenidoPF": {
+            "DetISRRetenidoTot": [],
+            "totalisrretenido": 0
+          },
+          "DetPagosProvisionalesAnt": {
+            "DetPagosProvisionalesAnterioridad": [],
+            "pagosprovefectconantsolopagadas": 0
+          },
+          "DetEstimulosISRCausado": {
+            "detestimulosisrcausado": [],
+            "totalporaplicarenelperiodo": 0
+          },
+          "DetParticipacionesTrabajadores": {
+            "montolimiteptu": 0,
+            "ptupagadomesant": 0,
+            "ptupagadomes": 0,
+            "ptuacumuladaaaplicarenelperiodo": 0,
+            "ptuacumuladaenperiodos": []
+          },
+          "totalptudisminuir": 0,
+          "tieneestimuloaplicar": "0",
+          "impuestocausadotasa16": 0,
+          "impacargoestimacreditablemenosprov": 0,
+          "DetEstimuloISRRegionFronteriza": {
+            "impuestocausado": 0,
+            "tercerparteimpuestocausado": 0,
+            "proporcioningresosregionfronteriza": "0",
+            "estimuloisrcausadoregionfronteriza": 0
+          },
+          "DetPerdidasFiscalesEjerciciosAnterioresPendientesAplicar": {
+            "MontoLimPerdidaAplica": 0,
+            "PerdidaActualAplicaPeriodo": 0
+          },
+          "DetPagosProvRC": [],
+          "DetDeduccionInmediataInversionesPF": [],
+          "totalimpuestoretenido": 50,
+          "DetPagosProvisionalesEfectuadosPeriodosAnteriores": {
+            "DetPagosProvEfecPerAntISRPF": []
+          }
+        },
+        "IngresosRCPF": {
+          "IngresosCobradosMes": 12500,
+          "DetIngresosFacturados": {
+            "DetIngresosFacturadosMes": []
+          },
+          "DetIngresosCobradosMes": [],
+          "DetTotalIngresosPeriodo": [
+            {
+              "ingresosmesesantregionfronteriza": 0,
+              "ingresosmesregionfronteriza": 0,
+              "ingresosregionfronteriza1": 0,
+              "ingresosmesesantnoregionfronteriza": 0,
+              "ingresosmesnoregionfronteriza": 0,
+              "ingresosnosujetosaregionfronteriza": 0,
+              "totalingresos1": 0,
+              "ingresosregionfronteriza2": 0,
+              "totalingresos2": 0,
+              "proporcioningresosregfronteriza": "0"
+            }
+          ],
+          "DetIngresosNominales": {},
+          "Tusingfueobtcoposoccon": 0,
+          "Tieingadisdelmes": 0,
+          "Tieingadicdelmes": 0,
+          "DetIngresosExentos": {
+            "ingexemesant": 0,
+            "inguniperi": 0,
+            "DetIngresosExentosMes": [
+              {}
+            ]
+          },
+          "DetTotalesIngresosCobradosMes": {},
+          "DetIngresosMesesAnt": {
+            "ingmesesantexclusivosdentrorf": 0,
+            "ingmesesantnosujetosestimulorf": 0,
+            "ingmesesantsolodeclapagadas": 0,
+            "DetIngresosMesesAnteriores": []
+          },
+          "DetIngresosMes": []
+        },
+        "DatosAdicionalesRCPF": {
+          "DetDatosAdicionalesRCPF": []
+        }
+      }
+    }
+  ]
+}

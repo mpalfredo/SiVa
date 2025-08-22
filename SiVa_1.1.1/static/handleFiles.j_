@@ -1,0 +1,9 @@
+function handleFiles(files) {
+  for (let i = 0; i < files.length; i++) {
+    const file = files[i];
+    console.log("Nombre del archivo:", file.name);
+    console.log("Tamaño del archivo:", file.size);
+    console.log("Tipo del archivo:", file.type);
+    // Aquí puedes agregar código para subir los archivos al servidor
+  }
+}

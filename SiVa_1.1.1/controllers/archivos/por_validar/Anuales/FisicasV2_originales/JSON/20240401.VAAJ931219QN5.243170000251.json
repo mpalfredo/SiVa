@@ -1,0 +1,435 @@
+{
+    "af2_sat_anexos_didcemi_1": {
+        "D_DEC_ADDENDA2": "Addenda",
+        "D_DEC_CEOLRER1": "shusteer58@hotmail.com",
+        "D_DEC_CMPLERA1": "WEB",
+        "D_DEC_CPOONPO1": "300031|ASALARIADO|R|2015-04-01|2099-12-31;300155|CONTRIBUYENTE PF|SR|2015-09-06|2999-12-31;300511|INSC. DIRECTA PF|R|2015-09-05|;300688|SIMPLIFICADO DE CONFIANZA PF|R|2022-01-02|2099-12-31",
+        "D_DEC_DAGERES1": "A",
+        "D_DEC_EMSOVI01": "0",
+        "D_DEC_IDAPLIC1": "1",
+        "D_DEC_IDAREAG1": "1",
+        "D_DEC_NAOPMLB1": "ANUAL INTERNET",
+        "D_DEC_TFIOTRU1": "PERSONAS FÍSICAS",
+        "N_DEC_CALCULO1": 0,
+        "N_DEC_DDTCACE1": 0,
+        "N_DEC_FLUIENR1": 0,
+        "N_DEC_PRECARG1": 1,
+        "N_DEC_TPCIRFE1": 1,
+        "N_DEC_TPCIRLE1": 1,
+        "N_DEC_TPIIRNE1": 1,
+        "N_DEC_TPPIRRE1": 0,
+        "N_DEC_TPSIRAE1": 1
+    },
+    "af2_sat_anexos_didcemi_2": {
+        "I_DEC_SPCCEAA1": "0",
+        "I_DEC_SPCPEAA1": "0",
+        "I_DEC_SPFEAAC1": "502",
+        "I_DEC_SPTAEAO1": "0",
+        "I_DEC_SPTCEAO1": "0",
+        "N_DEC_NPUAMRE1": 0,
+        "N_DEC_OIPTUEJ1A": 2,
+        "N_DEC_OPPPAAT1": 0,
+        "N_DEC_TODIDIT1B": 2,
+        "N_DEC_URUHPCS1": 0
+    },
+    "af2_sat_anexos_didcemi_3": {
+        "N_DEC_OIPDPSB1": 2,
+        "N_DEC_TIOCSCS1": 2
+    },
+    "af2_sat_anexos_didcemi3B": {
+        "B_DEC_TEFRQII1": 2,
+        "D_DEC_EOPISSF1": "2",
+        "I_DEC_TIEOSNT1": "0",
+        "I_DEC_TIESSOS1": "0"
+    },
+    "af2_sat_anexos_sat_ded_per": [],
+    "DD_DEC_DIDCEMI3": {
+        "I_DEC_SARSSAU1": "0",
+        "I_DEC_SDSAUIU1": "0"
+    },
+    "ing_cobrados_devol_resico": [
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "ingresosFacturados": "7000",
+            "mesIngresos": "01"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "ingresosFacturados": "13421",
+            "mesIngresos": "02"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "ingresosFacturados": "25492",
+            "mesIngresos": "03"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "ingresosFacturados": "12647",
+            "mesIngresos": "04"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "ingresosFacturados": "27257",
+            "mesIngresos": "05"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "ingresosFacturados": "11962",
+            "mesIngresos": "06"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "ingresosFacturados": "10666",
+            "mesIngresos": "07"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "ingresosFacturados": "32527",
+            "mesIngresos": "08"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "ingresosFacturados": "22199",
+            "mesIngresos": "09"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "ingresosFacturados": "45188",
+            "mesIngresos": "10"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "ingresosFacturados": "9000",
+            "mesIngresos": "11"
+        },
+        {
+            "ConcepIngresosEfect": "Total de ingresos efectivamente cobrados",
+            "ingresosFacturados": "9000",
+            "mesIngresos": "12"
+        }
+    ],
+    "ing_dismin_adic_act_resico": [
+        {
+            "ConceptoIngreso": "Total de ingresos percibidos por la actividad",
+            "descripcionConcepto": "Servicios profesionales (Honorarios)",
+            "idConceptoIngreso": "CIRE02",
+            "importeIngreso": "226359"
+        }
+    ],
+    "ing_prec_prov_resico": [
+        {
+            "estatusPagosProvisionales": "ED04",
+            "fechaPresentaPagosProvisionales": "2023-02-09T06:00:00",
+            "mesPagosProvisionales": "001",
+            "MontoPagosProvisionales": "0",
+            "numOperaUltiDeclaVigente": "230380159095"
+        },
+        {
+            "estatusPagosProvisionales": "ED04",
+            "fechaPresentaPagosProvisionales": "2023-03-28T06:00:00",
+            "mesPagosProvisionales": "002",
+            "MontoPagosProvisionales": "0",
+            "numOperaUltiDeclaVigente": "230540056075"
+        },
+        {
+            "estatusPagosProvisionales": "ED02",
+            "fechaPresentaPagosProvisionales": "2023-04-24T05:00:00",
+            "mesPagosProvisionales": "003",
+            "MontoPagosProvisionales": "280",
+            "numOperaUltiDeclaVigente": "230560124662"
+        },
+        {
+            "estatusPagosProvisionales": "ED04",
+            "fechaPresentaPagosProvisionales": "2023-05-24T05:00:00",
+            "mesPagosProvisionales": "004",
+            "MontoPagosProvisionales": "0",
+            "numOperaUltiDeclaVigente": "230320131462"
+        },
+        {
+            "estatusPagosProvisionales": "ED04",
+            "fechaPresentaPagosProvisionales": "2023-06-27T05:00:00",
+            "mesPagosProvisionales": "005",
+            "MontoPagosProvisionales": "0",
+            "numOperaUltiDeclaVigente": "230600186969"
+        },
+        {
+            "estatusPagosProvisionales": "ED03",
+            "mesPagosProvisionales": "006"
+        },
+        {
+            "estatusPagosProvisionales": "ED04",
+            "fechaPresentaPagosProvisionales": "2023-09-25T05:00:00",
+            "mesPagosProvisionales": "007",
+            "MontoPagosProvisionales": "0",
+            "numOperaUltiDeclaVigente": "230421268121"
+        },
+        {
+            "estatusPagosProvisionales": "ED04",
+            "fechaPresentaPagosProvisionales": "2023-09-25T05:00:00",
+            "mesPagosProvisionales": "008",
+            "MontoPagosProvisionales": "0",
+            "numOperaUltiDeclaVigente": "230460137579"
+        },
+        {
+            "estatusPagosProvisionales": "ED03",
+            "mesPagosProvisionales": "009"
+        },
+        {
+            "estatusPagosProvisionales": "ED03",
+            "mesPagosProvisionales": "010"
+        },
+        {
+            "estatusPagosProvisionales": "ED04",
+            "fechaPresentaPagosProvisionales": "2024-01-02T06:00:00",
+            "mesPagosProvisionales": "011",
+            "MontoPagosProvisionales": "0",
+            "numOperaUltiDeclaVigente": "240040000792"
+        },
+        {
+            "estatusPagosProvisionales": "ED04",
+            "fechaPresentaPagosProvisionales": "2024-01-24T06:00:00",
+            "mesPagosProvisionales": "012",
+            "MontoPagosProvisionales": "0",
+            "numOperaUltiDeclaVigente": "240540017635"
+        }
+    ],
+    "ing_sect_primario_resico": [
+        {
+            "conceptoIngPrimario": "Ingresos por Actividades agrícolas, ganaderas, silvícolas y pesqueras",
+            "montoIngresos": "0",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por Servicios profesionales (Honorarios) y por el uso o goce temporal de bienes",
+            "montoIngresos": "226359",
+            "porcentajeIngresos": "100"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos identificados en pagos provisionales efectuados por el contribuyente",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por enajenación de bienes no afectos a su actividad",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por adquisición de bienes",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por Intereses",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por premios",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por dividendos",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por demás ingresos",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por REFIPRES",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por enajenación de acciones en bolsa de valores",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos totales",
+            "montoIngresos": "100",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Sueldos, salarios, asimilados e Indemnizaciones (se excluyen jubilaciones).",
+            "montoIngresos": "0",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por intereses",
+            "montoIngresos": "0",
+            "porcentajeIngresos": "0"
+        },
+        {
+            "conceptoIngPrimario": "Ingresos por dividendos",
+            "montoIngresos": "0",
+            "porcentajeIngresos": "0"
+        }
+    ],
+    "isr_prec_anual_pm_resico": [
+        {
+            "montoIngreso": "130518",
+            "montoIsrRetenido": "1568",
+            "rfcREetenedorIsrPerMor": "SFS720322LF4"
+        },
+        {
+            "montoIngreso": "95841",
+            "montoIsrRetenido": "1198",
+            "rfcREetenedorIsrPerMor": "FCA7908209X7"
+        }
+    ],
+    "isr_prec_cfdi_resico": [
+        {
+            "facturadosIsrRetCfdi": "87",
+            "mesIsrRetCfdi": "01"
+        },
+        {
+            "facturadosIsrRetCfdi": "168",
+            "mesIsrRetCfdi": "02"
+        },
+        {
+            "facturadosIsrRetCfdi": "319",
+            "mesIsrRetCfdi": "03"
+        },
+        {
+            "facturadosIsrRetCfdi": "158",
+            "mesIsrRetCfdi": "04"
+        },
+        {
+            "facturadosIsrRetCfdi": "341",
+            "mesIsrRetCfdi": "05"
+        },
+        {
+            "facturadosIsrRetCfdi": "87",
+            "mesIsrRetCfdi": "06"
+        },
+        {
+            "facturadosIsrRetCfdi": "133",
+            "mesIsrRetCfdi": "07"
+        },
+        {
+            "facturadosIsrRetCfdi": "407",
+            "mesIsrRetCfdi": "08"
+        },
+        {
+            "facturadosIsrRetCfdi": "277",
+            "mesIsrRetCfdi": "09"
+        },
+        {
+            "facturadosIsrRetCfdi": "565",
+            "mesIsrRetCfdi": "10"
+        },
+        {
+            "facturadosIsrRetCfdi": "112",
+            "mesIsrRetCfdi": "11"
+        },
+        {
+            "facturadosIsrRetCfdi": "112",
+            "mesIsrRetCfdi": "12"
+        }
+    ],
+    "sat_decla_resico": {
+        "aFavor": "502",
+        "baseGravable": "226359",
+        "baseGravableDeter": "226359",
+        "boId": "3030595111158364746985371288368",
+        "claseDecla": "002",
+        "D_DEC_AMPAETL1": "AGUILAR",
+        "D_DEC_APPAETL1": "VAZQUEZ",
+        "d_dec_eopissf1": "2",
+        "D_DEC_NOMBRE01": "JUAN CARLOS",
+        "descDevBonificaAmpComp": "0",
+        "descDevoBonifica": "0",
+        "descPeriodic": "8-Del Ejercicio",
+        "descPeriodo": "Del Ejercicio",
+        "descTipoDecla": "Normal",
+        "ejercicio": 2023,
+        "fechaPresentacion": "2024-04-01T06:12:12",
+        "idDescon": "O-060",
+        "idEntFed": "07",
+        "idPeriodic": "Y",
+        "idPeriodoDecla": "035",
+        "idTipoComplem": "0",
+        "idTipoDecla": "001",
+        "ingActividad": "226359",
+        "ingExenActivAgriGanSilvePes": "0",
+        "ingresosGravables": "226359",
+        "ingresosGravados": "226359",
+        "ingresosObtenidosCopro": "2",
+        "isrCausado": "2264",
+        "isrRetAdicionar": "0",
+        "isrRetenido": "2766",
+        "isrRetPersonasMorales": "2766",
+        "limitePerdidasApl": "226359",
+        "manifiestoBajoProtesta": "1",
+        "montoDetallar": "0",
+        "montoDetallarIsrPerMor": "0",
+        "montoRemanenteApl": "226359",
+        "nombreBanco": "072",
+        "numCuentaClabeSel": "072100002839943442",
+        "numeroOperacion": 243170000251,
+        "optasInformarPTU": "2",
+        "pagosMensuales": "0",
+        "pagosMensualesDeter": "0",
+        "queDeseasHacerSaldoFavor": "2",
+        "rfcDeclarante": "VAAJ931219QN5",
+        "subsidioDispAplica": "0",
+        "subsidioRentSuelSalAsim": "0",
+        "tasaAplicable": "1.00",
+        "tienesEsquemasFiscalesReporta": "2",
+        "tipoAutentica": "sat/ciec/contribuyentes/uri",
+        "tipoPersona": "F",
+        "tngresosEfect": "226359",
+        "totalActividad": "226359",
+        "totalDescDevBonAmpComp": "0",
+        "totalImpRetProvenCfdi": "2766",
+        "totalIngresos": "226359",
+        "totalIngresosAmpComFis": "226359",
+        "totalIsrRetCfdi": "2766",
+        "totalIsrRetEfectAcred": "2766",
+        "totalIsrRetPerMor": "2766",
+        "totalPagosMenEfectAcred": "0",
+        "totalPagosMensDeclaPag": "0",
+        "totalPagosProvisionales": "280",
+        "totalPerdidaFiscalAct": "0",
+        "totalPerdidasPendAplicar": "0",
+        "verReforma": 11
+    },
+    "sat_declaracion_contribuyente": {
+        "B_DEC_MLDELED1": "E",
+        "B_DEC_TPIEPRO1": "F",
+        "D_DEC_ALSC0001": "O-060",
+        "D_DEC_AMPAETL1": "AGUILAR",
+        "D_DEC_APPAETL1": "VAZQUEZ",
+        "D_DEC_BO_ID001": "3030595111158364746985371288368",
+        "D_DEC_CCDLLEA1": "002",
+        "D_DEC_CPLEARV1": "035",
+        "D_DEC_CPLEARV2": "Y",
+        "D_DEC_CRPLERA1": "44",
+        "D_DEC_CTCLIOA1": "0",
+        "D_DEC_CTDLIEA1": "001",
+        "D_DEC_CUCLSOA1": "VAAJ931219QN5",
+        "D_DEC_CUILSNA1": "VAAJ931219QN5",
+        "D_DEC_CURP0001": "VAAJ931219HCSZGN02",
+        "D_DEC_DPEESRC1": "8-Del Ejercicio",
+        "D_DEC_DPEESRC2": "Del Ejercicio",
+        "D_DEC_DRPEERS1": "Régimen Simplificado de Confianza",
+        "D_DEC_DTDEIES1": "Normal",
+        "D_DEC_EFNETDI1": "07",
+        "D_DEC_EPSROP01": "0",
+        "D_DEC_IDDECLA1": "C340EA5E-937A-49E5-BE07-3827332E8C79",
+        "D_DEC_IDPDEAC1": "00000000-0000-0000-0000-000000000000",
+        "D_DEC_IDRDEAC1": "00000000-0000-0000-0000-000000000000",
+        "D_DEC_LOPIEBA1": 2,
+        "D_DEC_MAEUDTI1": "sat/ciec/contribuyentes/uri",
+        "D_DEC_MPDERED1": "Internet",
+        "D_DEC_NOMBRE01": "JUAN CARLOS",
+        "D_DEC_RFCEEOG1": "VAAJ931219QN5",
+        "D_DEC_SDEILGL1": "LgSmrIpFQmyTaTa9KE7w+y9KpVJ1qLfipnaC8puep00Zc5M/dvLz9yy11bqcBJQ0YmlGSoG8CTnH1omsSOTZyo5XKBBBv72+ia5v2ZNrssB7QAFLer9LDfDsHi92Iye6sw67imvRZ1ekvOGC6ng0sQZnq3TYEUfy2UI5B5iM78tVBuVWoiRzyGMXAK44BPhZtUoStR+g+cfVlJ+QuGyQ2m9GlFzdcOBAe+T2oCpmoUiYHCZSCiR/353tEsxnpL6Ub1Y92o25RxfU3x6DiL41EAh1+EeZA5ZKiCxRU4R9K7GnpRLB/TCwJ+JKKFickrQXO8ZN+9ujSF/Kp+e8apbV5w==",
+        "F_DEC_FCDEOEC1": "2024-04-01T00:00:00",
+        "F_DEC_FCEACUH1": "2024-04-30T05:00:00",
+        "F_DEC_FPDEREC1": "2024-04-01T06:12:12",
+        "F_DEC_FVDEEEC1": "2024-04-30T05:00:00",
+        "I_DEC_TPOATGA1": "0",
+        "N_DEC_EJERCIC1": 2023,
+        "N_DEC_FDIERCM1": 0,
+        "N_DEC_NOUPMEE1": "243170000251",
+        "N_DEC_VREERFS1": 11
+    }
+}
