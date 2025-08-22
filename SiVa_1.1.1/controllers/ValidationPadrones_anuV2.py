@@ -28,7 +28,7 @@ class ValidationPadrones_anuV2:
                 |--- Declaracion_persona3.xml
         |--- [...] # Más subcarpetas
 
-    AÚN NO ESTÁ LISTA PARA USARSE, faltan archivos XML nativos.
+    PENDIENTE: Faltan archivos XML nativos de DAPFV2.
 
     """
 
@@ -38,6 +38,15 @@ class ValidationPadrones_anuV2:
         :param xml_json_dir_path: Path al directorio con subcarpetas que contengan los archivos de interés (duplas XML-JSON).
         :param output_path: Path al directorio de salida.
         """
+        if not isinstance(tipo_persona, str):
+            raise TypeError("El tipo de persona debe ser una cadena (str)")
+
+            # normalizamos a mayúscula
+        tipo_persona = tipo_persona.upper()
+
+        if tipo_persona not in ("F", "M"):
+            raise ValueError("El tipo de persona debe ser 'F' o 'M' (mayúscula o minúscula)")
+
         self.tipo_persona = tipo_persona
         self.xml_json_dir_path = xml_json_dir_path
         self.output_path = output_path
@@ -78,13 +87,13 @@ class ValidationPadrones_anuV2:
 if __name__ == "__main__":
 
     # --- Configuración de tipo de persona ---
-    tipo_persona = "F"
+    tipo_persona = "M"
 
     # --- Configuración de rutas: XML y JSON ---
-    xml_json_dir_path  = r"archivos/por_validar/FisicasV2"
+    xml_json_dir_path  = r"archivos/por_validar/Anuales/MoralesV2"
 
     # --- Configuración de ruta de archivos de salida: JSON generado y XLSX ---
-    output_path = os.path.join(downloads_path(), "output_prueba_PF")
+    output_path = os.path.join(downloads_path(), "output_DAPMV2_padrones")
     os.makedirs(output_path, exist_ok=True)
 
     # --- Ejecución del flujo completo ---

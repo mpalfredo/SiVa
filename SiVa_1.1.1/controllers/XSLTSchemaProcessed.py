@@ -9,11 +9,11 @@ class XSLTProcessed:
     """
     # Personas Físicas V2
     xslt_path_DAPFV2   = r"archivos\regimenes\FisicasV2Json.DecAnuPF.xslt"
-    transformer_DAPFV2 = XSLTProcessor.parse_xslt(xslt_path_DAPFV2)
+    transformer_DAPFV2 = XSLTProcessor.parse_xslt(xslt_path_DAPFV2, "F")
 
     # Personas Morales V2
     xslt_path_DAPMV2   = r"archivos\regimenes\MoralesV2Json.DecAnuPMv2.xslt"
-    transformer_DAPMV2 = XSLTProcessor.parse_xslt(xslt_path_DAPMV2)
+    transformer_DAPMV2 = XSLTProcessor.parse_xslt(xslt_path_DAPMV2, "M")
 
 class SchemaProcessed:
     """

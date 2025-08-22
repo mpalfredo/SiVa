@@ -30,9 +30,16 @@ class XSLTProcessor:
     """
 
     @staticmethod
-    def _register_extensions():
+    def _register_extensions_DAPFV2():
         """
-        Registra funciones de extensión personalizadas usadas dentro de las hojas XSLT (namespace user).
+        Registra funciones de extensión personalizadas usadas dentro del archivo XSLT de DAPFV2 (user="urn:my-scripts").
+
+            <![CDATA[
+        public string reemplazar(string txt)
+        {
+            return txt.Replace("\\", "\\\\").Replace("\"", "\\\"").Replace("&#x2F;","/");
+        }
+            ]]>
         """
         def reemplazar(context, txt):
             if txt is None:
@@ -45,10 +52,39 @@ class XSLTProcessor:
         ns['reemplazar'] = reemplazar
 
     @staticmethod
-    def parse_xslt(xslt_path: str):
+    def _register_extensions_DAPMV2():
+        """
+        Registra funciones de extensión personalizadas usadas dentro del archivo XSLT de DAPMV2 (user="urn:my-scripts").
+
+            <![CDATA[
+        public string ChangueQuotes(string txt)
+        {
+            return txt.Replace("\"", "\\\"");
+        }
+            ]]>
+        """
+
+        def changue_quotes(context, txt):
+            if txt is None:
+                return ""
+            if isinstance(txt, list):  # si llega como lista de nodos
+                txt = "".join([
+                    t.text if hasattr(t, "text") and t.text is not None else str(t)
+                    for t in txt
+                ])
+            return txt.replace('"', '\\"')
+
+        ns = etree.FunctionNamespace("urn:my-scripts")
+        ns['ChangueQuotes'] = changue_quotes
+
+    @staticmethod
+    def parse_xslt(xslt_path: str, tipo_persona: str = None):
         """Parsea y compila el archivo XSLT."""
         # Registrar extensiones antes de compilar
-        XSLTProcessor._register_extensions() # -> OPCIONAL: Caso en que el XSLT incluye scripts C# con funciones como "reemplazar".
+        if tipo_persona and tipo_persona.upper() == "F":
+            XSLTProcessor._register_extensions_DAPFV2() # -> OPCIONAL: Caso en que el XSLT incluye scripts C# con funciones como "reemplazar".
+        elif tipo_persona and tipo_persona.upper() == "M":
+            XSLTProcessor._register_extensions_DAPMV2() # -> OPCIONAL: Caso en que el XSLT incluye scripts C# con funciones como "ChangeQuotes".
 
         with open(xslt_path, "rb") as f:
             xslt_doc = etree.parse(f)

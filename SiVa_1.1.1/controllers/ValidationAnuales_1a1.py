@@ -98,19 +98,19 @@ class ValidacionAnualesV2:
 if __name__ == "__main__":
 
     # --- Configuración de rutas: Regímenes y esquemas ---
-    xslt_path   = r"archivos\regimenes\FisicasV2Json.DecAnuPF.xslt"
-    schema_path = r"archivos\esquemas\FisicasV2Json.DecAnuPF_2022_v0.2.22.json"
+    xslt_path   = r"archivos\regimenes\MoralesV2Json.DecAnuPMv2.xslt"
+    schema_path = r"archivos\esquemas\esquema_DAPM_F18v2_RESICO_0.0.2.19.json"
 
     # --- Configuración de rutas: XML y JSON ---
-    xml_path  = r"archivos/por_validar/Anuales/FisicasV2/20220425.SOCR710403TZ6.220080160506/20220425.SOCR710403TZ6.220080160506.xml"
-    json_path = r"archivos/por_validar/Anuales/FisicasV2/20220425.SOCR710403TZ6.220080160506/20220425.SOCR710403TZ6.220080160506.json"
+    xml_path  = r"archivos/por_validar/Anuales/MoralesV2/GMD190201J86.200050114875-159/20200331.GMD190201J86.200050114875_0159_0192.xml"
+    json_path = r"archivos/por_validar/Anuales/MoralesV2/GMD190201J86.200050114875-159/20200331.GMD190201J86.200050114875.json"
 
     # --- Configuración de ruta de archivos de salida: JSON generado y XLSX ---
-    output_path = os.path.join(downloads_path(), "output_DAPF_unitaria")
+    output_path = os.path.join(downloads_path(), "output_DAPMV2_unitaria")
     os.makedirs(output_path, exist_ok=True)
 
     # --- Ejecución del flujo completo ---
-    transformer = XSLTProcessor.parse_xslt(xslt_path)
+    transformer = XSLTProcessor.parse_xslt(xslt_path, "M")
     validator = JSONFunctions.load_json(schema_path)
 
     pipeline = ValidacionAnualesV2(xml_path, json_path, output_path, transformer, validator)
