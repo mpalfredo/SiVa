@@ -8,7 +8,7 @@ from controllers.ValidationProvisionales_1a1 import ValidacionProvisionales
 
 class ValidationPadrones_prov:
     """
-    Clase que orquesta todo el flujo para carpetas que contienen subcarpetas con archivos XML y JSON.
+    Clase que orquesta el flujo completo para carpetas con archivos XML y JSON.
     """
 
     def __init__(self, xml_json_dir_path: str,
