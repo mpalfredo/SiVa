@@ -181,3 +181,5 @@ class JSONsComparator:
             print("No hay diferencias encontradas. Archivos JSON idénticos")
         else:
             print(f"Diferencias guardadas en {ruta_salida} (Total: {diffs})")
+
+        print("------------------------------------------------------")

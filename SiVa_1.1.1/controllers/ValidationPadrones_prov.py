@@ -57,7 +57,7 @@ if __name__ == "__main__":
     # schema_dir_path = r"archivos\esquemas"
 
     # --- Configuración de rutas: XML y JSON ---
-    xml_json_dir_path  = r"archivos\por_validar\Prueba_19-08-25"
+    xml_json_dir_path  = r"archivos\por_validar\Provisionales\all"
 
     # --- Configuración de ruta de archivos de salida: JSON generado y XLSX ---
     output_path = os.path.join(downloads_path(), "output_padrones_prov")

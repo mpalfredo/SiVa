@@ -1,6 +1,15 @@
 import os
 from flask import Flask, render_template, request, redirect, url_for
-from controllers.ValidationPadrones_prov import ValidationPipeline
+
+# --------- IMPORTS PARA DECLARACIONES PROVISIONALES ---------
+from controllers.ValidationPadrones_prov import ValidationPadrones_prov # Import clase para validar padrones (conjunto de declaraciones)
+from controllers.ValidationProvisionales_1a1 import ValidacionProvisionales # Import clase para validación unitaria (una sola declaración)
+
+# --------- IMPORTS PARA DECLARACIONES ANUALES ---------
+from controllers.ValidationPadrones_anuV2 import ValidationPadrones_anuV2 # Import clase para validar padrones (conjunto de declaraciones)
+from controllers.ValidationAnuales_1a1 import ValidacionAnualesV2 # Import clase para validación unitaria (una sola declaración)
+
+
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = 'uploads'
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024  # 16MB max size
@@ -29,7 +38,7 @@ def SiVa():
             os.makedirs(output_path, exist_ok=True)
 
             # --- Ejecución del flujo completo ---
-            pipeline = ValidationPipeline(xml_json_dir_path, xslt_dir_path, schema_dir_path, output_path)
+            pipeline = ValidacionProvisionales(xml_json_dir_path, xslt_dir_path, schema_dir_path, output_path)
             pipeline.run()
             # Termina proceso de conversion
             resultado = "Validacion de declaraciones Provisionales terminada correctamente!!"
@@ -48,7 +57,7 @@ def SiVa():
             os.makedirs(output_path, exist_ok=True)
 
             # --- Ejecución del flujo completo ---
-            pipeline = ValidationPipeline(xml_json_dir_path, xslt_dir_path, schema_dir_path, output_path)
+            pipeline = ValidacionProvisionales(xml_json_dir_path, xslt_dir_path, schema_dir_path, output_path)
             pipeline.run()
             # Termina proceso de conversion
             resultado = "Validacion de DAPMV2 terminada correctamente!!"

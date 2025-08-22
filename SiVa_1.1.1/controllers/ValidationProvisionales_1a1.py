@@ -116,7 +116,7 @@ if __name__ == "__main__":
     json_path = r"archivos\por_validar\Provisionales\all\EUBE561117GE4.250080000008\EUBE561117GE4.250080000008.json"
 
     # --- Configuración de ruta de archivos de salida: JSON generado y XLSX ---
-    output_path = os.path.join(downloads_path(), "output_prueba_formato")
+    output_path = os.path.join(downloads_path(), "output_unitaria_prov")
     os.makedirs(output_path, exist_ok=True)
 
     # --- Ejecución del flujo completo ---
